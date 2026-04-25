@@ -9,14 +9,27 @@
         .header { width: 100%; text-align: center; margin-bottom: 20px; }
         .main-content { flex: 3; min-width: 300px; }
         .sidebar { flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); height: fit-content; position: sticky; top: 20px;}
-        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
-        .card { background: white; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); position: relative; border-top: 4px solid #27ae60;}
-        .card h2 { margin-top: 0; font-size: 1.2em; color: #2c3e50; padding-right: 60px;}
-        .price { font-size: 1.5em; font-weight: bold; color: #27ae60; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; }
+        
+        /* Stile Card */
+        .card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: flex; flex-direction: column;}
+        .card-img { width: 100%; height: 200px; object-fit: cover; background-color: #ecf0f1; border-bottom: 3px solid #27ae60;}
+        .card-content { padding: 20px; flex-grow: 1; position: relative;}
+        .card h2 { margin-top: 0; font-size: 1.2em; color: #2c3e50; margin-bottom: 5px;}
+        .location { font-size: 0.9em; color: #7f8c8d; margin-bottom: 15px; font-weight: bold;}
+        .price { font-size: 1.5em; font-weight: bold; color: #27ae60; margin-bottom: 15px;}
         .score { display: flex; justify-content: space-between; margin: 15px 0; font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 10px;}
-        .ai-comment { background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db; font-size: 0.9em; line-height: 1.5; margin-top: 10px;}
-        .btn { display: inline-block; margin-top: 15px; padding: 10px 15px; background: #2980b9; color: white; text-decoration: none; border-radius: 5px; text-align: center; width: calc(100% - 30px); box-sizing: border-box; font-weight: bold;}
-        .badge-new { position: absolute; top: 15px; right: 15px; background: #e74c3c; color: white; padding: 5px 10px; border-radius: 20px; font-size: 0.8em; font-weight: bold; }
+        .ai-comment { background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db; font-size: 0.9em; line-height: 1.5; margin-bottom: 20px;}
+        
+        /* Bottoni */
+        .btn-group { display: flex; gap: 10px; margin-top: auto; }
+        .btn { flex: 1; padding: 10px; color: white; text-decoration: none; border-radius: 5px; text-align: center; font-weight: bold; border: none; cursor: pointer; font-size: 0.9em;}
+        .btn-link { background: #2980b9; }
+        .btn-link:hover { background: #2471a3; }
+        .btn-calc { background: #e67e22; }
+        .btn-calc:hover { background: #d35400; }
+        
+        .badge-new { position: absolute; top: 15px; right: 15px; background: #e74c3c; color: white; padding: 5px 10px; border-radius: 20px; font-size: 0.8em; font-weight: bold; z-index: 10;}
         
         /* Stili Calcolatore Mutuo */
         .calc-group { margin-bottom: 15px; }
@@ -79,30 +92,43 @@
 
                 caseOrdinate.forEach(house => {
                     const isNew = house.data_inserimento === oggi ? '<div class="badge-new">Nuovo!</div>' : '';
+                    
+                    // Se non c'è una foto nell'annuncio, usiamo un placeholder grigio elegante
+                    const imageSrc = house.image_url || 'https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&q=80';
+                    const location = house.location || 'Posizione non specificata';
+
                     const card = `
-                        <div class="card" onclick="impostaPrezzo(${house.prezzo_numerico || 125000})" style="cursor: pointer;" title="Clicca per calcolare il mutuo">
-                            ${isNew}
-                            <h2>${house.title}</h2>
-                            <div class="price">${house.price}</div>
-                            <div class="score">
-                                <span>Qualità/Prezzo: ${house.valutazione_prezzo}/10</span>
-                                <span>Match: ${house.valutazione_match}/10</span>
+                        <div class="card">
+                            <img src="${imageSrc}" class="card-img" alt="Foto Immobile" onerror="this.src='https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600'">
+                            <div class="card-content">
+                                ${isNew}
+                                <h2>${house.title}</h2>
+                                <div class="location">📍 ${location}</div>
+                                <div class="price">${house.price}</div>
+                                
+                                <div class="score">
+                                    <span>Qualità/Prezzo: ${house.valutazione_prezzo}/10</span>
+                                    <span>Match: ${house.valutazione_match}/10</span>
+                                </div>
+                                
+                                <div class="ai-comment">
+                                    <strong>Analisi AI:</strong><br>${house.commento_ai}<br><br>
+                                    <strong>Consiglio:</strong> ${house.consiglio_ribasso}
+                                </div>
+                                
+                                <div class="btn-group">
+                                    <a href="${house.link}" target="_blank" class="btn btn-link">Apri Annuncio ↗</a>
+                                    <button onclick="impostaPrezzo(${house.prezzo_numerico || 125000})" class="btn btn-calc">Simula Mutuo 📊</button>
+                                </div>
                             </div>
-                            <p style="font-size:0.9em; margin:5px 0;"><strong>Logistica:</strong> ${house.tempo_percorrenza || 'N/D'}</p>
-                            <p style="font-size:0.9em; margin:5px 0;"><strong>Sicurezza (News):</strong> ${house.sicurezza || 'N/D'}/10</p>
-                            <div class="ai-comment">
-                                <strong>Analisi AI:</strong><br>${house.commento_ai}<br><br>
-                                <strong>Consiglio:</strong> ${house.consiglio_ribasso}
-                            </div>
-                            <a href="${house.link}" target="_blank" class="btn" onclick="event.stopPropagation()">Vai all'Annuncio</a>
                         </div>
                     `;
                     container.innerHTML += card;
                 });
             })
             .catch(error => {
-                console.log('File dati non ancora generato o vuoto.');
-                document.getElementById('houses-container').innerHTML = '<p style="padding: 20px;">Nessuna casa in archivio. Attendi la prima esecuzione del motore AI.</p>';
+                console.log('File dati non ancora generato.');
+                document.getElementById('houses-container').innerHTML = '<p style="padding: 20px;">In attesa dei dati dell\'Intelligenza Artificiale...</p>';
             });
 
         function calcolaMutuo() {
@@ -130,6 +156,9 @@
         function impostaPrezzo(prezzo) {
             document.getElementById('calc-prezzo').value = prezzo;
             calcolaMutuo();
+            // Effetto visivo per far capire che il calcolatore si è aggiornato
+            document.querySelector('.sidebar').style.boxShadow = "0 0 15px rgba(230, 126, 34, 0.5)";
+            setTimeout(() => { document.querySelector('.sidebar').style.boxShadow = "0 4px 8px rgba(0,0,0,0.1)"; }, 500);
         }
 
         calcolaMutuo();
