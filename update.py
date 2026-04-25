@@ -6,7 +6,7 @@ import google.generativeai as genai
 # Configurazione API di Gemini
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash-latest')
+model = genai.GenerativeModel('gemini-pro')
 
 DATA_FILE = "data.json"
 CONFIG_FILE = "config.json"
