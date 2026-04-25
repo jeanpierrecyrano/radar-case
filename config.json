@@ -1,0 +1,13 @@
+{
+    "budget_massimo": 150000,
+    "budget_ideale": 125000,
+    "tipologia_preferita": "Villetta indipendente o bifamiliare",
+    "metratura_min_mq": 90,
+    "metratura_max_mq": 105,
+    "spazi_esterni": "Balcone richiesto, giardinetto piccolo preferibile",
+    "box_auto_richiesto": true,
+    "zona_lavoro": "Trescore Cremasco",
+    "tempo_max_auto_minuti": 30,
+    "zona_famiglia": "Sabbioni, Crema",
+    "vibe_quartiere": "Ben servito ma non caotico"
+}
