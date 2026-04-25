@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radar Immobiliare AI 🏠</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f7f6; color: #333; margin: 0; padding: 20px; display: flex; flex-wrap: wrap; gap: 20px; }
+        .header { width: 100%; text-align: center; margin-bottom: 20px; }
+        .main-content { flex: 3; min-width: 300px; }
+        .sidebar { flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); height: fit-content; position: sticky; top: 20px;}
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
+        .card { background: white; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); position: relative; border-top: 4px solid #27ae60;}
+        .card h2 { margin-top: 0; font-size: 1.2em; color: #2c3e50; padding-right: 60px;}
+        .price { font-size: 1.5em; font-weight: bold; color: #27ae60; }
+        .score { display: flex; justify-content: space-between; margin: 15px 0; font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 10px;}
+        .ai-comment { background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db; font-size: 0.9em; line-height: 1.5; margin-top: 10px;}
+        .btn { display: inline-block; margin-top: 15px; padding: 10px 15px; background: #2980b9; color: white; text-decoration: none; border-radius: 5px; text-align: center; width: calc(100% - 30px); box-sizing: border-box; font-weight: bold;}
+        .badge-new { position: absolute; top: 15px; right: 15px; background: #e74c3c; color: white; padding: 5px 10px; border-radius: 20px; font-size: 0.8em; font-weight: bold; }
+        
+        /* Stili Calcolatore Mutuo */
+        .calc-group { margin-bottom: 15px; }
+        .calc-group label { display: block; margin-bottom: 5px; font-weight: bold; font-size: 0.9em; color: #34495e;}
+        .calc-group input, .calc-group select { width: 100%; padding: 8px; border: 1px solid #bdc3c7; border-radius: 5px; box-sizing: border-box; font-size: 1em;}
+        .rata-result { font-size: 2.2em; color: #d35400; font-weight: bold; text-align: center; margin-top: 15px; }
+        .rata-label {text-align: center; font-size: 0.9em; font-weight: bold; color: #7f8c8d; text-transform: uppercase; letter-spacing: 1px;}
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Radar Immobiliare AI 🏠</h1>
+        <p>Ultimo aggiornamento: <span id="date">In attesa di avvio...</span></p>
+    </div>
+
+    <div class="main-content">
+        <div class="grid" id="houses-container">
+            </div>
+    </div>
+
+    <div class="sidebar">
+        <h2 style="margin-top: 0; color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 10px;">Simulatore Mutuo</h2>
+        <div class="calc-group">
+            <label>Prezzo Immobile (€)</label>
+            <input type="number" id="calc-prezzo" value="125000" oninput="calcolaMutuo()">
+        </div>
+        <div class="calc-group">
+            <label>Anticipo Versato (€)</label>
+            <input type="number" id="calc-anticipo" value="20000" oninput="calcolaMutuo()">
+        </div>
+        <div class="calc-group">
+            <label>Durata (Anni)</label>
+            <select id="calc-anni" onchange="calcolaMutuo()">
+                <option value="15">15 Anni</option>
+                <option value="20">20 Anni</option>
+                <option value="25" selected>25 Anni</option>
+                <option value="30">30 Anni</option>
+            </select>
+        </div>
+        <div class="calc-group">
+            <label>Tasso di Interesse Annuo (%)</label>
+            <input type="number" id="calc-tasso" value="3.20" step="0.01" oninput="calcolaMutuo()">
+        </div>
+        
+        <p style="font-size: 0.9em; color: #7f8c8d; text-align: center;">Capitale Finanziato: <strong style="color:#2c3e50;"><span id="importo-netto">105.000</span> €</strong></p>
+        <div class="rata-label">Rata Mensile Stimata</div>
+        <div class="rata-result">
+            <span id="risultato-rata">509</span> €
+        </div>
+    </div>
+
+    <script>
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('date').innerText = data.last_update;
+                const container = document.getElementById('houses-container');
+                const caseOrdinate = data.houses.sort((a, b) => b.valutazione_match - a.valutazione_match);
+                const oggi = new Date().toISOString().split('T')[0];
+
+                caseOrdinate.forEach(house => {
+                    const isNew = house.data_inserimento === oggi ? '<div class="badge-new">Nuovo!</div>' : '';
+                    const card = `
+                        <div class="card" onclick="impostaPrezzo(${house.prezzo_numerico || 125000})" style="cursor: pointer;" title="Clicca per calcolare il mutuo">
+                            ${isNew}
+                            <h2>${house.title}</h2>
+                            <div class="price">${house.price}</div>
+                            <div class="score">
+                                <span>Qualità/Prezzo: ${house.valutazione_prezzo}/10</span>
+                                <span>Match: ${house.valutazione_match}/10</span>
+                            </div>
+                            <p style="font-size:0.9em; margin:5px 0;"><strong>Logistica:</strong> ${house.tempo_percorrenza || 'N/D'}</p>
+                            <p style="font-size:0.9em; margin:5px 0;"><strong>Sicurezza (News):</strong> ${house.sicurezza || 'N/D'}/10</p>
+                            <div class="ai-comment">
+                                <strong>Analisi AI:</strong><br>${house.commento_ai}<br><br>
+                                <strong>Consiglio:</strong> ${house.consiglio_ribasso}
+                            </div>
+                            <a href="${house.link}" target="_blank" class="btn" onclick="event.stopPropagation()">Vai all'Annuncio</a>
+                        </div>
+                    `;
+                    container.innerHTML += card;
+                });
+            })
+            .catch(error => {
+                console.log('File dati non ancora generato o vuoto.');
+                document.getElementById('houses-container').innerHTML = '<p style="padding: 20px;">Nessuna casa in archivio. Attendi la prima esecuzione del motore AI.</p>';
+            });
+
+        function calcolaMutuo() {
+            const prezzo = parseFloat(document.getElementById('calc-prezzo').value) || 0;
+            const anticipo = parseFloat(document.getElementById('calc-anticipo').value) || 0;
+            const anni = parseInt(document.getElementById('calc-anni').value);
+            const tassoAnnuo = parseFloat(document.getElementById('calc-tasso').value) || 0;
+
+            const capitale = prezzo - anticipo;
+            document.getElementById('importo-netto').innerText = capitale.toLocaleString('it-IT');
+
+            if (capitale <= 0 || tassoAnnuo === 0) {
+                document.getElementById('risultato-rata').innerText = "0";
+                return;
+            }
+
+            const tassoMensile = (tassoAnnuo / 100) / 12;
+            const numeroRate = anni * 12;
+            
+            const rata = capitale * (tassoMensile * Math.pow(1 + tassoMensile, numeroRate)) / (Math.pow(1 + tassoMensile, numeroRate) - 1);
+
+            document.getElementById('risultato-rata').innerText = Math.round(rata).toLocaleString('it-IT');
+        }
+
+        function impostaPrezzo(prezzo) {
+            document.getElementById('calc-prezzo').value = prezzo;
+            calcolaMutuo();
+        }
+
+        calcolaMutuo();
+    </script>
+</body>
+</html>
