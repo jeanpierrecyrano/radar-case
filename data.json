@@ -1,5 +1,5 @@
 {
-    "last_update": "25/04/2026 22:07",
+    "last_update": "25/04/2026 22:19",
     "houses": [
         {
             "title": "Villetta bifamiliare da ristrutturare parzialmente",
@@ -14,6 +14,20 @@
             "consiglio_ribasso": "Consiglio un'offerta a 120.000 euro (-7.7%), per allinearsi al budget ideale del cliente e avere un margine per le ristrutturazioni parziali.",
             "sicurezza": 8,
             "tempo_percorrenza": "15 min in auto per Trescore",
+            "data_inserimento": "2026-04-25"
+        },
+        {
+            "title": "Villetta bifamiliare con piccolo giardino",
+            "price": "135.000 €",
+            "location": "Vailate (CR)",
+            "description": "Porzione di bifamiliare di 95mq. Soggiorno, cucina, due camere, balcone e giardinetto privato. Box auto singolo.",
+            "link": "https://www.google.it",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta una corrispondenza eccezionale con quasi tutti i parametri del cliente. La tipologia di villetta bifamiliare, la metratura di 95mq, la presenza di balcone e giardinetto privato, e il box auto singolo sono tutti elementi che si allineano perfettamente con le richieste. La posizione a Vailate è strategica, garantendo tempi di percorrenza inferiori ai 30 minuti sia per Trescore Cremasco (lavoro) che per Sabbioni/Crema (famiglia). Vailate offre inoltre un contesto tranquillo ma ben servito, in linea con il 'vibe' desiderato. Il prezzo è entro il budget massimo, anche se leggermente superiore all'ideale.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 9,
+            "prezzo_numerico": 135000,
+            "consiglio_ribasso": "Consiglio un'offerta a 128.000 €",
             "data_inserimento": "2026-04-25"
         }
     ]
