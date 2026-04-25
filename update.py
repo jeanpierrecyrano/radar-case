@@ -6,7 +6,22 @@ import google.generativeai as genai
 # Configurazione API di Gemini
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-pro')
+
+# --- RICERCA DINAMICA DEL MODELLO (La tua soluzione) ---
+modello_scelto = None
+for m in genai.list_models():
+    if 'generateContent' in m.supported_generation_methods:
+        if 'flash' in m.name or 'pro' in m.name:
+            # Estrae il nome pulito
+            modello_scelto = m.name.replace("models/", "")
+            break
+
+if not modello_scelto:
+    modello_scelto = [m.name.replace("models/", "") for m in genai.list_models() if 'generateContent' in m.supported_generation_methods][0]
+
+print(f"Modello AI selezionato in automatico: {modello_scelto}")
+model = genai.GenerativeModel(modello_scelto)
+# -------------------------------------------------------
 
 DATA_FILE = "data.json"
 CONFIG_FILE = "config.json"
