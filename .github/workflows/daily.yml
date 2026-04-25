@@ -22,7 +22,7 @@ jobs:
 
       - name: Installa le librerie
         run: |
-          pip install google-generativeai requests
+          pip install --upgrade google-generativeai requests
 
       - name: Esegui il Motore AI
         env:
