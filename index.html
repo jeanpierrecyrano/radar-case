@@ -12,24 +12,27 @@
         .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; }
         
         /* Stile Card */
-        .card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: flex; flex-direction: column;}
+        .card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: flex; flex-direction: column; position: relative;}
         .card-img { width: 100%; height: 200px; object-fit: cover; background-color: #ecf0f1; border-bottom: 3px solid #27ae60;}
         .card-content { padding: 20px; flex-grow: 1; position: relative;}
-        .card h2 { margin-top: 0; font-size: 1.2em; color: #2c3e50; margin-bottom: 5px;}
+        .card h2 { margin-top: 0; font-size: 1.2em; color: #2c3e50; margin-bottom: 5px; padding-right: 60px;}
         .location { font-size: 0.9em; color: #7f8c8d; margin-bottom: 15px; font-weight: bold;}
         .price { font-size: 1.5em; font-weight: bold; color: #27ae60; margin-bottom: 15px;}
         .score { display: flex; justify-content: space-between; margin: 15px 0; font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 10px;}
         .ai-comment { background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db; font-size: 0.9em; line-height: 1.5; margin-bottom: 20px;}
         
-        /* Bottoni */
+        /* Bottoni separati e funzionanti */
         .btn-group { display: flex; gap: 10px; margin-top: auto; }
-        .btn { flex: 1; padding: 10px; color: white; text-decoration: none; border-radius: 5px; text-align: center; font-weight: bold; border: none; cursor: pointer; font-size: 0.9em;}
+        .btn { flex: 1; padding: 10px; color: white; text-decoration: none; border-radius: 5px; text-align: center; font-weight: bold; border: none; cursor: pointer; font-size: 0.9em; transition: 0.2s;}
         .btn-link { background: #2980b9; }
         .btn-link:hover { background: #2471a3; }
         .btn-calc { background: #e67e22; }
         .btn-calc:hover { background: #d35400; }
         
-        .badge-new { position: absolute; top: 15px; right: 15px; background: #e74c3c; color: white; padding: 5px 10px; border-radius: 20px; font-size: 0.8em; font-weight: bold; z-index: 10;}
+        /* Badge speciali */
+        .badge { position: absolute; padding: 5px 10px; border-radius: 20px; font-size: 0.8em; font-weight: bold; z-index: 10;}
+        .badge-new { top: 15px; right: 15px; background: #e74c3c; color: white; }
+        .badge-render-ai { bottom: 15px; right: 15px; background: rgba(231, 76, 60, 0.8); color: white; font-size: 0.7em; }
         
         /* Stili Calcolatore Mutuo */
         .calc-group { margin-bottom: 15px; }
@@ -91,14 +94,26 @@
                 const oggi = new Date().toISOString().split('T')[0];
 
                 caseOrdinate.forEach(house => {
-                    const isNew = house.data_inserimento === oggi ? '<div class="badge-new">Nuovo!</div>' : '';
+                    const isNew = house.data_inserimento === oggi ? '<div class="badge badge-new">Nuovo!</div>' : '';
                     
-                    // Se non c'è una foto nell'annuncio, usiamo un placeholder grigio elegante
-                    const imageSrc = house.image_url || 'https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600&q=80';
+                    // --- LOGICA RIPIEGO FOTO E INDIRIZZO MAPPA ---
+                    // Fix Indirizzo Mappa per la simulazione (indirizzo fittizio a Trescore o Capralba)
+                    const search_location = encodeURIComponent(house.location + ", " + house.title.substring(0, 10));
+                    const mapLink = `https://www.google.it/maps/search/${search_location}`;
+
                     const location = house.location || 'Posizione non specificata';
+                    
+                    // --- LOGICA ETICHETTA RENDER AI ---
+                    const aiRenderBadge = house.is_ai_render ? '<div class="badge badge-render-ai">⚠️ Rendering AI (Concettuale)</div>' : '';
+                    const imageSrc = house.image_url || 'https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600'; // Fallback grigio elegante
+                    
+                    // --- Fix Link in Simulazione (cerchiamo direttamente su GMaps) ---
+                    const functionalLink = mapLink; 
+                    // -----------------------------
 
                     const card = `
                         <div class="card">
+                            ${aiRenderBadge}
                             <img src="${imageSrc}" class="card-img" alt="Foto Immobile" onerror="this.src='https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600'">
                             <div class="card-content">
                                 ${isNew}
@@ -112,12 +127,12 @@
                                 </div>
                                 
                                 <div class="ai-comment">
-                                    <strong>Analisi AI:</strong><br>${house.commento_ai}<br><br>
+                                    <strong>Analisi AI:</strong><br>${house.commento_ai.substring(0, 180)}...<br><br>
                                     <strong>Consiglio:</strong> ${house.consiglio_ribasso}
                                 </div>
                                 
                                 <div class="btn-group">
-                                    <a href="${house.link}" target="_blank" class="btn btn-link">Apri Annuncio ↗</a>
+                                    <a href="${functionalLink}" target="_blank" class="btn btn-link">Apri Test Link ↗</a>
                                     <button onclick="impostaPrezzo(${house.prezzo_numerico || 125000})" class="btn btn-calc">Simula Mutuo 📊</button>
                                 </div>
                             </div>
@@ -127,7 +142,7 @@
                 });
             })
             .catch(error => {
-                console.log('File dati non ancora generato.');
+                console.log('File dati non ancora generato o errore.');
                 document.getElementById('houses-container').innerHTML = '<p style="padding: 20px;">In attesa dei dati dell\'Intelligenza Artificiale...</p>';
             });
 
@@ -156,12 +171,15 @@
         function impostaPrezzo(prezzo) {
             document.getElementById('calc-prezzo').value = prezzo;
             calcolaMutuo();
-            // Effetto visivo per far capire che il calcolatore si è aggiornato
-            document.querySelector('.sidebar').style.boxShadow = "0 0 15px rgba(230, 126, 34, 0.5)";
-            setTimeout(() => { document.querySelector('.sidebar').style.boxShadow = "0 4px 8px rgba(0,0,0,0.1)"; }, 500);
+            const sidebar = document.querySelector('.sidebar');
+            sidebar.style.boxShadow = "0 0 15px rgba(230, 126, 34, 0.5)";
+            setTimeout(() => { sidebar.style.boxShadow = "0 4px 8px rgba(0,0,0,0.1)"; }, 500);
         }
 
         calcolaMutuo();
     </script>
 </body>
 </html>
+
+
+    
