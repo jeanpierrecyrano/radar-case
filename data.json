@@ -1,5 +1,5 @@
 {
-    "last_update": "26/04/2026 08:45",
+    "last_update": "26/04/2026 11:31",
     "houses": [
         {
             "title": "Villetta bifamiliare da ristrutturare parzialmente",
@@ -29,6 +29,20 @@
             "prezzo_numerico": 135000,
             "consiglio_ribasso": "Consiglio un'offerta a 128.000 €",
             "data_inserimento": "2026-04-25"
+        },
+        {
+            "title": "Villetta bifamiliare a Trescore",
+            "price": "140.000 €",
+            "location": "Trescore Cremasco (CR)",
+            "description": "Recente porzione di bifamiliare su due livelli di 98mq. Soggiorno, cucina abitabile, due camere, balcone vivibile e giardinetto privato recintato. Box auto singolo incluso.",
+            "image_url": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=600&q=80",
+            "is_ai_render": false,
+            "commento_ai": "Questa villetta bifamiliare a Trescore Cremasco si presenta come un'opportunità quasi perfetta per il cliente. La tipologia (bifamiliare), la metratura (98mq) e gli spazi esterni (balcone vivibile e giardinetto privato) corrispondono pienamente a quanto richiesto, inclusa la presenza del box auto. La posizione è ideale, trovandosi esattamente nella zona di lavoro del cliente e a brevissima distanza (ben entro i 30 minuti) dalla zona familiare a Crema. Il quartiere di Trescore Cremasco si adatta bene al desiderio di un ambiente ben servito ma non caotico. Il prezzo, sebbene leggermente superiore al budget ideale, rientra comodamente nel budget massimo consentito, rendendola un'opzione estremamente valida. Il fatto che sia una costruzione 'recente' aggiunge ulteriore valore all'offerta.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 9,
+            "prezzo_numerico": 140000,
+            "consiglio_ribasso": "Data l'eccezionale corrispondenza con quasi tutti i parametri del cliente e il prezzo già competitivo per una bifamiliare 'recente' con queste caratteristiche e posizione, si potrebbe tentare un'offerta a 135.000 €. Tuttavia, non si consiglia un ribasso troppo aggressivo per non rischiare di perdere un'opportunità così ben allineata alle esigenze.",
+            "data_inserimento": "2026-04-26"
         }
     ]
 }
