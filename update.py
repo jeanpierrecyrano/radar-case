@@ -1,13 +1,19 @@
 import os
 import json
 import datetime
+import imaplib
+import email
+from bs4 import BeautifulSoup
 import google.generativeai as genai
 
-# Configurazione API
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-genai.configure(api_key=GEMINI_API_KEY)
+# Configurazione API Gemini
+genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 
-# --- RICERCA DINAMICA DEL MODELLO ---
+# Credenziali Gmail
+GMAIL_USER = os.environ.get("GMAIL_USER")
+GMAIL_PASS = os.environ.get("GMAIL_PASS")
+
+# --- RICERCA DINAMICA MODELLO ---
 modello_scelto = None
 try:
     for m in genai.list_models():
@@ -18,35 +24,57 @@ try:
     if not modello_scelto:
         modello_scelto = [m.name.replace("models/", "") for m in genai.list_models() if 'generateContent' in m.supported_generation_methods][0]
 except Exception:
-    modello_scelto = "gemini-1.5-flash" # Fallback
+    modello_scelto = "gemini-1.5-flash"
 
-print(f"Modello AI selezionato in automatico: {modello_scelto}")
+print(f"Modello AI: {modello_scelto}")
 model = genai.GenerativeModel(modello_scelto)
-# ------------------------------------
+# --------------------------------
 
 DATA_FILE = "data.json"
 CONFIG_FILE = "config.json"
 
-def get_real_estate_data():
-    # Simulazione di due annunci: uno CON FOTO REALE, uno SENZA (che userà il render AI)
-    return [
-        {
-            "title": "Villetta bifamiliare a Trescore",
-            "price": "140.000 €",
-            "location": "Trescore Cremasco (CR)",
-            "description": "Recente porzione di bifamiliare su due livelli di 98mq. Soggiorno, cucina abitabile, due camere, balcone vivibile e giardinetto privato recintato. Box auto singolo incluso.",
-            # URL DI UNA FOTO REALE DI REPERTORIO
-            "image_url": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=600&q=80" 
-        },
-        {
-            "title": "Porzione di rustico da ristrutturare",
-            "price": "85.000 €",
-            "location": "Capralba (vicino Crema)",
-            "description": "In centro storico, porzione di rustico indipendente di 110mq su tre livelli, con travi a vista originali, caminetto in pietra. Include un cortile privato di 30mq. Da ristrutturare completamente.",
-            # IMMAGINE VUOTA PER FORZARE IL RENDER AI
-            "image_url": "" 
-        }
-    ]
+def get_emails():
+    print("Connessione a Gmail in corso...")
+    try:
+        mail = imaplib.IMAP4_SSL("imap.gmail.com")
+        mail.login(GMAIL_USER, GMAIL_PASS)
+        mail.select("inbox")
+
+        # Cerca tutte le email NON lette
+        status, messages = mail.search(None, "UNSEEN")
+        email_ids = messages[0].split()
+        
+        email_texts = []
+        for e_id in email_ids:
+            status, msg_data = mail.fetch(e_id, "(RFC822)")
+            for response_part in msg_data:
+                if isinstance(response_part, tuple):
+                    msg = email.message_from_bytes(response_part[1])
+                    body = ""
+                    
+                    if msg.is_multipart():
+                        for part in msg.walk():
+                            content_type = part.get_content_type()
+                            if content_type == "text/html":
+                                html_body = part.get_payload(decode=True).decode(errors='ignore')
+                                soup = BeautifulSoup(html_body, 'html.parser')
+                                body += soup.get_text(separator=' ', strip=True)
+                                
+                                # Proviamo a estrarre i link manualmente per sicurezza
+                                for a in soup.find_all('a', href=True):
+                                    if "immobiliare.it/annunci" in a['href'] or "idealista.it/immobile" in a['href']:
+                                        body += f" [LINK TROVATO: {a['href']}] "
+                    else:
+                        body = msg.get_payload(decode=True).decode(errors='ignore')
+                        
+                    if len(body) > 50:
+                        email_texts.append(body)
+        
+        mail.logout()
+        return email_texts
+    except Exception as e:
+        print(f"Errore Gmail: {e}")
+        return []
 
 def load_config():
     with open(CONFIG_FILE, "r", encoding="utf-8") as f:
@@ -61,74 +89,71 @@ def load_existing_data():
                 return []
     return []
 
-# --- NUOVA FUNZIONE PER SIMULARE UN RENDER AI ---
-def simula_generazione_immagine_ai(house):
-    # Costruiamo un prompt fotografico iper-dettagliato basato sulla descrizione
-    # Nota: In un'app reale, questo prompt verrebbe inviato a DALL-E 3 o Stability AI
-    prompt_fotografico = f"""photorealistic wide photo of a {house['description'].substring(0, 100)} located in {house['location']}, captured as a high-quality, professional real estate listing photograph in Cremona, Italy, with detailed textures and natural lighting"""
-    
-    # Per questa simulazione, dato che non possiamo chiamare API esterne,
-    # restituiamo un'immagine ipotetica generata da un prompt perfetto.
-    # In una versione live, qui verrebbe inserito l'URL restituito dall'API di generazione immagini.
-    return "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80" # Foto di prova (che contrassegneremo come render)
-
-def analyze_house_with_ai(house, config):
+def analyze_email_with_ai(email_text, config):
     prompt = f"""
-    Sei un consulente immobiliare. Valuta questo annuncio:
-    Titolo: {house['title']} | Prezzo: {house['price']} | Posizione: {house['location']}
-    Descrizione: {house['description']}
+    Sei un estrattore e valutatore immobiliare. Qui sotto c'è il testo grezzo estratto da un'email di avviso immobiliare.
+    Il tuo compito è analizzare il testo, capire di che casa si tratta ed estrarre i dati. 
+    Se l'email non contiene annunci di case, restituisci esattamente la stringa "NULL".
 
-    I parametri del cliente sono:
-    {json.dumps(config, ensure_ascii=False, indent=2)}
+    Testo Email:
+    {email_text[:6000]}
 
-    Fornisci la risposta SOLO in JSON valido:
+    Parametri Cliente:
+    {json.dumps(config, ensure_ascii=False)}
+
+    Se trovi un annuncio valido, valuta il rapporto qualità prezzo e il match con i parametri, poi rispondi SOLO in questo JSON valido:
     {{
-        "commento_ai": "Il tuo giudizio critico.",
+        "title": "Titolo annuncio o tipo di casa (es. Villetta a schiera)",
+        "price": "Prezzo formattato (es. 150.000 €)",
+        "prezzo_numerico": 150000,
+        "location": "Paese o Città trovata",
+        "description": "Riassunto della casa estratto dall'email",
+        "link": "Il link URL esatto dell'annuncio trovato nel testo",
+        "image_url": "",
+        "commento_ai": "La tua valutazione critica logistica e strutturale",
         "valutazione_prezzo": 8,
         "valutazione_match": 9,
-        "prezzo_numerico": 140000,
-        "consiglio_ribasso": "Consiglio un'offerta a..."
+        "consiglio_ribasso": "Consiglio un'offerta a X...",
+        "is_ai_render": true
     }}
     """
     
     try:
         response = model.generate_content(prompt)
         testo_pulito = response.text.replace("```json", "").replace("```", "").strip()
+        
+        if "NULL" in testo_pulito.upper() or len(testo_pulito) < 20:
+            return None
+            
         analisi = json.loads(testo_pulito)
         analisi["data_inserimento"] = datetime.datetime.now().strftime("%Y-%m-%d")
         
-        # --- LOGICA DI RIPIEGO RENDER AI ---
-        # Se non c'è una foto reale, generiamo il render AI
-        if not house.get("image_url"):
-            print(f"Nessuna foto trovata per {house['title']}, generazione render AI...")
-            house["image_url"] = simula_generazione_immagine_ai(house)
-            house["is_ai_render"] = True # Etichetta speciale
-        else:
-            house["is_ai_render"] = False # È una foto reale
+        if not analisi.get("image_url"):
+            # Generiamo il render come concordato
+            analisi["image_url"] = "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80"
+            analisi["is_ai_render"] = True
             
-        return {**house, **analisi}
+        return analisi
     except Exception as e:
-        print(f"Errore AI: {e}")
+        print(f"Errore parsing AI: {e}")
         return None
 
 def main():
     config = load_config()
     existing_houses = load_existing_data()
-    existing_titles = {h["title"] for h in existing_houses} # Usiamo il titolo per i duplicati in simulazione
+    existing_links = {h.get("link") for h in existing_houses if h.get("link")}
     
-    new_scraped_houses = get_real_estate_data()
-    houses_to_analyze = [h for h in new_scraped_houses if h["title"] not in existing_titles]
-    
-    print(f"Trovati {len(houses_to_analyze)} nuovi annunci da analizzare.")
+    email_texts = get_emails()
+    print(f"Trovate {len(email_texts)} nuove email da leggere.")
     
     analyzed_houses = []
-    for house in houses_to_analyze:
-        print(f"Analizzando: {house['title']}")
-        result = analyze_house_with_ai(house, config)
-        if result:
+    for text in email_texts:
+        result = analyze_email_with_ai(text, config)
+        if result and result.get("link") not in existing_links:
             analyzed_houses.append(result)
+            print(f"Annuncio valido trovato e valutato: {result.get('title')}")
             
-    all_houses = existing_houses + analyzed_houses
+    all_houses = analyzed_houses + existing_houses 
     
     output = {
         "last_update": datetime.datetime.now().strftime("%d/%m/%Y %H:%M"),
