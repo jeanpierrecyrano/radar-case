@@ -40,17 +40,21 @@ def get_emails():
         mail.login(GMAIL_USER, GMAIL_PASS)
         mail.select("inbox")
 
-        # Cerca tutte le email NON lette
         status, messages = mail.search(None, "UNSEEN")
+        if not messages[0]:
+            print("Nessuna nuova email da leggere.")
+            return []
+            
         email_ids = messages[0].split()
-        
         email_texts = []
+        
         for e_id in email_ids:
             status, msg_data = mail.fetch(e_id, "(RFC822)")
             for response_part in msg_data:
                 if isinstance(response_part, tuple):
                     msg = email.message_from_bytes(response_part[1])
                     body = ""
+                    link_estratti = [] # Lista per i link blindati
                     
                     if msg.is_multipart():
                         for part in msg.walk():
@@ -60,15 +64,19 @@ def get_emails():
                                 soup = BeautifulSoup(html_body, 'html.parser')
                                 body += soup.get_text(separator=' ', strip=True)
                                 
-                                # Proviamo a estrarre i link manualmente per sicurezza
+                                # FILTRO ANTI-MAPPE: Peschiamo solo i veri indirizzi HTTP degli annunci
+                                domini_validi = ["immobiliare.it/annunci", "idealista.it/immobile", "casa.it/immobile", "subito.it/appartamenti", "subito.it/ville"]
                                 for a in soup.find_all('a', href=True):
-                                    if "immobiliare.it/annunci" in a['href'] or "idealista.it/immobile" in a['href']:
-                                        body += f" [LINK TROVATO: {a['href']}] "
+                                    href = a['href']
+                                    if any(dominio in href for dominio in domini_validi) and "agenzie" not in href:
+                                        link_estratti.append(href)
                     else:
                         body = msg.get_payload(decode=True).decode(errors='ignore')
                         
                     if len(body) > 50:
-                        email_texts.append(body)
+                        # Passiamo all'AI il testo e i link corretti forzati
+                        testo_finale = body + "\n\n--- INDIRIZZI HTTP ORIGINALI TROVATI ---\n" + "\n".join(link_estratti)
+                        email_texts.append(testo_finale)
         
         mail.logout()
         return email_texts
@@ -91,9 +99,9 @@ def load_existing_data():
 
 def analyze_email_with_ai(email_text, config):
     prompt = f"""
-    Sei un estrattore e valutatore immobiliare. Qui sotto c'è il testo grezzo estratto da un'email di avviso immobiliare.
-    Il tuo compito è analizzare il testo, capire di che casa si tratta ed estrarre i dati. 
-    Se l'email non contiene annunci di case, restituisci esattamente la stringa "NULL".
+    Sei un estrattore e valutatore immobiliare. Qui sotto c'è il testo estratto da un'email.
+    Il tuo compito è analizzare il testo ed estrarre i dati della casa. 
+    Se l'email NON contiene annunci di case, restituisci esattamente la stringa "NULL".
 
     Testo Email:
     {email_text[:6000]}
@@ -101,16 +109,16 @@ def analyze_email_with_ai(email_text, config):
     Parametri Cliente:
     {json.dumps(config, ensure_ascii=False)}
 
-    Se trovi un annuncio valido, valuta il rapporto qualità prezzo e il match con i parametri, poi rispondi SOLO in questo JSON valido:
+    Rispondi SOLO in questo JSON valido:
     {{
-        "title": "Titolo annuncio o tipo di casa (es. Villetta a schiera)",
+        "title": "Titolo annuncio (es. Villetta a schiera)",
         "price": "Prezzo formattato (es. 150.000 €)",
         "prezzo_numerico": 150000,
         "location": "Paese o Città trovata",
         "description": "Riassunto della casa estratto dall'email",
-        "link": "Il link URL esatto dell'annuncio trovato nel testo",
+        "link": "DEVI INSERIRE QUI SOLO L'INDIRIZZO HTTP PRESENTE NELLA SEZIONE 'INDIRIZZI HTTP ORIGINALI TROVATI'. È ASSOLUTAMENTE VIETATO INSERIRE LINK A GOOGLE MAPS.",
         "image_url": "",
-        "commento_ai": "La tua valutazione critica logistica e strutturale",
+        "commento_ai": "La tua valutazione logistica",
         "valutazione_prezzo": 8,
         "valutazione_match": 9,
         "consiglio_ribasso": "Consiglio un'offerta a X...",
@@ -129,7 +137,6 @@ def analyze_email_with_ai(email_text, config):
         analisi["data_inserimento"] = datetime.datetime.now().strftime("%Y-%m-%d")
         
         if not analisi.get("image_url"):
-            # Generiamo il render come concordato
             analisi["image_url"] = "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80"
             analisi["is_ai_render"] = True
             
@@ -141,6 +148,7 @@ def analyze_email_with_ai(email_text, config):
 def main():
     config = load_config()
     existing_houses = load_existing_data()
+    # Usiamo il link per capire se abbiamo già valutato questa casa
     existing_links = {h.get("link") for h in existing_houses if h.get("link")}
     
     email_texts = get_emails()
@@ -149,9 +157,9 @@ def main():
     analyzed_houses = []
     for text in email_texts:
         result = analyze_email_with_ai(text, config)
-        if result and result.get("link") not in existing_links:
+        if result and result.get("link") and result.get("link") not in existing_links:
             analyzed_houses.append(result)
-            print(f"Annuncio valido trovato e valutato: {result.get('title')}")
+            print(f"Annuncio valido salvato: {result.get('title')}")
             
     all_houses = analyzed_houses + existing_houses 
     
@@ -165,3 +173,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    
