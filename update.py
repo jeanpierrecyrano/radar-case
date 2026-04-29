@@ -9,7 +9,7 @@ import google.generativeai as genai
 # Configurazione API Gemini
 genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 
-# Credenziali Gmail
+# Credenziali Gmail (prelevate dai Secrets di GitHub)
 GMAIL_USER = os.environ.get("GMAIL_USER")
 GMAIL_PASS = os.environ.get("GMAIL_PASS")
 
@@ -26,7 +26,7 @@ try:
 except Exception:
     modello_scelto = "gemini-1.5-flash"
 
-print(f"Modello AI: {modello_scelto}")
+print(f"Modello AI selezionato: {modello_scelto}")
 model = genai.GenerativeModel(modello_scelto)
 # --------------------------------
 
@@ -40,9 +40,10 @@ def get_emails():
         mail.login(GMAIL_USER, GMAIL_PASS)
         mail.select("inbox")
 
+        # Cerca solo le email NON LETTE
         status, messages = mail.search(None, "UNSEEN")
         if not messages[0]:
-            print("Nessuna nuova email da leggere.")
+            print("Nessuna nuova email non letta trovata.")
             return []
             
         email_ids = messages[0].split()
@@ -54,7 +55,7 @@ def get_emails():
                 if isinstance(response_part, tuple):
                     msg = email.message_from_bytes(response_part[1])
                     body = ""
-                    link_estratti = [] # Lista per i link blindati
+                    link_estratti = []
                     
                     if msg.is_multipart():
                         for part in msg.walk():
@@ -64,24 +65,25 @@ def get_emails():
                                 soup = BeautifulSoup(html_body, 'html.parser')
                                 body += soup.get_text(separator=' ', strip=True)
                                 
-                                # FILTRO ANTI-MAPPE: Peschiamo solo i veri indirizzi HTTP degli annunci
-                                domini_validi = ["immobiliare.it/annunci", "idealista.it/immobile", "casa.it/immobile", "subito.it/appartamenti", "subito.it/ville"]
+                                # FILTRO AGGIORNATO: Più flessibile per catturare i link di reindirizzamento
+                                domini_validi = ["immobiliare.it", "idealista.it", "casa.it", "subito.it"]
                                 for a in soup.find_all('a', href=True):
                                     href = a['href']
-                                    if any(dominio in href for dominio in domini_validi) and "agenzie" not in href:
+                                    # Accetta i link dei domini scelti, ma scarta mappe e pagine generiche agenzie
+                                    if any(dominio in href for dominio in domini_validi) and "agenzie" not in href and "maps" not in href:
                                         link_estratti.append(href)
                     else:
                         body = msg.get_payload(decode=True).decode(errors='ignore')
                         
                     if len(body) > 50:
-                        # Passiamo all'AI il testo e i link corretti forzati
-                        testo_finale = body + "\n\n--- INDIRIZZI HTTP ORIGINALI TROVATI ---\n" + "\n".join(link_estratti)
-                        email_texts.append(testo_finale)
+                        # Uniamo il testo dell'email alla lista dei link "puliti" trovati
+                        testo_per_ai = body + "\n\n--- LINK DIRETTI TROVATI NELL'EMAIL ---\n" + "\n".join(list(set(link_estratti)))
+                        email_texts.append(testo_per_ai)
         
         mail.logout()
         return email_texts
     except Exception as e:
-        print(f"Errore Gmail: {e}")
+        print(f"Errore durante l'accesso a Gmail: {e}")
         return []
 
 def load_config():
@@ -99,29 +101,28 @@ def load_existing_data():
 
 def analyze_email_with_ai(email_text, config):
     prompt = f"""
-    Sei un estrattore e valutatore immobiliare. Qui sotto c'è il testo estratto da un'email.
-    Il tuo compito è analizzare il testo ed estrarre i dati della casa. 
-    Se l'email NON contiene annunci di case, restituisci esattamente la stringa "NULL".
+    Sei un consulente immobiliare esperto. Analizza il testo di questa email e identifica l'annuncio della casa.
+    Se il testo non contiene un annuncio di una casa in vendita, rispondi solo "NULL".
 
-    Testo Email:
-    {email_text[:6000]}
+    Testo da analizzare:
+    {email_text[:7000]}
 
-    Parametri Cliente:
+    Parametri di ricerca del cliente:
     {json.dumps(config, ensure_ascii=False)}
 
-    Rispondi SOLO in questo JSON valido:
+    Restituisci i dati estratti ESCLUSIVAMENTE in questo formato JSON:
     {{
-        "title": "Titolo annuncio (es. Villetta a schiera)",
-        "price": "Prezzo formattato (es. 150.000 €)",
-        "prezzo_numerico": 150000,
-        "location": "Paese o Città trovata",
-        "description": "Riassunto della casa estratto dall'email",
-        "link": "DEVI INSERIRE QUI SOLO L'INDIRIZZO HTTP PRESENTE NELLA SEZIONE 'INDIRIZZI HTTP ORIGINALI TROVATI'. È ASSOLUTAMENTE VIETATO INSERIRE LINK A GOOGLE MAPS.",
+        "title": "Titolo descrittivo dell'immobile",
+        "price": "Prezzo esatto (es. 145.000 €)",
+        "prezzo_numerico": 145000,
+        "location": "Comune o zona (es. Trescore Cremasco)",
+        "description": "Breve riassunto dei dettagli principali",
+        "link": "DEVI estrarre l'indirizzo web dell'annuncio dalla sezione LINK DIRETTI TROVATI. Ignora i link a mappe o siti esterni.",
         "image_url": "",
-        "commento_ai": "La tua valutazione logistica",
-        "valutazione_prezzo": 8,
-        "valutazione_match": 9,
-        "consiglio_ribasso": "Consiglio un'offerta a X...",
+        "commento_ai": "Tuo parere professionale basato sui parametri del cliente",
+        "valutazione_prezzo": 1-10,
+        "valutazione_match": 1-10,
+        "consiglio_ribasso": "Suggerimento sulla trattativa",
         "is_ai_render": true
     }}
     """
@@ -130,37 +131,40 @@ def analyze_email_with_ai(email_text, config):
         response = model.generate_content(prompt)
         testo_pulito = response.text.replace("```json", "").replace("```", "").strip()
         
-        if "NULL" in testo_pulito.upper() or len(testo_pulito) < 20:
+        if "NULL" in testo_pulito.upper() or len(testo_pulito) < 30:
             return None
             
         analisi = json.loads(testo_pulito)
         analisi["data_inserimento"] = datetime.datetime.now().strftime("%Y-%m-%d")
         
+        # Gestione immagine di fallback (Render AI)
         if not analisi.get("image_url"):
             analisi["image_url"] = "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80"
             analisi["is_ai_render"] = True
             
         return analisi
     except Exception as e:
-        print(f"Errore parsing AI: {e}")
+        print(f"Errore durante l'analisi AI: {e}")
         return None
 
 def main():
     config = load_config()
     existing_houses = load_existing_data()
-    # Usiamo il link per capire se abbiamo già valutato questa casa
+    # Identifichiamo le case già presenti per non creare duplicati
     existing_links = {h.get("link") for h in existing_houses if h.get("link")}
     
     email_texts = get_emails()
-    print(f"Trovate {len(email_texts)} nuove email da leggere.")
+    print(f"Nuove email analizzabili: {len(email_texts)}")
     
     analyzed_houses = []
     for text in email_texts:
         result = analyze_email_with_ai(text, config)
+        # Salviamo solo se l'AI ha trovato un annuncio e se non lo abbiamo già in archivio
         if result and result.get("link") and result.get("link") not in existing_links:
             analyzed_houses.append(result)
-            print(f"Annuncio valido salvato: {result.get('title')}")
+            print(f"Nuovo annuncio identificato: {result.get('title')} a {result.get('location')}")
             
+    # Le nuove case appaiono per prime
     all_houses = analyzed_houses + existing_houses 
     
     output = {
@@ -170,8 +174,8 @@ def main():
     
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=4)
+    print("Aggiornamento data.json completato.")
 
 if __name__ == "__main__":
     main()
-
     
