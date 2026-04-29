@@ -5,6 +5,7 @@ import imaplib
 import email
 from bs4 import BeautifulSoup
 import google.generativeai as genai
+import time  # <-- Aggiunto per gestire le pause
 
 # Configurazione API Gemini
 genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
@@ -159,10 +160,18 @@ def main():
     analyzed_houses = []
     for text in email_texts:
         result = analyze_email_with_ai(text, config)
+        
         # Salviamo solo se l'AI ha trovato un annuncio e se non lo abbiamo già in archivio
         if result and result.get("link") and result.get("link") not in existing_links:
             analyzed_houses.append(result)
             print(f"Nuovo annuncio identificato: {result.get('title')} a {result.get('location')}")
+            
+        # --- PAUSA STRATEGICA ---
+        # Ferma lo script per 15 secondi tra un'email e l'altra per non superare 
+        # i limiti della quota gratuita di Google Gemini API
+        print("Pausa di 15 secondi per rispettare i limiti di Google...")
+        time.sleep(15)
+        # ------------------------
             
     # Le nuove case appaiono per prime
     all_houses = analyzed_houses + existing_houses 
@@ -178,4 +187,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
