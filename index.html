@@ -11,7 +11,6 @@
         .sidebar { flex: 1; min-width: 300px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); height: fit-content; position: sticky; top: 20px;}
         .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; }
         
-        /* Stile Card */
         .card { background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: flex; flex-direction: column; position: relative;}
         .card-img { width: 100%; height: 200px; object-fit: cover; background-color: #ecf0f1; border-bottom: 3px solid #27ae60;}
         .card-content { padding: 20px; flex-grow: 1; position: relative;}
@@ -21,7 +20,6 @@
         .score { display: flex; justify-content: space-between; margin: 15px 0; font-weight: bold; border-bottom: 1px solid #eee; padding-bottom: 10px;}
         .ai-comment { background: #f8f9fa; padding: 10px; border-left: 4px solid #3498db; font-size: 0.9em; line-height: 1.5; margin-bottom: 20px;}
         
-        /* Bottoni separati e funzionanti */
         .btn-group { display: flex; gap: 10px; margin-top: auto; }
         .btn { flex: 1; padding: 10px; color: white; text-decoration: none; border-radius: 5px; text-align: center; font-weight: bold; border: none; cursor: pointer; font-size: 0.9em; transition: 0.2s;}
         .btn-link { background: #2980b9; }
@@ -29,12 +27,10 @@
         .btn-calc { background: #e67e22; }
         .btn-calc:hover { background: #d35400; }
         
-        /* Badge speciali */
         .badge { position: absolute; padding: 5px 10px; border-radius: 20px; font-size: 0.8em; font-weight: bold; z-index: 10;}
         .badge-new { top: 15px; right: 15px; background: #e74c3c; color: white; }
         .badge-render-ai { bottom: 15px; right: 15px; background: rgba(231, 76, 60, 0.8); color: white; font-size: 0.7em; }
         
-        /* Stili Calcolatore Mutuo */
         .calc-group { margin-bottom: 15px; }
         .calc-group label { display: block; margin-bottom: 5px; font-weight: bold; font-size: 0.9em; color: #34495e;}
         .calc-group input, .calc-group select { width: 100%; padding: 8px; border: 1px solid #bdc3c7; border-radius: 5px; box-sizing: border-box; font-size: 1em;}
@@ -95,21 +91,12 @@
 
                 caseOrdinate.forEach(house => {
                     const isNew = house.data_inserimento === oggi ? '<div class="badge badge-new">Nuovo!</div>' : '';
-                    
-                    // --- LOGICA RIPIEGO FOTO E INDIRIZZO MAPPA ---
-                    // Fix Indirizzo Mappa per la simulazione (indirizzo fittizio a Trescore o Capralba)
-                    const search_location = encodeURIComponent(house.location + ", " + house.title.substring(0, 10));
-                    const mapLink = `https://www.google.it/maps/search/${search_location}`;
-
                     const location = house.location || 'Posizione non specificata';
+                    const aiRenderBadge = house.is_ai_render ? '<div class="badge badge-render-ai">⚠️ Rendering AI</div>' : '';
+                    const imageSrc = house.image_url || 'https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600'; 
                     
-                    // --- LOGICA ETICHETTA RENDER AI ---
-                    const aiRenderBadge = house.is_ai_render ? '<div class="badge badge-render-ai">⚠️ Rendering AI (Concettuale)</div>' : '';
-                    const imageSrc = house.image_url || 'https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=600'; // Fallback grigio elegante
-                    
-                    // --- Fix Link in Simulazione (cerchiamo direttamente su GMaps) ---
-                    const functionalLink = mapLink; 
-                    // -----------------------------
+                    // --- IL LINK ORA PUNTA SEMPRE E SOLO ALL'INDIRIZZO HTTP ORIGINALE ---
+                    const annuncioLink = house.link || '#';
 
                     const card = `
                         <div class="card">
@@ -127,12 +114,12 @@
                                 </div>
                                 
                                 <div class="ai-comment">
-                                    <strong>Analisi AI:</strong><br>${house.commento_ai.substring(0, 180)}...<br><br>
-                                    <strong>Consiglio:</strong> ${house.consiglio_ribasso}
+                                    <strong>Analisi AI:</strong><br>${(house.commento_ai || '').substring(0, 180)}...<br><br>
+                                    <strong>Consiglio:</strong> ${house.consiglio_ribasso || ''}
                                 </div>
                                 
                                 <div class="btn-group">
-                                    <a href="${functionalLink}" target="_blank" class="btn btn-link">Apri Test Link ↗</a>
+                                    <a href="${annuncioLink}" target="_blank" class="btn btn-link">Vai all'Annuncio ↗</a>
                                     <button onclick="impostaPrezzo(${house.prezzo_numerico || 125000})" class="btn btn-calc">Simula Mutuo 📊</button>
                                 </div>
                             </div>
@@ -180,6 +167,3 @@
     </script>
 </body>
 </html>
-
-
-    
