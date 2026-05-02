@@ -1,6 +1,21 @@
 {
-    "last_update": "01/05/2026 10:14",
+    "last_update": "02/05/2026 08:55",
     "houses": [
+        {
+            "title": "Trilocale ristrutturatissimo a Crespiatica",
+            "price": "115.000 €",
+            "prezzo_numerico": 115000,
+            "location": "Crespiatica",
+            "description": "Trilocale ristrutturatissimo e termoautonomo di 87 m², con 3 locali e salone con cucina, situato al piano terra. Proposto da IM. CREMA.",
+            "link": "https://www.idealista.it/immobile/35167826/?utm_medium=email&utm_campaign=daily_suggestions_oneSearch&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-05-02T104428&utm_link=propertyRecommendedLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertSuggestionsOneSearch&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=5a6c2d6d-0776-4bc9-a3bc-ce61058c3ee1",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale a Crespiatica è molto interessante per il prezzo e la recente ristrutturazione, che lo rende immediatamente abitabile. La posizione è eccellente per la vicinanza sia a Trescore Cremasco (circa 10-15 minuti d'auto) che a Crema (circa 15-20 minuti d'auto), rispettando ampiamente i tempi massimi di percorrenza e la vicinanza alla zona famiglia. Tuttavia, la metratura di 87 m² è leggermente inferiore al minimo richiesto (90 m²). Non viene menzionato un box auto (richiesto dal cliente) o spazi esterni specifici come balcone o giardinetto (pur essendo un piano terra, il che potrebbe offrire un piccolo sfogo esterno non specificato). Essendo un appartamento e non una villetta, non si allinea perfettamente alla tipologia ideale, ma potrebbe essere un'opzione valida data l'ottima condizione e la posizione strategica in un quartiere presumibilmente tranquillo.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Il prezzo di 115.000 € è già molto competitivo e vicino al budget ideale del cliente, soprattutto considerando la dicitura 'RISTRUTTURATISSIMO'. Un ribasso significativo è improbabile. Si potrebbe tentare un piccolo ribasso (2-3%) argomentando sulla metratura leggermente inferiore ai 90 m² desiderati e l'assenza di un box auto esplicitamente menzionato, se non incluso nel prezzo.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-02"
+        },
         {
             "title": "Terratetto unifamiliare a Dovera, Centro",
             "price": "110.000 €",
