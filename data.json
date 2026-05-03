@@ -1,6 +1,21 @@
 {
-    "last_update": "02/05/2026 08:55",
+    "last_update": "03/05/2026 09:53",
     "houses": [
+        {
+            "title": "Trilocale in Via pellegra, 31, Castelleone",
+            "price": "129.000 €",
+            "prezzo_numerico": 129000,
+            "location": "Castelleone",
+            "description": "Trilocale in vendita a Castelleone, nella tranquilla località di Pellegra. L'immobile, situato al primo piano, ha una superficie di 119 m² e dispone di 3 locali.",
+            "link": "https://www.idealista.it/immobile/34888875/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio riguarda un trilocale, non una villetta come preferito dal cliente, il che rappresenta un mismatch significativo nella tipologia. Il prezzo di 129.000 € è leggermente superiore al budget ideale (125.000 €) ma ben al di sotto del massimo (150.000 €). La metratura di 119 m² è superiore al range ideale del cliente (90-105 m²). La località di Pellegra a Castelleone è descritta come tranquilla, in linea con il \"vibe quartiere non caotico\" richiesto. Tuttavia, mancano informazioni esplicite su spazi esterni (balcone/giardinetto) e box auto, elementi importanti per il cliente. La distanza da Trescore Cremasco per il lavoro (max 30 minuti) andrebbe verificata accuratamente.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Data la tipologia (appartamento) non in linea con la preferenza principale del cliente (villetta) e la metratura che supera leggermente il massimo richiesto, si potrebbe tentare un piccolo ribasso verso il budget ideale di 125.000 €. Tuttavia, il prezzo sembra già equo per la metratura offerta per un appartamento in zona.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-03"
+        },
         {
             "title": "Trilocale ristrutturatissimo a Crespiatica",
             "price": "115.000 €",
