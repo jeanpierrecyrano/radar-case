@@ -1,6 +1,36 @@
 {
-    "last_update": "03/05/2026 09:53",
+    "last_update": "04/05/2026 11:30",
     "houses": [
+        {
+            "title": "Bilocale ottimo stato, Centro Storico, Crema",
+            "price": "145.000 €",
+            "prezzo_numerico": 145000,
+            "location": "Centro Storico, Crema",
+            "description": "Bilocale in ottimo stato di 90 m² situato nel Centro Storico di Crema, composto da 2 locali e 1 bagno.",
+            "link": "https://clicks.immobiliare.it/f/a/dPVx35VQB7PRr9B7kBSgTw~~/AAAHahA~/Fcl1GXNi9QLssyTrvJAIyn6mxvGcCnQhNHCTbwOWT8mD7nE_ODfos7gbevehbf-E4kvWt4cz--hroN0BOcGTnOvYUixP3ciTfLSn8hry6MhwjVmwBvGYeJUrl2-JoJaD",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio si riferisce a un bilocale nel Centro Storico di Crema. Il prezzo di 145.000 € e la metratura di 90 m² sono in linea con i tuoi parametri di budget massimo e metratura minima. Tuttavia, la tipologia (bilocale rispetto a villetta indipendente/bifamiliare), la mancanza di menzione di spazi esterni (balcone/giardinetto) e di un box auto, e la zona (Centro Storico rispetto a Sabbioni/Trescore Cremasco) non corrispondono alle tue preferenze. Il Centro Storico è ben servito ma potrebbe risultare più caotico di quanto desiderato per un nucleo familiare.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Data la forte discrepanza tra la tipologia dell'immobile (bilocale) e le tue esigenze primarie (villetta indipendente o bifamiliare), questo annuncio non è prioritario. Se, tuttavia, volessi considerare un appartamento, si potrebbe tentare un ribasso per avvicinarsi al tuo budget ideale di 125.000 € e compensare la probabile assenza di box auto e spazi esterni.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-04"
+        },
+        {
+            "title": "Trilocale in via Brescia, Santa Maria, San Bernardino, Castelnuovo, Crema",
+            "price": "€ 130.000",
+            "prezzo_numerico": 130000,
+            "location": "Santa Maria, San Bernardino, Castelnuovo, Crema",
+            "description": "Trilocale di 85 m² con 3 locali e 1 bagno, situato nelle zone di Santa Maria, San Bernardino, Castelnuovo a Crema.",
+            "link": "https://clicks.immobiliare.it/f/a/WL7u9zdusHwMFdDR6LM4_A~~/AAAHahA~/lyJP0pDBQ3nk4ZUc1TY8xgJ6YJdT-mQ0PK9jCpqUE358aBxzm_gOUa8yh3v3G4Pipbl3UoX-TCBl2DL3JWWGrPopQFdXKDTzJv07IFtiXc8akYBM3MZMY7Q4_zz5Wv65v8h80nGbjaNVolYFtZ14ccnKWTKGaiYcs_LtetCRWLavlwTvr1R5-kmau1ARyMVXtcfaI6_tD4n7Bn7jxgRkVKO2Kyr6aeu9R-0P2moNY_g~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'immobile si trova in una zona ben posizionata a Crema, vicina alla zona famiglia desiderata (Sabbioni) e con un prezzo molto interessante, rientrando perfettamente nel budget massimo e sfiorando quello ideale. Tuttavia, presenta delle criticità significative rispetto ai parametri di ricerca: è un trilocale (probabilmente un appartamento) e non una villetta indipendente o bifamiliare, non raggiunge la metratura minima richiesta (85 mq vs 90 mq min), e non sono menzionati spazi esterni o box auto, elementi fondamentali per il cliente. È un'opportunità da valutare solo se il cliente fosse disposto a compromettere sulla tipologia e sulla metratura, previa verifica di balcone e box auto.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Dato che l'immobile non risponde alla tipologia di 'villetta' e ha una metratura leggermente inferiore a quanto richiesto, un eventuale ribasso del 5-7% (portandolo intorno a €120.000 - €123.500) potrebbe compensare parzialmente queste mancanze, rendendolo più attraente qualora il cliente fosse flessibile sulla tipologia. È cruciale chiedere informazioni dettagliate su box auto e spazi esterni.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-04"
+        },
         {
             "title": "Trilocale in Via pellegra, 31, Castelleone",
             "price": "129.000 €",
