@@ -1,6 +1,36 @@
 {
-    "last_update": "07/05/2026 11:34",
+    "last_update": "08/05/2026 10:12",
     "houses": [
+        {
+            "title": "Appartamento all'asta a Bagnolo Cremasco, via G. Matteotti",
+            "price": "Da € 70.500",
+            "prezzo_numerico": 70500,
+            "location": "Bagnolo Cremasco",
+            "description": "Appartamento all'asta situato in via G. Matteotti a Bagnolo Cremasco centro. Si estende su 90 m² e offre 3 locali e 1 bagno. Il prezzo indicato è la base d'asta.",
+            "link": "https://clicks.immobiliare.it/f/a/Lw--9iCQm1dD36dh2lnf7g~~/AAAHahA~/uvTkYQKdKZJvuy5nm0d2295owZzrN1-R9oJKHh5Ix6BbdHWjpNWLcJVtAzDiQUfUz5iq9znJV_wzunBoO94WLRjkjghgHp4vPbAteTbZajxDJ5dw61bI8BFSDUfkGJ_fbLJtgg2LnzjC8wgzu6e3Lg~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento all'asta a Bagnolo Cremasco. Il prezzo di partenza di € 70.500 è estremamente vantaggioso e rientra ampiamente nel budget massimo e ideale del cliente. La metratura di 90 m² corrisponde al requisito minimo. La località di Bagnolo Cremasco è ben posizionata per la zona di lavoro (Trescore Cremasco) e familiare (Sabbioni, Crema), con un tempo di percorrenza in auto probabilmente inferiore ai 30 minuti. Tuttavia, ci sono dei forti scostamenti rispetto ai parametri: la tipologia è un appartamento, mentre il cliente cerca una villetta indipendente o bifamiliare. Non vengono menzionati balcone/giardinetto o box auto, elementi richiesti. Essendo un'asta, il prezzo finale potrebbe aumentare e la procedura d'acquisto è diversa da una compravendita tradizionale.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Trattandosi di un'asta, non è possibile negoziare il prezzo direttamente. Il prezzo di € 70.500 è la base d'asta. Si consiglia di informarsi dettagliatamente sulle modalità dell'asta, sui costi accessori (spese legali, tasse, ecc.) e di stabilire un tetto massimo di offerta per evitare di superare il budget desiderato. L'opportunità di un prezzo basso è alta, ma i compromessi sulla tipologia sono significativi.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-08"
+        },
+        {
+            "title": "Appartamento all'asta in Via G. Matteotti, Bagnolo Cremasco",
+            "price": "Da € 70.500",
+            "prezzo_numerico": 70500,
+            "location": "Bagnolo Cremasco",
+            "description": "Appartamento all'asta di 90 m² con 4 locali e 2 bagni, situato nel centro di Bagnolo Cremasco.",
+            "link": "https://clicks.immobiliare.it/f/a/Ixk75T9olM31B0L7I9Nh0Q~~/AAAHahA~/Ock1z7dpvXtdTFgnrLG2HP6cV7YrrGG2XtvDCh6ZaJktlPWJ1ubo5nCx9P7XZz5qRFAlMTHWjdmSzSmoc2JVSwnvNMfPxWrBrXaigwzcZ5PBBHBhYkKPC8TWxMTMUuW_CiORNG-jWDqFo9_kbMfB114kXKmSz9ba1kYywa5Yw7xGwwstK4ok8ijcZuFIsHqWSeBfwafpV54JKQrPpE0-PY-L8s7inDakz8FvQBERo48R7NUxOSCe1kAkwH-4jyHv",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio riguarda un appartamento all'asta a Bagnolo Cremasco, una località vicina sia a Trescore Cremasco (per il lavoro) che a Crema (per la famiglia), rientrando bene nei tempi di percorrenza. La metratura di 90 m² è perfettamente in linea con le tue preferenze. Il prezzo di partenza è estremamente conveniente, ben al di sotto del tuo budget ideale e massimo. Tuttavia, si tratta di un appartamento e non di una villetta indipendente o bifamiliare, la tipologia da te preferita. L'annuncio non specifica la presenza di balconi/giardino o un box auto, che sono requisiti importanti per te. Essendo un immobile all'asta, la procedura di acquisto è diversa da una compravendita tradizionale e potrebbe richiedere consulenza specifica.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Trattandosi di un'asta, la possibilità di ribasso non è applicabile. Il prezzo di € 70.500 è la base d'asta. Il consiglio è di valutare attentamente il valore dell'immobile e di stabilire il tuo massimo bid in base alla tua analisi, considerando anche eventuali costi aggiuntivi legati alla procedura d'asta e alla messa a norma dell'immobile, qualora ve ne fosse bisogno. Potrebbe essere un'opportunità eccezionale per il prezzo, ma la tipologia non rispecchia la tua preferenza principale.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-08"
+        },
         {
             "title": "Trilocale ristrutturato in Via Monsignor Quaini s.n.c, Spino d'Adda",
             "price": "149.000 €",
