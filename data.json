@@ -1,6 +1,51 @@
 {
-    "last_update": "10/05/2026 10:05",
+    "last_update": "11/05/2026 14:15",
     "houses": [
+        {
+            "title": "Appartamento all'asta in Via G. Matteotti 8, Bagnolo Cremasco",
+            "price": "Da € 70.500",
+            "prezzo_numerico": 70500,
+            "location": "Bagnolo Cremasco (Centro)",
+            "description": "Appartamento all'asta di 107 m² con 3 locali e 1 bagno, situato in zona Centro a Bagnolo Cremasco. Prezzo base d'asta a partire da € 70.500.",
+            "link": "https://clicks.immobiliare.it/f/a/MSeAJc65XyfzYQm7i0j7rQ~~/AAAHahA~/U_0sXe2DPW5LkJEEvoadHgrBw18DfS9kJEx9CNnQ4pVXbWwcsRTzPp75T61pw2cklcCFP3F10IiWxGkYPoI3qfRy56J_b23AUQDrisHTG8WmDEFu1FU9XB_uHS3RSRC9cozouh3k-Kw5ZP9mpNxaDTG53eYEjSiNAu7u-F71ef2vJiOy5_vcFqbcc0HYboVo7tFRA_5FcPQjqv4_JYRJ4YptHzbKjyIdj9QLzmcvC34JFUkUvwIaCNklYGQVdSmG",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio riguarda un appartamento all'asta, il che si discosta significativamente dalla sua preferenza per una villetta indipendente o bifamiliare. Tuttavia, il prezzo di partenza è estremamente vantaggioso, ben al di sotto del suo budget ideale e massimo. La metratura di 107 m² è leggermente superiore alla sua metratura massima desiderata di 105 m², ma rientra comunque in un range accettabile. La località di Bagnolo Cremasco è strategicamente posizionata tra Trescore Cremasco (lavoro) e Crema/Sabbioni (famiglia), suggerendo un buon compromesso sui tempi di spostamento. Essendo in 'Centro', potrebbe essere ben servito, sebbene si debba verificare il livello di 'caos' rispetto alle sue aspettative. Mancano dettagli su balcone/giardinetto e box auto, che sono aspetti importanti per lei, e tipici di un appartamento piuttosto che di una villetta.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Non è possibile applicare un ribasso diretto trattandosi di un'asta. Le consiglio di informarsi approfonditamente sulle modalità di partecipazione, sul prezzo base e sui possibili rilanci per stabilire un tetto massimo di offerta che tenga conto del suo budget totale, incluse le spese legali e accessorie tipiche delle aste. Consideri che il prezzo finale potrebbe superare l'offerta base.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-11"
+        },
+        {
+            "title": "Splendido attico trilocale con terrazzo a Bagnolo Cremasco",
+            "price": "145.000 €",
+            "prezzo_numerico": 145000,
+            "location": "Bagnolo Cremasco",
+            "description": "Splendido attico trilocale di 101 m² con 3 stanze e ampio terrazzo, in fase di ultimazione. Situato in Via Dante Alighieri s.n.c, Bagnolo Cremasco, al 2º piano.",
+            "link": "https://www.idealista.it/immobile/35678316/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-05-11T120728&utm_link=propertyNewLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=6333f7dd-fc79-494c-99e1-8d82ff50942e",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'immobile è un attico trilocale con terrazzo, una tipologia che non corrisponde direttamente alla preferenza del cliente per una villetta indipendente o bifamiliare. Tuttavia, la metratura di 101 m² è perfettamente in linea con i parametri richiesti (90-105 m²). La posizione a Bagnolo Cremasco è strategica e ottimale per la vicinanza sia a Trescore Cremasco (lavoro) che a Sabbioni, Crema (famiglia), garantendo tempi di percorrenza brevi. Il prezzo di 145.000 € rientra nel budget massimo (150.000 €) ma supera il budget ideale (125.000 €). Non sono fornite informazioni riguardo la presenza di un box auto o di un giardinetto piccolo, che erano richieste dal cliente.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Dato che il prezzo è al limite del budget massimo e la tipologia non è la preferenza principale, si potrebbe esplorare la possibilità di un'offerta leggermente inferiore, puntando a 135.000 - 140.000 €. Essendo l'immobile in fase di ultimazione, vi è una buona opportunità di negoziare su eventuali personalizzazioni delle finiture interne o sull'inclusione di servizi extra (es. box auto se disponibile) per massimizzare il valore dell'investimento.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-11"
+        },
+        {
+            "title": "Trilocale con box e posto auto a Casaletto Vaprio",
+            "price": "118.000 €",
+            "prezzo_numerico": 118000,
+            "location": "Casaletto Vaprio",
+            "description": "Ampio 3 Locali di 107 m² con box e posto auto, situato al 2º piano. Prezzo molto competitivo con possibilità di pagamenti personalizzabili.",
+            "link": "https://www.idealista.it/immobile/30830497/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale si distingue per l'ottima posizione a Casaletto Vaprio, ideale per la vicinanza a Trescore Cremasco (lavoro) e Crema/Sabbioni (famiglia), rispettando ampiamente il limite dei 30 minuti di auto. Il prezzo di 118.000€ è perfettamente in linea con il budget ideale del cliente e include un box auto e un posto auto, un grande vantaggio. La metratura di 107 m² è leggermente superiore al massimo di 105 m² richiesto, ma è un delta minimo e potrebbe offrire maggiore comfort. Il principale scostamento dalle preferenze è la tipologia: si tratta di un appartamento al secondo piano, non una villetta indipendente o bifamiliare, e non sono menzionati spazi esterni come un giardinetto. Per quanto riguarda il balcone, tipico per un trilocale, andrebbe verificata la sua presenza.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Il prezzo di 118.000€ è già molto interessante e quasi allineato al budget ideale. Vista la competitività dell'offerta per la zona e la presenza del box, il margine di ribasso è probabilmente limitato, ma si può tentare una piccola negoziazione di qualche migliaio di euro in base alle condizioni effettive dell'immobile dopo una visita.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-11"
+        },
         {
             "title": "Trilocale di 120 m² in Via Matilde di Canossa, Ospedale - Stadio, Crema",
             "price": "125.000 €",
