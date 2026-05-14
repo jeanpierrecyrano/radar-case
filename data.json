@@ -1,6 +1,36 @@
 {
-    "last_update": "13/05/2026 12:35",
+    "last_update": "14/05/2026 11:32",
     "houses": [
+        {
+            "title": "Trilocale a Casale Cremasco Vidolasco, 90 m² ristrutturato",
+            "price": "85.000 €",
+            "prezzo_numerico": 85000,
+            "location": "Casale Cremasco Vidolasco",
+            "description": "Appartamento Trilocale di 90 m² con 3 locali, situato al primo piano di un piccolo contesto residenziale recentemente ristrutturato.",
+            "link": "https://www.idealista.it/immobile/35704686/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale offre un'ottima metratura (90 m²) che rientra perfettamente nei parametri minimi richiesti dal cliente, e si trova in una posizione strategica a Casale Cremasco Vidolasco, eccellente per la vicinanza a Trescore Cremasco (lavoro) e Crema (famiglia), ben servita e non caotica. Il prezzo di 85.000 € è decisamente al di sotto del budget ideale di 125.000 €, rendendolo un'opportunità economica. Tuttavia, la tipologia (appartamento al primo piano) non corrisponde alla preferenza del cliente per una villetta indipendente o bifamiliare. Non ci sono informazioni esplicite riguardo alla presenza di un box auto (richiesto) né di un giardinetto piccolo (preferibile), elementi importanti per il cliente. È un buon compromesso per prezzo e posizione, ma implica una rinuncia sulla tipologia e servizi specifici.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Il prezzo di 85.000 € è già molto competitivo e attraente per la metratura e la posizione, soprattutto considerando che il contesto è ristrutturato. Un tentativo di ribasso del 3-5% (circa 2.500-4.000 €) potrebbe essere fatto, ma la marginalità di trattativa potrebbe essere limitata. La priorità dovrebbe essere chiarire la disponibilità di un box auto e l'effettiva presenza di un balcone.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-14"
+        },
+        {
+            "title": "Casa indipendente a Dovera (Postino)",
+            "price": "35.000 €",
+            "prezzo_numerico": 35000,
+            "location": "Dovera (Frazione Postino)",
+            "description": "Soluzione indipendente di 100 m² con 3 stanze, situata in Via Garibaldi, Dovera (Frazione Postino). Il prezzo è sceso da 59.000 € a 35.000 €.",
+            "link": "https://www.idealista.it/immobile/35452436/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo immobile è estremamente interessante dal punto di vista economico, rientrando ampiamente nel suo budget ideale e massimo con un prezzo di soli 35.000 €. La tipologia (casa indipendente) e la metratura (100 m²) sono un match quasi perfetto con le sue preferenze (90-105 m²). La località di Dovera, in frazione Postino, dovrebbe garantire un buon compromesso tra tranquillità e vicinanza alle zone di lavoro (Trescore Cremasco) e famiglia (Sabbioni, Crema), rispettando i tempi di percorrenza massimi. Tuttavia, un prezzo così basso, soprattutto dopo un significativo ribasso del 41%, suggerisce fortemente che l'immobile necessiti di importanti e potenzialmente onerosi lavori di ristrutturazione. Manca la menzione specifica di box auto, balcone o giardinetto piccolo, aspetti importanti per lei. Consiglio di approfondire urgentemente lo stato dell'immobile, stimare i costi di eventuali interventi e verificare la presenza degli spazi esterni desiderati.",
+            "valutazione_prezzo": 10,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Considerando il prezzo già estremamente basso e il significativo ribasso del 41%, lo spazio per un ulteriore ribasso potrebbe essere limitato, a meno che non emergano difetti strutturali gravi o vizi occulti importanti durante una visita approfondita e una perizia tecnica. È più probabile che il venditore sia già molto motivato a chiudere la vendita rapidamente.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-14"
+        },
         {
             "title": "Trilocale in Via Europa, 54, Bagnolo Cremasco",
             "price": "139.000 €",
