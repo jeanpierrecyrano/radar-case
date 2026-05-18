@@ -1,6 +1,36 @@
 {
-    "last_update": "17/05/2026 10:15",
+    "last_update": "18/05/2026 08:47",
     "houses": [
+        {
+            "title": "Casa indipendente a Capralba (frazione Farinate)",
+            "price": "49.000 €",
+            "prezzo_numerico": 49000,
+            "location": "Capralba",
+            "description": "FARINATE FRAZIONE CAPRALBA: ESCLUSIVA Tempocasa propone in vendita terracielo.",
+            "link": "https://www.idealista.it/immobile/35738606/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio si presenta come un'ottima opportunità, data la tipologia di immobile ('Casa indipendente') che ben si allinea alla sua preferenza per una 'Villetta indipendente o bifamiliare'. La metratura di 90 m² è perfetta, rientrando esattamente nel suo requisito minimo e nel range ideale (90-105 m²).\nLa posizione a Capralba è strategica: la distanza da Trescore Cremasco (zona lavoro) e Sabbioni/Crema (zona famiglia) è contenuta, garantendo tempi di percorrenza in auto ben al di sotto dei 30 minuti massimi richiesti. \nIl prezzo di 49.000 € è estremamente vantaggioso, ben al di sotto del budget massimo (150.000 €) e ideale (125.000 €). Questo suggerisce che l'immobile necessita probabilmente di una ristrutturazione significativa (come indicato dalla dicitura 'terracielo da...'). L'investimento per la ristrutturazione andrebbe a colmare la differenza con il budget ideale, permettendole di personalizzare la casa secondo i suoi gusti. Tuttavia, non ci sono dettagli riguardo spazi esterni (balcone, giardinetto piccolo) o box auto, aspetti da verificare con il link dell'annuncio completo.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Il prezzo di 49.000 € è già molto basso e suggerisce un immobile che necessita di importanti interventi di ristrutturazione. La trattativa sul prezzo base potrebbe essere limitata. Il consiglio è di focalizzarsi sulla stima dettagliata dei costi di ristrutturazione necessari per portare l'immobile al suo standard desiderato, in modo da valutare il costo totale dell'operazione rispetto al suo budget ideale e massimo.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-18"
+        },
+        {
+            "title": "Quadrilocale in Asta a Vailate",
+            "price": "41.326 €",
+            "prezzo_numerico": 41326,
+            "location": "Vailate",
+            "description": "Unità immobiliare residenziale di 104 m² disposta su due piani, situata al 1º piano con 4 stanze. Ottima occasione tramite asta immobiliare.",
+            "link": "https://www.idealista.it/immobile/35743188/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un'opportunità estremamente interessante dal punto di vista del prezzo e della metratura, che si allineano perfettamente con il suo budget e le dimensioni desiderate. La località di Vailate è ben posizionata rispetto alle sue aree di interesse (Trescore Cremasco e Crema). Tuttavia, è cruciale notare che la tipologia 'Quadrilocale al 1º piano' su due livelli probabilmente si riferisce a un appartamento duplex, il che non corrisponde alla sua preferenza per una 'Villetta indipendente o bifamiliare'. L'aspetto più rilevante è che si tratta di un'ASTA IMMOBILIARE, un processo di acquisto molto diverso e più complesso rispetto a una compravendita tradizionale, con la necessità di considerare spese legali e peritali aggiuntive e incertezze sul prezzo finale e l'occupazione dell'immobile. Mancano anche informazioni essenziali su box auto, balcone e giardinetto, che sono sue richieste specifiche.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Trattandosi di un'asta immobiliare, il concetto di 'ribasso' non si applica. Il mio consiglio è di approfondire a fondo tutte le dinamiche dell'asta, inclusi il regolamento, i costi accessori, le tempistiche e lo stato di occupazione dell'immobile, prima di considerare una partecipazione. Potrebbe essere necessario il supporto di un consulente specializzato in aste.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-18"
+        },
         {
             "title": "Trilocale indipendente a Sergnano",
             "price": "99.500 €",
