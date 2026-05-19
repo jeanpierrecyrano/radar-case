@@ -1,6 +1,51 @@
 {
-    "last_update": "18/05/2026 08:47",
+    "last_update": "19/05/2026 08:31",
     "houses": [
+        {
+            "title": "Quadrilocale in Via Galileo Galilei s.n.c, Offanengo",
+            "price": "129.000 €",
+            "prezzo_numerico": 129000,
+            "location": "Offanengo",
+            "description": "Accogliente appartamento quadrilocale situato al secondo piano, con una metratura di 105 m², ideale per chi cerca spazi ampi.",
+            "link": "https://www.idealista.it/immobile/35741233/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo quadrilocale a Offanengo si distingue per la metratura (105 mq) che rientra perfettamente nei tuoi parametri e per la posizione strategica, molto vicina a Crema e Trescore Cremasco, che faciliterebbe gli spostamenti per lavoro e famiglia. Il prezzo è leggermente superiore al tuo budget ideale (125.000 €) ma rimane ben al di sotto del massimo consentito (150.000 €). Il punto debole principale è che si tratta di un appartamento e non della tipologia 'villetta indipendente o bifamiliare' che prediligi. Non è specificato se include un box auto o spazi esterni oltre a un potenziale balcone.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Dato che il prezzo è solo leggermente superiore al tuo budget ideale e la tipologia non è la tua preferita, potresti tentare una negoziazione per un ribasso di circa 4.000-5.000 € (per arrivare a 125.000-124.000 €), specialmente se non include un box auto. Chiedi informazioni dettagliate su box e spese condominiali per avere un quadro completo.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-19"
+        },
+        {
+            "title": "Casa indipendente all'asta a Crema",
+            "price": "Da 69.750 €",
+            "prezzo_numerico": 69750,
+            "location": "Crema (Via Brescia 33/c)",
+            "description": "Casa indipendente all'asta situata a Crema, zona Santa Maria/San Bernardino. L'immobile offre 110 m² con 4 locali e 1 bagno. Prezzo di partenza molto vantaggioso.",
+            "link": "https://clicks.immobiliare.it/f/a/wcHMWfhSOBCW7w2WE3d2vQ~~/AAAHahA~/yYiCVexfQfE5IQRHAGWkjPozQyAJHk_qWZxD93nyIGFqalMDy6AV3vHNJfIhGkUDzQoQuhuYpoGCV27e1zHIOgiy7JlFupdWXe__cx1QH4NMdwXjsM1Ibs54BoTOW2fz",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta una casa indipendente all'asta a Crema, un'ottima corrispondenza per la zona famiglia desiderata e ben collegata alla zona lavoro di Trescore Cremasco. Il prezzo di partenza è estremamente conveniente rispetto al budget massimo e ideale del cliente. La metratura è leggermente superiore al limite massimo (110 m² contro i 105 m² richiesti), ma rientra comunque in un range molto vicino e accettabile. La tipologia di immobile è in linea con le preferenze del cliente ('Villetta indipendente'). Tuttavia, è fondamentale considerare che si tratta di un'asta, il che richiede un approccio e una preparazione diversi rispetto a una compravendita tradizionale. Mancano dettagli specifici su balcone/giardino e box auto, che andrebbero verificati tramite sopralluogo e documentazione d'asta.",
+            "valutazione_prezzo": 10,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Trattandosi di un'asta, non è possibile negoziare il prezzo in modo tradizionale. Il consiglio è di prepararsi accuratamente per l'asta, definendo un budget massimo di offerta ben al di sotto del suo limite per lasciare margine per eventuali rilanci e costi accessori (spese legali, tasse, commissioni d'asta). È cruciale valutare attentamente lo stato dell'immobile, le procedure d'asta e i tempi di liberazione dell'immobile.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-19"
+        },
+        {
+            "title": "Quadrilocale in Via Giuseppe Zambelli, Vailate (Asta Immobiliare)",
+            "price": "41.326 €",
+            "prezzo_numerico": 41326,
+            "location": "Vailate",
+            "description": "Unità immobiliare residenziale disposta su due piani, di 104 m² con 4 stanze, situata al primo piano. Si tratta di un'ottima occasione immobiliare tramite asta.",
+            "link": "https://www.idealista.it/immobile/35752954/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo quadrilocale a Vailate è un'occasione d'asta con un prezzo estremamente interessante, ben al di sotto del suo budget massimo e ideale. La metratura di 104 m² è perfetta per le sue esigenze, rientrando perfettamente nel range richiesto. Vailate è ben collegata a Crema e Trescore Cremasco, rendendo la posizione compatibile con i tempi di percorrenza massimi indicati per lavoro e famiglia. Tuttavia, è fondamentale considerare che si tratta di un'asta immobiliare, il che implica un processo di acquisto differente e potenzialmente più complesso, con costi aggiuntivi da valutare (legali, perizie, e potenziali ristrutturazioni non specificate). La tipologia 'quadrilocale su due piani' potrebbe essere un buon compromesso per la sua preferenza per una villetta, pur non essendo una villetta indipendente o bifamiliare. Non sono menzionati spazi esterni (balcone/giardino) né box auto, che sono sue richieste specifiche, e andrebbero verificati con una visita.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Essendo un'asta immobiliare, il concetto di 'ribasso' non si applica nel senso tradizionale. Il prezzo indicato è la base d'asta o un'offerta minima. Si consiglia vivamente di richiedere una consulenza legale specializzata in aste immobiliari per comprendere a fondo il processo, valutare eventuali costi accessori (spese legali, imposte, costi di liberazione dell'immobile) e stabilire un budget massimo per i rilanci. È cruciale effettuare una visita all'immobile e una perizia tecnica prima di partecipare.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-19"
+        },
         {
             "title": "Casa indipendente a Capralba (frazione Farinate)",
             "price": "49.000 €",
