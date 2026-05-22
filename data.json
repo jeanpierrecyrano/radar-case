@@ -1,6 +1,21 @@
 {
-    "last_update": "21/05/2026 08:38",
+    "last_update": "22/05/2026 08:23",
     "houses": [
+        {
+            "title": "Appartamento all'asta in via G. Matteotti, Bagnolo Cremasco Centro",
+            "price": "Da € 70.500",
+            "prezzo_numerico": 70500,
+            "location": "Bagnolo Cremasco",
+            "description": "Appartamento all'asta di 90 m², con 4 locali e 2 bagni, situato in via G. Matteotti, zona Centro a Bagnolo Cremasco. Prezzo di partenza molto competitivo.",
+            "link": "https://clicks.immobiliare.it/f/a/o36tbXOXV0VJ3kY82ACgGg~~/AAAHahA~/kHg117TUpHcD5fPzkOCKIiDtweiG_w6aiK2pR-p9y2P0WrAJ_eltKISSyvDJKV96ZA_n7sR_yIg1Z1ySUmJTUWHURDAmBBmI4UCjU__Ybg738bu-S32zFgZMjyc2wAP7wP2-jL2pVaa0YCNPWGctuj8XyWH7tGwshbsYoIBBLOo~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento all'asta a Bagnolo Cremasco, con una metratura (90 m²) che si allinea perfettamente alla tua ricerca e un prezzo di partenza estremamente interessante e ben al di sotto del tuo budget ideale. La località di Bagnolo Cremasco è strategicamente posizionata e vicina sia a Trescore Cremasco che a Crema. Tuttavia, la tipologia (appartamento) non corrisponde alla tua preferenza per una villetta indipendente o bifamiliare, e l'annuncio non specifica la presenza di spazi esterni come balcone/giardinetto o box auto, che sono importanti per te.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Trattandosi di un immobile all'asta, non è possibile fare una proposta di ribasso tradizionale. È consigliabile informarsi bene sulle procedure d'asta, stabilire un budget massimo realistico per l'offerta e valutare se la convenienza economica possa compensare la discordanza sulla tipologia di immobile preferita.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-22"
+        },
         {
             "title": "Trilocale in Viale Santa Maria della Croce s.n.c, Crema",
             "price": "119.000 €",
