@@ -1,6 +1,36 @@
 {
-    "last_update": "22/05/2026 08:23",
+    "last_update": "23/05/2026 07:34",
     "houses": [
+        {
+            "title": "Trilocale in Via Vincenzo Bellini, 8, Vailate",
+            "price": "135.000 €",
+            "prezzo_numerico": 135000,
+            "location": "Vailate",
+            "description": "Appartamento trilocale di 85 m² situato al 1º piano in Via Vincenzo Bellini, 8 a Vailate. L'immobile fa parte di un complesso condominiale composto da 8 unità abitative.",
+            "link": "https://www.idealista.it/immobile/35791640/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-05-22T103626&utm_link=propertyNewLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=271cce4d-6690-4fe8-a5db-1f0f3c1c52da",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento trilocale a Vailate, con un prezzo di 135.000 € che rientra nel suo budget massimo (150.000 €) ma supera leggermente quello ideale (125.000 €). La metratura di 85 m² è appena al di sotto della sua richiesta minima di 90 m². La principale discordanza riguarda la tipologia: si tratta di un appartamento in un complesso condominiale, mentre la sua preferenza è per una villetta indipendente o bifamiliare. Non sono menzionati spazi esterni specifici come balcone o giardinetto piccolo, né la presenza di un box auto. La località di Vailate è ben collegata con l'Area di Crema e dovrebbe rientrare nei tempi di percorrenza desiderati per il lavoro e la famiglia.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Data la tipologia di immobile (appartamento anziché villetta) e la metratura leggermente inferiore a quanto richiesto, c'è margine per negoziare. Suggerirei un'offerta iniziale tra i 128.000 € e i 130.000 € per cercare di avvicinarsi al budget ideale e compensare le discrepanze rispetto ai criteri di ricerca.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-23"
+        },
+        {
+            "title": "Casa indipendente con giardino e box a Crema (Ombriano - Sabbioni)",
+            "price": "108.000 €",
+            "prezzo_numerico": 108000,
+            "location": "Crema (Ombriano - Sabbioni)",
+            "description": "Casa indipendente di 189 mq con 3 locali, situata nella zona di Ombriano-Sabbioni a Crema. L'immobile include un giardino e un box auto. Il prezzo richiesto è di 108.000 € ed offre pagamenti personalizzabili con mutui a tassi agevolati.",
+            "link": "https://www.idealista.it/immobile/34366231/?utm_medium=email&utm_campaign=daily_suggestions_oneSearch&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-05-22T115112&utm_link=propertyRecommendedLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertSuggestionsOneSearch&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=a74049e0-b0d8-4c83-ba14-6b1d6ff7b01e",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa casa indipendente è un'ottima proposta, in quanto risponde perfettamente a diversi vostri criteri chiave: la zona di Sabbioni a Crema è esattamente quella desiderata per la famiglia, la tipologia è una casa indipendente, il prezzo è ben al di sotto del budget ideale (108.000 € contro 125.000 €) e include sia il giardino che il box auto. L'unico punto da valutare attentamente è la metratura, che con i suoi 189 mq è quasi il doppio rispetto al vostro intervallo preferito (90-105 mq). Se la maggiore dimensione non è un problema, questa è una delle opzioni più promettenti in termini di corrispondenza con le vostre esigenze principali.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Il prezzo è già molto competitivo e ben al di sotto del vostro budget ideale, rendendo difficile ottenere un ribasso significativo. Tuttavia, data la metratura ben superiore al richiesto, potreste provare a negoziare una leggera riduzione, adducendo i maggiori costi di gestione e manutenzione di un immobile più grande.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-23"
+        },
         {
             "title": "Appartamento all'asta in via G. Matteotti, Bagnolo Cremasco Centro",
             "price": "Da € 70.500",
