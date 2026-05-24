@@ -1,6 +1,36 @@
 {
-    "last_update": "23/05/2026 07:34",
+    "last_update": "24/05/2026 07:53",
     "houses": [
+        {
+            "title": "Trilocale di 95 mq a Bagnolo Cremasco",
+            "price": "146.000 €",
+            "prezzo_numerico": 146000,
+            "location": "Bagnolo Cremasco",
+            "description": "Proponiamo un TRILOCALE di 95 mq, 3 stanze, situato al secondo ed ultimo piano a Bagnolo Cremasco.",
+            "link": "https://www.idealista.it/immobile/35805667/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un trilocale a Bagnolo Cremasco, a circa 10-15 minuti di auto da Trescore Cremasco e non lontano da Crema/Sabbioni, il che è un buon punto a favore per la zona. La metratura di 95 mq è perfettamente in linea con le sue richieste (90-105 mq). Tuttavia, la tipologia 'trilocale' (appartamento) è un mismatch significativo rispetto alla sua preferenza per una 'villetta indipendente o bifamiliare'. Essendo al secondo e ultimo piano, è probabile che abbia un balcone, ma non soddisfa la richiesta di un giardinetto. Inoltre, non viene menzionato un box auto, che è invece richiesto. Il prezzo di 146.000 € è all'interno del budget massimo, ma considerevolmente superiore al budget ideale di 125.000 €.",
+            "valutazione_prezzo": 6,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Data la marcata differenza nella tipologia (appartamento vs villetta richiesta) e l'assenza di giardino/box auto, questo immobile non sembra un match ideale. Se si volesse considerare un appartamento, sarebbe necessario un ribasso significativo, almeno del 10-15% (quindi sotto i 130.000 €) per avvicinarsi al budget ideale e compensare le carenze rispetto alle richieste principali. Altrimenti, è meglio proseguire la ricerca per villette.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-24"
+        },
+        {
+            "title": "Trilocale ottimo stato, secondo piano, a Bagnolo Cremasco",
+            "price": "€ 146.000",
+            "prezzo_numerico": 146000,
+            "location": "Bagnolo Cremasco, Centro",
+            "description": "Trilocale in ottimo stato, situato al secondo piano, con una superficie di 95 m², composto da 3 locali e 2 bagni. L'immobile si trova in zona Centro a Bagnolo Cremasco.",
+            "link": "https://clicks.immobiliare.it/f/a/gUxXnsFIWUVNQy06q1mhrg~~/AAAHahA~/6w94ra6d5KGewRuuBQUi73xvFmtSt6ATou9mCYmBO0sy7X8CeNv0atNlT2qAS3SFauUkZKGiNkDy2Sk5EOETMBmJVHZYWeLVESb93PSiTMk1c6luUkVICroZmST6sEU9ySQkfhQtTULxJQ3kKHPNew~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale a Bagnolo Cremasco è interessante per la sua metratura (95 m²), che rientra perfettamente nelle tue preferenze, e per la posizione strategica, molto vicina a Trescore Cremasco (zona lavoro) e Crema (zona famiglia). Il prezzo di €146.000 è all'interno del tuo budget massimo. Tuttavia, si tratta di un appartamento al secondo piano, il che è un mismatch significativo rispetto alla tua preferenza per una villetta indipendente o bifamiliare. Non sono menzionati un balcone/giardinetto o il box auto, entrambi requisiti importanti per te. Potrebbe essere un'opzione da valutare se sei disposto a considerare tipologie diverse, tenendo conto delle mancanze sui requisiti specifici.",
+            "valutazione_prezzo": 6,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Considerando che la tipologia non è quella preferita e non sono specificati box auto e spazi esterni richiesti, potresti avere margine per una trattativa. Se decidi di proseguire, un'offerta tra i 135.000 € e i 140.000 € potrebbe essere una base di partenza realistica per negoziare.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-24"
+        },
         {
             "title": "Trilocale in Via Vincenzo Bellini, 8, Vailate",
             "price": "135.000 €",
