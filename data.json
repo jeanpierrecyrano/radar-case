@@ -1,6 +1,36 @@
 {
-    "last_update": "24/05/2026 07:53",
+    "last_update": "25/05/2026 09:00",
     "houses": [
+        {
+            "title": "Villetta bifamiliare in Via Ripa Fredda, 42, Antegnate",
+            "price": "150.000 €",
+            "prezzo_numerico": 150000,
+            "location": "Antegnate",
+            "description": "Villetta bifamiliare di 129,00 m² con 3 locali ad Antegnate. L'annuncio suggerisce una soluzione indipendente 'senza nessuno sopra la testa'.",
+            "link": "https://www.idealista.it/immobile/34893663/?utm_medium=email&utm_campaign=daily_suggestions_oneSearch&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-05-25T094014&utm_link=propertyRecommendedLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertSuggestionsOneSearch&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=cd84ac47-ea3e-477c-bd9e-56e99b457509",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio si distingue per la tipologia 'Villetta bifamiliare', che è la preferenza principale del cliente. Tuttavia, presenta alcuni punti di attenzione: la metratura di 129 m² è superiore al massimo desiderato di 105 m², e il prezzo di 150.000 € raggiunge il budget massimo, risultando più alto dell'ideale di 125.000 €. La località di Antegnate è al limite massimo dei 30 minuti di percorrenza per le zone di interesse (Trescore Cremasco e Sabbioni, Crema), quindi è fondamentale verificare il tempo di viaggio effettivo. Non sono fornite informazioni su spazi esterni specifici (balcone/giardinetto) o sulla presenza di un box auto, requisiti importanti per il cliente.",
+            "valutazione_prezzo": 5,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Considerando che il prezzo è al limite massimo del budget e la metratura supera le aspettative, c'è un buon margine per tentare una trattativa. Si potrebbe considerare un'offerta iniziale tra i 135.000 € e i 140.000 €, condizionata ad un sopralluogo approfondito per valutare lo stato dell'immobile e l'eventuale necessità di lavori.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-25"
+        },
+        {
+            "title": "Villa a schiera via Ada Negri 8, Centro, Pandino",
+            "price": "€ 118.000",
+            "prezzo_numerico": 118000,
+            "location": "Pandino, Centro",
+            "description": "Villa a schiera di 101 m² con 3 locali e 1 bagno, situata in via Ada Negri 8, Centro, Pandino.",
+            "link": "https://clicks.immobiliare.it/f/a/coFu_1m2ZQLkgU-9DhpyaQ~~/AAAHahA~/7dum_bv7lPlFZn99PrYJafyYymngP7C-Fp2J5mzi9nTSqFAjzHGx3DGGi5hiUx3R5UjM6-fFbaxn55OpQBQ3iQjtCzQKB1NNwPzeBfCTzGhZplBlQvz8VfHRAk6RJTSii6_0c8KUFBwDAssoJzNgSQ~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa villa a schiera a Pandino si presenta come un'ottima opportunità, specialmente per il prezzo che è ben al di sotto del suo budget ideale e rientra perfettamente nella metratura richiesta. La tipologia \"villa a schiera\" è una buona alternativa alla villetta indipendente/bifamiliare, sebbene non sia esattamente la preferenza primaria. La località di Pandino è strategicamente vicina sia a Trescore Cremasco per il lavoro che a Crema per la famiglia, rendendola una scelta conveniente in termini di spostamenti (presumendo sia entro i 30 minuti di auto). Tuttavia, l'annuncio non specifica la presenza di un box auto (richiesto dal cliente) né dettagli sugli spazi esterni come balcone o giardinetto, elementi importanti per la sua ricerca. Sarà fondamentale approfondire questi aspetti durante la visita per valutare il match completo.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Il prezzo è già molto interessante e inferiore al budget ideale, suggerendo un ottimo valore. Si potrebbe tentare una trattativa leggera, magari legata all'inclusione di eventuali arredi o alla valutazione di piccoli interventi se la casa ne necessita, soprattutto se le mancate informazioni su box auto o spazi esterni si rivelano negative durante la visita.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-25"
+        },
         {
             "title": "Trilocale di 95 mq a Bagnolo Cremasco",
             "price": "146.000 €",
