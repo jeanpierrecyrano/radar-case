@@ -1,6 +1,21 @@
 {
-    "last_update": "30/05/2026 07:47",
+    "last_update": "31/05/2026 08:17",
     "houses": [
+        {
+            "title": "Villetta bifamiliare in Via San Alberto, 25, Rivolta d'Adda",
+            "price": "90.000 €",
+            "prezzo_numerico": 90000,
+            "location": "Rivolta d'Adda",
+            "description": "In una delle viette del centro paese, posta all'interno di un cortile, proponiamo in vendita villetta bifamiliare di 84 m², 2 locali.",
+            "link": "https://www.idealista.it/immobile/35487546/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa villetta bifamiliare a Rivolta d'Adda è l'annuncio che più si avvicina alla tua 'tipologia preferita' (villetta indipendente o bifamiliare) tra le proposte ricevute. Il prezzo di 90.000 € è eccezionalmente buono, ben al di sotto del tuo budget ideale di 125.000 €, lasciando ampio margine per eventuali lavori o spese accessorie. La metratura di 84 m² è leggermente inferiore al tuo requisito minimo di 90 m², ma potrebbe essere un compromesso accettabile data la tipologia e il prezzo. La descrizione menziona che è 'posta all'interno di un cortile', il che suggerisce la presenza di spazi esterni, ma non specifica un balcone o un giardinetto piccolo. Il box auto non è esplicitamente menzionato. La località di Rivolta d'Adda richiederà un controllo approfondito sui tempi di percorrenza verso Trescore Cremasco e la vicinanza a Sabbioni/Crema, in quanto potrebbe superare i 30 minuti massimi in auto. Nonostante alcuni dettagli mancanti e la potenziale distanza, questa è una delle migliori opportunità per la tipologia di immobile desiderata.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Il prezzo di 90.000 € è già molto aggressivo per una villetta bifamiliare, suggerendo che ci sia poco spazio per un ribasso significativo. Tuttavia, l'assenza di chiarezza sul box auto e sugli spazi esterni (balcone/giardinetto) e la metratura leggermente sotto la tua richiesta potrebbero essere punti da usare per una lieve negoziazione, se questi elementi non dovessero soddisfare le tue aspettative in fase di visita.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-05-31"
+        },
         {
             "title": "Trilocale in Via Brescia, San Bernardino - Castelnuovo, Crema",
             "price": "149.000 €",
