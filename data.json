@@ -1,6 +1,21 @@
 {
-    "last_update": "31/05/2026 08:17",
+    "last_update": "01/06/2026 10:23",
     "houses": [
+        {
+            "title": "Trilocale indipendente a Sergnano (CR)",
+            "price": "99.500 €",
+            "prezzo_numerico": 99500,
+            "location": "Sergnano (CR)",
+            "description": "Appartamento indipendente su due livelli (piano terra e primo) a Sergnano (CR), con 3 locali e 90 m², situato in posizione centralissima. Offre un ottimo rapporto qualità/prezzo.",
+            "link": "https://www.idealista.it/immobile/35767080/?utm_medium=email&utm_campaign=daily_suggestions_oneSearch&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-06-01T072349&utm_link=propertyRecommendedLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertSuggestionsOneSearch&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=d71a1710-ed1c-475e-b01e-2b227218369b",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo immobile a Sergnano si presenta con un prezzo estremamente interessante (ben al di sotto del budget ideale) e una metratura che rientra perfettamente nei parametri minimi richiesti (90 m²). La località è ottima per la vicinanza a Crema (zona famiglia) e Trescore Cremasco (zona lavoro), garantendo un tragitto lavoro-casa ben al di sotto dei 30 minuti. Sebbene la tipologia sia un 'appartamento indipendente' e non una 'villetta bifamiliare o indipendente' come preferito, la sua disposizione su due livelli (piano terra e primo) suggerisce una buona autonomia che potrebbe essere un buon compromesso. I punti da approfondire in una visita sono la presenza di un balcone/giardinetto e di un box auto, che non sono esplicitamente menzionati nell'annuncio ma sono desiderati dal cliente. La posizione centralissima a Sergnano, un paese di dimensioni contenute, dovrebbe comunque garantire un ambiente ben servito ma non eccessivamente caotico.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Il prezzo è già molto competitivo e significativamente al di sotto del budget ideale del cliente. Un lieve ribasso potrebbe essere tentato, ma la convenienza è già alta e potrebbe non essere accettato dall'agente/venditore. Si consiglia di focalizzarsi su eventuali benefit aggiuntivi o rapidità nella proposta.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-01"
+        },
         {
             "title": "Villetta bifamiliare in Via San Alberto, 25, Rivolta d'Adda",
             "price": "90.000 €",
