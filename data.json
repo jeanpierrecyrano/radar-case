@@ -1,6 +1,36 @@
 {
-    "last_update": "02/06/2026 09:09",
+    "last_update": "03/06/2026 09:30",
     "houses": [
+        {
+            "title": "Trilocale in ottimo stato con box doppio e zero spese condominiali a Madignano",
+            "price": "145.000 €",
+            "prezzo_numerico": 145000,
+            "location": "Madignano",
+            "description": "Proponiamo in vendita a Madignano, in Via Val Serio, un trilocale di 89 m² al piano rialzato con 3 stanze. L'immobile si presenta in ottimo stato, include un box doppio e non ha spese condominiali.",
+            "link": "https://www.idealista.it/immobile/35877983/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'annuncio presenta un trilocale a Madignano, una zona strategica per vicinanza a Crema (Sabbioni) e probabilmente nel raggio dei 30 minuti da Trescore Cremasco. Il prezzo di 145.000 € rientra nel budget massimo ma supera il budget ideale del cliente. Punti di forza sono l'ottimo stato dell'immobile, la presenza di un box doppio (richiesto dal cliente) e l'assenza di spese condominiali. Tuttavia, la tipologia (appartamento trilocale) non corrisponde alla preferenza per una villetta indipendente o bifamiliare, e la metratura di 89 m² è leggermente inferiore al minimo richiesto di 90 m². Non vengono menzionati balconi o giardinetti, che erano tra le preferenze del cliente.",
+            "valutazione_prezzo": 6,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Data la discrepanza sulla tipologia di immobile preferita dal cliente (villetta vs. appartamento) e la metratura leggermente inferiore al desiderato, c'è margine per una negoziazione sul prezzo. Suggerirei di puntare a un ribasso verso i 125.000 € (budget ideale), utilizzando come leva anche la mancanza di spazi esterni esplicitamente menzionati nell'annuncio, a fronte della richiesta di balcone o giardinetto piccolo.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-03"
+        },
+        {
+            "title": "Villa a schiera con giardino e box doppio a Vaiano Cremasco",
+            "price": "145.000 €",
+            "prezzo_numerico": 145000,
+            "location": "Vaiano Cremasco",
+            "description": "Ampia villa a schiera di 105 mq a Vaiano Cremasco in ottime condizioni con ingresso indipendente, luminoso soggiorno, cucina abitabile con affaccio su portico e giardino privato. Al primo piano, due camere da letto, un bagno e un balcone. Il piano interrato è adibito a taverna. Dotata di aria condizionata e impianto d'allarme. Completano la proprietà un box doppio e un posto auto.",
+            "link": "https://www.immobiliare.it/annunci/103289658/",
+            "image_url": "https://static.immobiliare.it/a/i/images/listing_pictures_v2/2024/04/23/f0/f0b4a49622d9b626d7c679a95724580b_listing_picture_desktop_hd_webp.webp",
+            "commento_ai": "Questa villa a schiera a Vaiano Cremasco si presenta in ottime condizioni e offre una metratura di 105 mq, perfettamente in linea con i tuoi desideri. La presenza di un giardino privato e di un balcone, insieme al box doppio e posto auto, soddisfano appieno le tue richieste sugli spazi esterni e il parcheggio. La posizione è strategica, permettendoti di raggiungere Trescore Cremasco per lavoro e la zona Sabbioni di Crema per la famiglia in circa 10-15 minuti, rispettando il tuo limite di tempo. Vaiano Cremasco è un paese ben servito ma tranquillo, che dovrebbe incontrare il tuo 'vibe' di quartiere. L'unico aspetto da considerare è il prezzo, che si posiziona al limite massimo del tuo budget, sebbene sia ancora accettabile. Potrebbe essere un'ottima opportunità.",
+            "valutazione_prezzo": 6,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Dato che il prezzo è al limite superiore del tuo budget massimo (150.000 €) e sopra il budget ideale (125.000 €), suggerirei di tentare un'offerta iniziale leggermente inferiore, magari attorno ai 135.000 - 140.000 €, motivando il ribasso con il tuo budget ideale e l'interesse per una soluzione che rispecchia quasi tutti i requisiti.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-03"
+        },
         {
             "title": "Trilocale indipendente a Sergnano (CR)",
             "price": "99.500 €",
