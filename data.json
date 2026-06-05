@@ -1,6 +1,51 @@
 {
-    "last_update": "04/06/2026 08:55",
+    "last_update": "05/06/2026 08:47",
     "houses": [
+        {
+            "title": "Trilocale in Via Ripafredda, 27, Romanengo",
+            "price": "89.000 €",
+            "prezzo_numerico": 89000,
+            "location": "Romanengo",
+            "description": "Trilocale di 119 m² con 3 stanze, posto al primo ed ultimo piano in Via Ripafredda, 27 a Romanengo. Il prezzo è sceso del 6% da 95.000 €.",
+            "link": "https://www.idealista.it/immobile/34568245/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'immobile è un trilocale a Romanengo, con un prezzo molto interessante (89.000 €) e già oggetto di un ribasso significativo (6%). La posizione a Romanengo è strategica per la vicinanza a Crema (zona famiglia Sabbioni) e Trescore Cremasco (zona lavoro), rispettando il tempo massimo di auto. Tuttavia, la tipologia (appartamento al primo ed ultimo piano) si discosta dalla preferenza del cliente per una villetta indipendente o bifamiliare. Anche la metratura di 119 m² supera leggermente il limite massimo di 105 m² richiesto. Mancano informazioni cruciali su balconi/spazi esterni e la presenza di un box auto.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Il prezzo è già molto conveniente e il venditore ha appena applicato un ribasso del 6%. Un'ulteriore trattativa potrebbe essere difficile, ma si potrebbe tentare un piccolo ribasso simbolico, motivandolo con la differenza rispetto alla tipologia e metratura ideali, e per l'assenza di informazioni su box e spazi esterni. È fondamentale una visita per verificare se i compromessi sulla tipologia e sulla metratura sono accettabili e per chiarire i dettagli mancanti.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-05"
+        },
+        {
+            "title": "Trilocale al piano terra a Castelleone",
+            "price": "145.000 €",
+            "prezzo_numerico": 145000,
+            "location": "Castelleone",
+            "description": "Trilocale di 80 m² con 3 stanze situato al piano terra in Via per Corte Madama s.n.c, Castelleone. L'immobile è descritto come 'come nuovo'.",
+            "link": "https://www.idealista.it/immobile/35909332/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-06-04T163154&utm_link=propertyNewLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=c1419aa7-50f3-4ee5-9ee7-2893d82bd518",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un trilocale a Castelleone, proposto a 145.000 €. Sebbene il prezzo rientri nel budget massimo del cliente, supera il budget ideale di 125.000 €. La metratura di 80 m² è inferiore alla richiesta minima di 90 m². La tipologia (appartamento al piano terra) non corrisponde alla preferenza del cliente per una villetta indipendente o bifamiliare. Non vengono menzionati spazi esterni specifici come balcone o giardinetto piccolo, né la presenza di un box auto, entrambi richiesti. La posizione a Castelleone è più distante dalle zone di lavoro (Trescore Cremasco) e famiglia (Sabbioni, Crema), con tempi di percorrenza per Trescore Cremasco che potrebbero avvicinarsi o superare il limite massimo di 30 minuti. Nel complesso, l'immobile presenta diverse discrepanze significative rispetto ai criteri di ricerca del cliente.",
+            "valutazione_prezzo": 6,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Considerando che la tipologia e la metratura non corrispondono alle preferenze e che mancano informazioni chiave su spazi esterni e box auto, un'offerta tra i 130.000 € e i 135.000 € sarebbe più allineata al budget ideale del cliente e potrebbe giustificare le carenze rispetto ai requisiti principali.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-05"
+        },
+        {
+            "title": "Bilocale buono stato, piano terra a Crema",
+            "price": "€ 133.000",
+            "prezzo_numerico": 133000,
+            "location": "Ombriano, Sabbioni, San Carlo, Crema",
+            "description": "Bilocale di 80 m², buono stato, piano terra con 2 locali e 1 bagno. Situato nelle zone di Ombriano, Sabbioni, San Carlo a Crema. Prezzo già ribassato del 5%.",
+            "link": "https://clicks.immobiliare.it/f/a/7y_x1hhs88n3yUO6brijaw~~/AAAHahA~/KRAYh0t2x9vgRjNcOdVF_9xcPiTdQnVOHKplmiLbpCFsbB9T5q14J4d40QZj8tA1oiEIFeBPtQJlKKe5BhWgx33twbAUQ8fssIsnMekWwzJGJJ7HT8lLNiIYTE_FXh3XfltJV4Cb6nzS_PTprUDj6ojJ0DfNCqLi6lzsPCU4csDTlJPyAYMuiIXRLzCsxcWJ6wtrzVHuOsRe3V-0y9SuSlWETHnnLIBBiWwB8O7kAB0kpSnWfleBYczn1ExqWb56",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo bilocale, situato nelle zone di Ombriano, Sabbioni, San Carlo a Crema, presenta un'ottima corrispondenza con la sua \"zona famiglia\" preferita (Sabbioni, Crema) e il prezzo di 133.000 € rientra perfettamente nel suo budget massimo di 150.000 €, avvicinandosi anche al budget ideale di 125.000 €. Tuttavia, ci sono alcune importanti discrepanze con i suoi parametri di ricerca. La tipologia è un \"Bilocale\" a \"piano terra\", mentre lei ricerca una \"Villetta indipendente o bifamiliare\". La metratura di 80 m² è inferiore ai suoi 90 m² minimi richiesti. Inoltre, non sono specificati la presenza di balcone, giardinetto o box auto, che sono elementi per lei importanti. La distanza da Trescore Cremasco è ragionevole (circa 15-20 minuti in auto, ben entro i 30 minuti massimi).",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Il prezzo è già stato ribassato del 5%, rendendo eventuali ulteriori ribassi significativi più complessi. Data la netta differenza di tipologia (bilocale vs villetta) e la metratura inferiore a quanto richiesto, consiglio di valutare se questi compromessi sono accettabili per lei. Se l'ubicazione e il prezzo la intrigano, si potrebbe tentare una piccola trattativa, ma la priorità dovrebbe essere verificare l'esatta conformazione degli spazi, la presenza di esterni e box auto, e considerare se un bilocale soddisfa realmente le sue esigenze abitative a lungo termine.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-05"
+        },
         {
             "title": "Trilocale con box in Via G. Cappi, Ripalta Cremasca",
             "price": "127.000 €",
