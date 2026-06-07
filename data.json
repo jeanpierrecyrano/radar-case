@@ -1,6 +1,51 @@
 {
-    "last_update": "06/06/2026 07:49",
+    "last_update": "07/06/2026 08:28",
     "houses": [
+        {
+            "title": "Trilocale Arredato in Via Umberto I°, Pandino",
+            "price": "115.000 €",
+            "prezzo_numerico": 115000,
+            "location": "Pandino",
+            "description": "Trilocale arredato di circa 90 m², con 3 stanze, situato al secondo piano in Via Umberto I° a Pandino. L'immobile è descritto come in posizione centralissima.",
+            "link": "https://www.idealista.it/immobile/35937869/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un trilocale a Pandino, un comune ben collegato alle zone di interesse del cliente (Trescore Cremasco per il lavoro e Crema/Sabbioni per la famiglia, entrambi raggiungibili in meno di 30 minuti). Il prezzo di 115.000 € è molto vantaggioso, ben al di sotto del budget ideale di 125.000 €, e la metratura di 90 m² è perfettamente in linea con le richieste. Tuttavia, la tipologia è un appartamento (trilocale) e non una villetta indipendente o bifamiliare, come preferito dal cliente. Non sono menzionati spazi esterni specifici (balcone o giardinetto piccolo) né la presenza di un box auto, requisiti importanti per il cliente. Sebbene prezzo, metratura e posizione siano ottimi, la discordanza sulla tipologia e le informazioni mancanti su box auto e spazi esterni lo rendono un match non ideale per le preferenze principali, ma merita comunque un'occhiata data l'ottima fascia di prezzo e la convenienza logistica.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Il prezzo è già molto interessante e al di sotto del budget ideale. Nonostante questo, considerando che non è una villetta e non si menzionano box auto o spazi esterni specifici, si potrebbe tentare un ribasso mirato di circa 5.000-10.000 € se il cliente fosse disposto a considerare un appartamento, puntando sulle caratteristiche mancanti rispetto alle sue preferenze ideali.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-07"
+        },
+        {
+            "title": "Quadrilocale in Via Lodigiani Lelia, 42, Vaiano Cremasco",
+            "price": "135.000 €",
+            "prezzo_numerico": 135000,
+            "location": "Vaiano Cremasco",
+            "description": "Appartamento quadrilocale di 92 m² con 4 stanze, situato al primo piano in Via Lodigiani Lelia, 42 a Vaiano Cremasco.",
+            "link": "https://www.idealista.it/immobile/35940558/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-06-07T010222&utm_link=propertyNewPhoto&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrg0LiGlUVWRCUKqs26I=&utm_notification_id=58027d49-f607-4f00-bf04-56596fade10c",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento a Vaiano Cremasco che, sebbene non sia la tipologia preferita (villetta), offre una metratura (92 m²) e una localizzazione eccellenti rispetto alle sue esigenze di prossimità a Trescore Cremasco per il lavoro e a Crema/Sabbioni per la famiglia. Il prezzo di 135.000 € rientra nel budget massimo ma è superiore all'ideale. Mancano però informazioni cruciali sul box auto richiesto, sulla presenza di un balcone e sulla possibilità di un giardinetto piccolo, che sono elementi importanti per il cliente. Questi dettagli andrebbero verificati per capire l'effettiva aderenza all'annuncio.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Considerando che si tratta di un appartamento e il prezzo è leggermente sopra il budget ideale, un ribasso di 5.000-10.000 € potrebbe essere giustificabile, soprattutto se si scopre che mancano il box auto o spazi esterni significativi (balcone/giardinetto).",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-07"
+        },
+        {
+            "title": "Casa indipendente in Via venticinque aprile, 4, Massalengo",
+            "price": "93.000 €",
+            "prezzo_numerico": 93000,
+            "location": "Massalengo",
+            "description": "Massalengo: Proponiamo Casa indipendente, ideale per chi desidera ambienti ampi, luminosi ...",
+            "link": "https://www.idealista.it/immobile/35924194/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo immobile a Massalengo si presenta come il più allineato ai suoi criteri principali, in particolare per budget, tipologia e metratura. Il prezzo di 93.000 € è eccellente, ben al di sotto del suo budget ideale e massimo. La tipologia di \"Casa indipendente\" è molto vicina alla sua preferenza per una villetta, e la metratura di 95 m² rientra perfettamente nel range da lei richiesto. Il punto critico è la posizione a Massalengo, che potrebbe estendere i tempi di percorrenza verso Trescore Cremasco oltre i 30 minuti desiderati e non è vicinissima a Sabbioni/Crema. Non sono specificati gli spazi esterni (balcone/giardinetto) né la presenza del box auto, elementi fondamentali da verificare. Nonostante la distanza, l'ottima corrispondenza su prezzo, tipo e dimensioni rende questa proprietà meritevole di un'approfondita valutazione, specialmente se è disposto a considerare un lieve aumento del tempo di viaggio.",
+            "valutazione_prezzo": 10,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Il prezzo è già molto competitivo e significativamente inferiore al suo budget massimo. Un ribasso potrebbe essere negoziabile solo qualora l'immobile necessiti di importanti lavori di ristrutturazione, altrimenti il prezzo di listino è già estremamente vantaggioso.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-07"
+        },
         {
             "title": "Trilocale in Via Ripafredda, 27, Romanengo",
             "price": "89.000 €",
