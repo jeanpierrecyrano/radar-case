@@ -1,6 +1,21 @@
 {
-    "last_update": "07/06/2026 08:28",
+    "last_update": "08/06/2026 09:26",
     "houses": [
+        {
+            "title": "Quadrilocale in Via Lodigiani Lelia, 42, Vaiano Cremasco",
+            "price": "135.000 €",
+            "prezzo_numerico": 135000,
+            "location": "Vaiano Cremasco",
+            "description": "Appartamento quadrilocale di 92 mq, situato al 1º piano con ascensore. Offre 4 locali ed è proposto in vendita a Vaiano Cremasco.",
+            "link": "https://www.idealista.it/immobile/35940558/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo quadrilocale a Vaiano Cremasco rappresenta l'opzione più interessante tra quelle proposte, sebbene sia un appartamento e non una villetta indipendente o bifamiliare come preferito dal cliente. Il prezzo di 135.000€ è ben al di sotto del budget massimo e si avvicina all'ideale. La metratura di 92 mq è perfetta, rientrando nell'intervallo richiesto di 90-105 mq. La posizione è un punto di forza eccezionale: Vaiano Cremasco è molto vicina sia a Trescore Cremasco (zona lavoro, circa 10 minuti di auto) sia a Crema/Sabbioni (zona famiglia, circa 15-20 minuti di auto), rispettando ampiamente il limite dei 30 minuti. Non sono menzionati esplicitamente box auto o spazi esterni privati (balcone/giardinetto), che sono elementi richiesti dal cliente.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Dato l'ottimo posizionamento geografico e la metratura ideale, ma considerando la tipologia 'appartamento' non preferita e la mancanza di dettagli su box auto e spazi esterni, si potrebbe negoziare un leggero ribasso del 5-7% (puntando a circa 128.000-130.000€) per avvicinarsi al budget ideale del cliente e compensare i punti deboli.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-08"
+        },
         {
             "title": "Trilocale Arredato in Via Umberto I°, Pandino",
             "price": "115.000 €",
