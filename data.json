@@ -1,6 +1,36 @@
 {
-    "last_update": "12/06/2026 09:04",
+    "last_update": "13/06/2026 08:24",
     "houses": [
+        {
+            "title": "Villetta bifamiliare da ultimare in Via delle Robinie",
+            "price": "80.000 €",
+            "prezzo_numerico": 80000,
+            "location": "Casale Cremasco Vidolasco",
+            "description": "Villetta bifamiliare di 100 m² con 4 stanze, situata in Via delle Robinie s.n.c, Casale Cremasco Vidolasco. L'immobile è da ultimare, offrendo la possibilità di personalizzazione degli interni e delle finiture.",
+            "link": "https://www.idealista.it/immobile/36006254/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa villetta bifamiliare a Casale Cremasco Vidolasco si presenta come un'opportunità estremamente interessante e conveniente, soprattutto considerando il prezzo di 80.000 €, ben al di sotto sia del budget massimo che di quello ideale del cliente. La tipologia 'villetta bifamiliare' e la metratura di 100 m² (4 stanze) rientrano perfettamente nei parametri richiesti di 90-105 m². La zona di Casale Cremasco Vidolasco è ben posizionata rispetto a Crema (Sabbioni) e Trescore Cremasco, rientrando probabilmente nel tempo massimo di auto desiderato e offrendo un ambiente che si presume 'ben servito ma non caotico'.\n\nIl punto cruciale è che l'immobile è 'DA ULTIMARE'. Questo significa che il cliente dovrà affrontare costi aggiuntivi e tempi per il completamento, inclusi gli spazi esterni (potenziale giardinetto piccolo) e la realizzazione di un box auto, che non sono specificati ma richiesti. Se il cliente è disposto a investire tempo e denaro nelle finiture, questa proprietà offre un'ottima base e un notevole risparmio sul costo iniziale, permettendo una personalizzazione totale. È fondamentale ottenere un preventivo dettagliato dei lavori di ultimazione.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Il prezzo di 80.000 € è già estremamente competitivo, dato che l'immobile è da ultimare e offre una metratura e tipologia ideali. Il margine per un ribasso diretto sul prezzo base potrebbe essere limitato. Tuttavia, si potrebbe negoziare sulle condizioni di vendita, magari includendo nel prezzo alcune opere di base (es. allacciamenti) o un supporto per la fase di progettazione e completamento, oppure richiedere chiarezza massima su ciò che è incluso nello stato attuale e stimare i costi di ultimazione prima di fare un'offerta.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-13"
+        },
+        {
+            "title": "Villetta bifamiliare da ultimare a Casale Cremasco-Vidolasco",
+            "price": "80.000 €",
+            "prezzo_numerico": 80000,
+            "location": "Casale Cremasco-Vidolasco",
+            "description": "Villetta bifamiliare di 100 mq e 4 locali, situata in Via delle Robinie s.n.c a Casale Cremasco-Vidolasco. L'immobile è da ultimare, offrendo un'ottima opportunità di personalizzazione secondo le proprie esigenze.",
+            "link": "https://www.idealista.it/immobile/36006254/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa villetta bifamiliare presenta un'ottima corrispondenza con molti dei parametri di ricerca del cliente. Il prezzo di 80.000 € è eccezionalmente vantaggioso, ben al di sotto del budget ideale di 125.000 € e massimo di 150.000 €. La metratura di 100 mq si inserisce perfettamente nel range richiesto (90-105 mq) e la tipologia (villetta bifamiliare) è esattamente quella preferita. La posizione a Casale Cremasco-Vidolasco è ideale, trovandosi a pochi minuti da Trescore Cremasco (lavoro) e vicina a Crema (famiglia), soddisfacendo i requisiti di tempo di percorrenza.\n\nIl principale aspetto da considerare è che l'immobile è 'DA ULTIMARE'. Questo significa che richiederà un investimento aggiuntivo per il completamento, ma offre anche l'enorme vantaggio di poter personalizzare gli interni e gli spazi esterni (come balcone e giardinetto piccolo, se previsti nel progetto originale) e valutare l'integrazione di un box auto, tutti elementi richiesti dal cliente. Sarà fondamentale un sopralluogo per comprendere l'entità dei lavori e i costi stimati per il completamento e le personalizzazioni.",
+            "valutazione_prezzo": 10,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Data l'offerta già estremamente vantaggiosa per la tipologia, metratura e posizione, il margine di negoziazione sul prezzo base potrebbe essere limitato. Si consiglia piuttosto di concentrare l'attenzione sulla valutazione dei costi di ultimazione e sulla possibilità di includere parte di essi o specifici interventi nel prezzo finale, se il budget lo consente, dopo aver effettuato un'analisi tecnica approfondita.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-13"
+        },
         {
             "title": "Trilocale in Via Filippo Brunelleschi, Rivolta d'Adda",
             "price": "109.000 €",
