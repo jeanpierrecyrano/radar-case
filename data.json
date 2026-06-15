@@ -1,6 +1,21 @@
 {
-    "last_update": "14/06/2026 08:42",
+    "last_update": "15/06/2026 10:59",
     "houses": [
+        {
+            "title": "Bilocale in Via Montello s.n.c, San Bernardino - Castelnuovo, Crema",
+            "price": "90.000 €",
+            "prezzo_numerico": 90000,
+            "location": "Crema (San Bernardino - Castelnuovo)",
+            "description": "Appartamento bilocale di 73,00 m² con 2 locali, situato al 2º piano senza ascensore in Via Montello, San Bernardino - Castelnuovo, Crema. L'immobile si trova in una zona tranquilla e ben servita.",
+            "link": "https://www.idealista.it/immobile/35469535/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo bilocale si trova in una zona di Crema (San Bernardino - Castelnuovo) molto interessante per il cliente, in quanto vicina alla zona famiglia 'Sabbioni' e in un quartiere tranquillo e ben servito, come richiesto. Il prezzo è estremamente vantaggioso, ben al di sotto del budget ideale di 125.000 €. Tuttavia, la tipologia (appartamento bilocale) non corrisponde alla preferenza per una villetta indipendente o bifamiliare, e la metratura (73 mq) è inferiore al minimo di 90 mq desiderato. Non viene esplicitamente menzionato un box auto, che è un requisito del cliente.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Il prezzo è già molto competitivo e attraente per la zona. Data la discrepanza con la tipologia e metratura preferite dal cliente, si potrebbe tentare un piccolo ribasso simbolico (2-3%), ma è improbabile ottenere una riduzione significativa visto il valore dell'offerta.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-15"
+        },
         {
             "title": "Villetta bifamiliare da ultimare in Via delle Robinie",
             "price": "80.000 €",
