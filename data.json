@@ -1,6 +1,21 @@
 {
-    "last_update": "21/06/2026 09:00",
+    "last_update": "22/06/2026 10:42",
     "houses": [
+        {
+            "title": "Trilocale in Vicolo Chiuso s.n.c, Palazzo Pignano",
+            "price": "139.000 €",
+            "prezzo_numerico": 139000,
+            "location": "Palazzo Pignano",
+            "description": "Introvabile trilocale al piano terra con giardino e due posti auto. La metratura di 108 mq è quasi perfetta per le richieste del cliente.",
+            "link": "https://www.idealista.it/immobile/32547588/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio è un'ottima corrispondenza per molte delle richieste del cliente. Sebbene etichettato come 'trilocale', la descrizione 'piano terra con giardino e due posti auto' lo rende molto simile alla tipologia 'villetta' desiderata. La metratura di 108 mq è quasi perfetta. La posizione a Palazzo Pignano è eccellente per la vicinanza sia al lavoro (Trescore Cremasco, circa 5-10 minuti) che alla zona familiare (Sabbioni, Crema, circa 10-15 minuti). La presenza di un giardino e due posti auto soddisfa pienamente le esigenze di spazi esterni e parcheggio, e 'Vicolo Chiuso' suggerisce un ambiente non caotico.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 9,
+            "consiglio_ribasso": "Considerando l'ottimo allineamento con le preferenze del cliente (tipologia, spazi esterni, posti auto, metratura e posizione), il prezzo è già molto buono. Un piccolo tentativo di ribasso è sempre consigliabile, ma non dovrebbe essere un fattore decisivo data la rarità di un match così forte.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-22"
+        },
         {
             "title": "Villa unifamiliare a Bagnolo Cremasco",
             "price": "€ 139.000",
