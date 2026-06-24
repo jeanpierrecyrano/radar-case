@@ -1,6 +1,51 @@
 {
-    "last_update": "23/06/2026 08:33",
+    "last_update": "24/06/2026 08:27",
     "houses": [
+        {
+            "title": "Bilocale in vendita a Palazzo Pignano, Centro",
+            "price": "€ 103.000",
+            "prezzo_numerico": 103000,
+            "location": "Palazzo Pignano",
+            "description": "Un bilocale di 90 m² con 2 locali e 1 bagno, situato in via Roma 4, nel centro di Palazzo Pignano. L'immobile è offerto ad un prezzo competitivo.",
+            "link": "https://clicks.immobiliare.it/f/a/--lj33PCsH00-MVvl38sMA~~/AAAHahA~/y03c74yD5PDkN4Um3xxjIFxLYO03s0RsXhdiXlQcSXtJvvvcLh6I2ezdlnUyJ0kd0YZa-SqGjxcktqx5zCIq8hhENl7fnbd0XNo1sTC2fGuSoMlxFH9dJ_jZ9X4Aoe7N",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un bilocale a Palazzo Pignano, una località ben posizionata rispetto alle tue aree di interesse (Trescore Cremasco e Crema) e che presumibilmente offre un ambiente 'ben servito ma non caotico'. Il prezzo di € 103.000 è estremamente vantaggioso, ben al di sotto sia del budget ideale che massimo. Anche la metratura di 90 m² rientra perfettamente nel tuo intervallo desiderato. Tuttavia, c'è una **notevole discordanza sulla tipologia**: si tratta di un 'bilocale' (appartamento con due locali, probabilmente camera da letto e soggiorno con angolo cottura) mentre la tua preferenza è per una 'villetta indipendente o bifamiliare'. Inoltre, non sono menzionati balconi/giardinetto o box auto, che sono per te requisiti importanti. Se la tipologia non è negoziabile, questo immobile potrebbe non essere adatto, nonostante gli altri parametri positivi.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Considerato che il prezzo è già molto basso e allettante, e che la tipologia non corrisponde alla tua preferenza principale, lo spazio per un forte ribasso potrebbe essere limitato. Ti consiglio di valutare se un bilocale possa essere una soluzione temporanea o se, nonostante il prezzo, non soddisfi le tue esigenze fondamentali di spazio e tipologia abitativa. Un leggero ribasso (es. 2-3%) potrebbe essere tentabile data l'assenza di spazi esterni e box menzionati.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-24"
+        },
+        {
+            "title": "Bilocale in Via Roma, 4, Palazzo Pignano",
+            "price": "103.000 €",
+            "prezzo_numerico": 103000,
+            "location": "Palazzo Pignano",
+            "description": "Appartamento bilocale di 90 mq situato al piano terra di un edificio nel centro di Palazzo Pignano, in Via Roma, 4. Si presenta come una soluzione abitativa funzionale e accogliente.",
+            "link": "https://www.idealista.it/immobile/36098534/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-06-23T151821&utm_link=propertyNewLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=d35dac28-db0e-44bc-8f23-c0baa02e61fe",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'immobile si presenta come un bilocale al piano terra nel centro di Palazzo Pignano. Il prezzo di 103.000 € è estremamente interessante e ben al di sotto sia del budget massimo (150.000 €) che di quello ideale (125.000 €) del cliente. La metratura di 90 mq rientra perfettamente nei parametri richiesti dal cliente (min 90 mq, max 105 mq). Tuttavia, la tipologia 'appartamento/bilocale' non corrisponde alla preferenza del cliente per una villetta indipendente o bifamiliare. Non sono menzionati spazi esterni specifici come balcone o giardinetto piccolo, né la presenza di un box auto, che sono requisiti importanti. La posizione in centro paese potrebbe soddisfare la richiesta di un quartiere ben servito, ma è fondamentale verificare la compatibilità con le zone di lavoro (Trescore Cremasco) e famiglia (Sabbioni, Crema) e i tempi di percorrenza massimi (30 minuti). Potrebbe essere un'alternativa valida se il cliente è disposto a scendere a compromessi sulla tipologia abitativa e sulla presenza di spazi esterni e box auto.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Il prezzo è già molto competitivo e inferiore al budget ideale. Vista la tipologia (bilocale/appartamento) che non è quella preferita dal cliente e la mancanza di informazioni su spazi esterni e box auto, si potrebbe tentare una trattativa per un leggero ribasso, anche se il margine potrebbe essere limitato. L'attenzione principale dovrebbe essere rivolta alla verifica sul posto delle caratteristiche non esplicitate e della reale corrispondenza con le esigenze del cliente (es. spazi esterni, box, vicinato, tempi di percorrenza).",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-24"
+        },
+        {
+            "title": "Casa indipendente in Via Dossena s.n.c, Castelleone",
+            "price": "97.000 €",
+            "prezzo_numerico": 97000,
+            "location": "Castelleone",
+            "description": "Abitazione indipendente con box a Castelleone, in Via Dossena s.n.c. L'immobile di 97 m² con 2 stanze si trova in posizione comoda e ben servita.",
+            "link": "https://www.idealista.it/immobile/36102029/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-06-23T195851&utm_link=propertyNewLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=c5c0fe81-5e7a-4d51-9351-423b78271cde",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio di una casa indipendente a Castelleone si allinea molto bene con la maggior parte dei suoi criteri di ricerca. Il prezzo è significativamente inferiore al suo budget ideale, la metratura è perfetta (97 m² rientrano perfettamente nel range 90-105 m²) e la presenza di un box auto soddisfa una delle sue richieste chiave. La posizione a Castelleone è comoda e ben servita, in linea con il vibe del quartiere desiderato, ed è entro i tempi di percorrenza massimi dalle zone di suo interesse (Trescore Cremasco e Sabbioni, Crema). L'unico dettaglio non esplicitamente menzionato è una descrizione più specifica degli spazi esterni (balcone/giardinetto), che andrebbe verificata tramite le 20 foto indicate o una visita.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 9,
+            "consiglio_ribasso": "Dato il prezzo già molto competitivo rispetto al suo budget ideale e massimo, un ribasso significativo potrebbe essere difficile da ottenere. Suggerirei un tentativo di negoziazione moderato, magari nell'ordine del 3-5% (circa 3.000-5.000 €), o basato su eventuali piccole necessità di ristrutturazione o adeguamento che potrebbero emergere dopo una visita, per testare la disponibilità del venditore.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-24"
+        },
         {
             "title": "Appartamento Trilocale a Sergnano",
             "price": "138.000 €",
