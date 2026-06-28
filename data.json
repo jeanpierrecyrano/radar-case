@@ -1,6 +1,36 @@
 {
-    "last_update": "27/06/2026 07:54",
+    "last_update": "28/06/2026 08:24",
     "houses": [
+        {
+            "title": "Trilocale in Via Carrubbio, 4, Monte Cremasco",
+            "price": "120.000 €",
+            "prezzo_numerico": 120000,
+            "location": "Monte Cremasco",
+            "description": "Ampio trilocale di 92 mq in contesto di sole sei famiglie, situato al piano rialzato senza ascensore. L'immobile include un box auto e dispone di 3 locali.",
+            "link": "https://www.idealista.it/immobile/32942886/?utm_medium=email&utm_campaign=daily_oneSearch_withSugg_sale&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-06-27T111322&utm_link=propertyNewVisita360Link&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertOneDailySuggestions&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=f4380d3c-90c8-436b-b6d6-f6b54afb70ca",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio per un trilocale a Monte Cremasco è una proposta interessante, pur non essendo una villetta indipendente o bifamiliare, tipologia preferita dal cliente. Il prezzo di 120.000 € è eccellente, quasi identico al budget ideale (125.000 €) e ben al di sotto del massimo consentito. La metratura di 92 m² è perfettamente in linea con il range desiderato (90-105 m²), e la presenza del box auto soddisfa un requisito chiave. La posizione a Monte Cremasco offre buoni tempi di percorrenza sia per il lavoro a Trescore Cremasco (circa 10-15 min) che per la famiglia a Sabbioni/Crema (circa 10 min). Il contesto di sole sei famiglie suggerisce un ambiente riservato e potenzialmente non caotico. Sarà importante verificare di persona la presenza e le dimensioni degli spazi esterni (balcone o giardinetto) e il 'vibe' specifico del quartiere.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Il prezzo richiesto è già molto competitivo e si allinea quasi perfettamente al budget ideale. Data l'ottima corrispondenza con le caratteristiche principali (metratura, box, posizione), i margini per un ribasso significativo potrebbero essere limitati. È sempre consigliabile tentare una leggera trattativa.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-28"
+        },
+        {
+            "title": "Trilocale con box a Montodine, Vicinanze Crema",
+            "price": "89.000 €",
+            "prezzo_numerico": 89000,
+            "location": "Montodine",
+            "description": "Un trilocale di 98 m² situato al secondo piano senza ascensore, offerto ad un prezzo vantaggioso. L'immobile include un box auto ed è disponibile subito. Sono possibili pagamenti personalizzati.",
+            "link": "https://www.idealista.it/immobile/36128051/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo immobile si presenta come un'ottima opportunità economica, ben al di sotto del budget ideale del cliente di 125.000 €. La metratura di 98 m² rientra perfettamente nel range desiderato (90-105 m²) e l'inclusione del box auto soddisfa un requisito chiave. Montodine si trova a una distanza ragionevole da Trescore Cremasco (lavoro) e Crema/Sabbioni (famiglia), probabilmente entro i 30 minuti massimi in auto. Il principale scostamento riguarda la tipologia: si tratta di un appartamento al secondo piano, non una villetta indipendente o bifamiliare come preferito dal cliente. Inoltre, essendo al secondo piano, è improbabile che soddisfi la richiesta di un giardinetto piccolo, sebbene un balcone potrebbe essere presente. La mancanza di ascensore potrebbe essere un fattore da considerare. Tuttavia, come annuncio consigliato 'un po' diverso dai filtri', offre un valore notevole per prezzo e dimensioni.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Il prezzo di 89.000 € è già molto aggressivo, pubblicizzato come un 'vero affare'. Le possibilità di un ulteriore ribasso sul prezzo di acquisto sono probabilmente limitate. Conviene piuttosto focalizzarsi sulla velocità di chiusura della trattativa e verificare eventuali costi accessori non esplicitati che potrebbero essere oggetto di negoziazione.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-28"
+        },
         {
             "title": "Trilocale in Via Pinetti s.n.c, Montodine con box",
             "price": "89.000 €",
