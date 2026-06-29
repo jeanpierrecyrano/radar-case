@@ -1,6 +1,21 @@
 {
-    "last_update": "28/06/2026 08:24",
+    "last_update": "29/06/2026 09:28",
     "houses": [
+        {
+            "title": "Casa indipendente ristrutturata in corte lombarda a Moscazzano",
+            "price": "118.000 €",
+            "prezzo_numerico": 118000,
+            "location": "Moscazzano",
+            "description": "Graziosa porzione di abitazione indipendente di 98 M² completamente ristrutturata, situata nel centro del paese all'interno di una caratteristica corte lombarda. L'immobile dispone di 3 camere.",
+            "link": "https://www.idealista.it/immobile/36138609/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio si presenta molto interessante e in linea con diversi parametri di ricerca. Il prezzo di 118.000 € per una casa indipendente di 98 M² ristrutturata è notevolmente al di sotto del budget ideale di 125.000 € e ampiamente sotto il massimo di 150.000 €. La metratura (98 M²) rientra perfettamente nel range desiderato (90-105 M²). La tipologia 'casa indipendente' o 'porzione di casa indipendente' in corte è un buon match per la preferenza 'Villetta indipendente o bifamiliare'. Moscazzano è una località ben collegata che si trova a pochi minuti d'auto da Crema (e quindi dai Sabbioni) e Trescore Cremasco, rendendola ideale per le esigenze di spostamento. Il 'centro del paese' suggerisce una zona ben servita e, trattandosi di un comune non troppo grande, difficilmente caotica. I punti di incertezza riguardano gli spazi esterni specifici (balcone e giardinetto piccolo) e la presenza del box auto, che non sono menzionati nella descrizione. Sarà fondamentale approfondire questi aspetti in fase di visita.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Il prezzo è già molto competitivo e al di sotto del budget ideale, soprattutto considerando che l'immobile è ristrutturato. Un ribasso significativo potrebbe essere difficile da ottenere. Tuttavia, qualora mancassero il box auto o gli spazi esterni richiesti, si potrebbe tentare una lieve negoziazione (2-3%) argomentando il costo aggiuntivo per un eventuale garage o per la sistemazione di un piccolo spazio esterno, se fattibile.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-06-29"
+        },
         {
             "title": "Trilocale in Via Carrubbio, 4, Monte Cremasco",
             "price": "120.000 €",
