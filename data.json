@@ -1,6 +1,51 @@
 {
-    "last_update": "03/07/2026 08:19",
+    "last_update": "04/07/2026 07:51",
     "houses": [
+        {
+            "title": "Casa indipendente in Via XI Febbraio, Bagnolo Cremasco",
+            "price": "52.000 €",
+            "prezzo_numerico": 52000,
+            "location": "Bagnolo Cremasco",
+            "description": "Casa indipendente di 112 M² con 4 camere a Bagnolo Cremasco, Via XI Febbraio. Il prezzo è stato recentemente ribassato del 12%, passando da 59.000 € a 52.000 €.",
+            "link": "https://www.idealista.it/immobile/35469114/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un'opportunità eccezionale per il cliente. La tipologia di immobile, una 'Casa indipendente', è perfettamente in linea con la preferenza per 'Villetta indipendente o bifamiliare'. Il prezzo di 52.000 € è notevolmente al di sotto del budget ideale (125.000 €) e massimo (150.000 €), rendendolo estremamente attraente. La metratura di 112 M² è leggermente superiore al range massimo richiesto (105 M²), ma è un dettaglio minore considerando l'ottimo prezzo. La posizione a Bagnolo Cremasco è ideale per la vicinanza sia alla zona di lavoro (Trescore Cremasco) che alla zona famiglia (Sabbioni, Crema), con tempi di percorrenza in auto sicuramente inferiori ai 30 minuti. Il paese di Bagnolo Cremasco si adatta al desiderio di un quartiere 'ben servito ma non caotico'. L'unico punto da approfondire durante una visita è la presenza di spazi esterni (balcone, giardinetto) e di un box auto, dettagli non specificati nell'annuncio ma importanti per il cliente. Data la convenienza, si consiglia vivamente una visita esplorativa.",
+            "valutazione_prezzo": 10,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Il prezzo è già stato ribassato del 12% ed è eccezionalmente basso rispetto al valore di mercato e al budget del cliente. Il margine per un ulteriore ribasso è quasi inesistente. Si potrebbe tentare una piccola trattativa solo in caso di difetti importanti scoperti in fase di visita, ma la priorità dovrebbe essere cogliere questa occasione.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-04"
+        },
+        {
+            "title": "Terratetto unifamiliare via XI Febbraio, Centro, Bagnolo Cremasco",
+            "price": "52.000 €",
+            "prezzo_numerico": 52000,
+            "location": "Bagnolo Cremasco",
+            "description": "Terratetto unifamiliare di 112 m² con 4 locali e 2 bagni, situato in via XI Febbraio. Il prezzo è stato recentemente ribassato del 11,9% da 59.000 € a 52.000 €.",
+            "link": "https://clicks.immobiliare.it/f/a/6xvn8WkZlQFcBruZZcz_hQ~~/AAAHahA~/oI9CsVNp1pVW1qNQUUlJ8zklSGKcsTuETwZU6_tnyEByAyLM4niD-pe4PrrCdBp6YPO3JRR-zzUN9H5OnF5_WcIO2K9ApKlsq7ErZ9iSIzrSqwI8dQFOtFjvVliLUmgf8uN-Jckoo835VTyOceL5e8H1lnRQLDNQJYbpZDwJwq_dJtaqc_eD3LGPfQYPo7LLC6vrfebLuV08DijiafuuLUNaFQQvYyh8khdJYpyvwyrdicD24PIJKqn2kEuDl4hdL3vHKDJ_S03_O4OiwzHG1jOpX4D48pLPNWNS6JcH1_dEuU7T_JJQrfu1jVX3uFS9iZPLE1Gh1PNxIAb_dt2ybQ~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo terratetto unifamiliare a Bagnolo Cremasco rappresenta un'opportunità di acquisto notevole, con un prezzo di 52.000 € che è nettamente inferiore sia al budget ideale (125.000 €) che a quello massimo (150.000 €). La tipologia 'terratetto unifamiliare' si allinea bene con la preferenza per una 'villetta indipendente o bifamiliare'. La metratura di 112 m² è leggermente superiore al range preferito (90-105 m²), ma rimane comunque in linea con una ricerca flessibile. La posizione a Bagnolo Cremasco è eccellente per il cliente, garantendo un tragitto di circa 10-20 minuti d'auto sia per Trescore Cremasco (zona lavoro) che per Crema/Sabbioni (zona famiglia), rientrando ampiamente nel tempo massimo di percorrenza. Tuttavia, l'annuncio non fornisce dettagli su balcone/giardinetto o box auto, che sono requisiti importanti per il cliente e necessitano di verifica.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Considerando che il prezzo è già stato ribassato dell'11,9% e si posiziona molto al di sotto del budget ideale del cliente, lo spazio per un ulteriore ribasso significativo potrebbe essere limitato. In fase di visita, si suggerisce di valutare attentamente la presenza e lo stato degli spazi esterni (balcone/giardinetto) e del box auto. Se questi elementi fossero assenti, in cattive condizioni o necessitassero di importanti interventi, si potrebbe tentare una trattativa mirata su questi specifici punti o su eventuali costi di ristrutturazione necessari per allineare l'immobile alle aspettative del cliente.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-04"
+        },
+        {
+            "title": "Trilocale in Vendita a Sergnano",
+            "price": "149.000 €",
+            "prezzo_numerico": 149000,
+            "location": "Sergnano",
+            "description": "Trilocale di 90 M² situato al piano terra a Sergnano, descritto come un immobile che trasmette ordine, luminosità e benessere. Dispone di 3 camere.",
+            "link": "https://www.idealista.it/immobile/36181773/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-07-03T212013&utm_link=propertyNewLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=b7139403-8a0f-4b34-9ce3-5b58013558cd",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio a Sergnano presenta un trilocale che, sebbene rientri nel budget massimo e nella metratura desiderata (90 M²), non corrisponde alla tipologia preferita dal cliente (villetta indipendente o bifamiliare). La posizione a Sergnano è vantaggiosa per la vicinanza a Trescore Cremasco e Crema (Sabbioni), rientrando nei tempi di percorrenza. Tuttavia, mancano informazioni cruciali su spazi esterni specifici (balcone/giardino) e la presenza di un box auto, che sono requisiti importanti. Potrebbe essere un'opzione da considerare solo se il cliente è disposto a valutare un appartamento e se i dettagli mancanti risultassero positivi, ma presenta un forte scostamento dalla tipologia ideale.",
+            "valutazione_prezzo": 6,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Data la tipologia (probabilmente appartamento e non villetta) e il posizionamento del prezzo al limite del budget massimo del cliente, un ribasso significativo di almeno 15-20.000 € sarebbe auspicabile per renderlo più interessante e allineato alle aspettative, specialmente in assenza di un box auto o giardino dedicato che giustifichi il prezzo.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-04"
+        },
         {
             "title": "Trilocale in Via E.Mattei, Spino d'Adda",
             "price": "129.000 €",
