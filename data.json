@@ -1,6 +1,21 @@
 {
-    "last_update": "05/07/2026 07:58",
+    "last_update": "06/07/2026 09:02",
     "houses": [
+        {
+            "title": "Villetta a schiera in Via Don Giorgio Gelmini, 1, Villanova del Sillar...",
+            "price": "169.000 €",
+            "prezzo_numerico": 169000,
+            "location": "Villanova del Sillaro",
+            "description": "3 loc. 110,00 m² Villanova del Sillaro, frazione Borgo San Tommaso. In caratteristico contesto residenziale...",
+            "link": "https://www.idealista.it/immobile/35084337/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa villetta a schiera è l'unica proposta che si avvicina alla tipologia desiderata (Villetta) e la metratura di 110 m² è leggermente al di sopra del massimo ideale (105 m²) ma rientra nel range accettabile (min 90 m²). Tuttavia, presenta criticità importanti: il prezzo di 169.000 € supera il budget massimo di 150.000 € e soprattutto la località (Villanova del Sillaro) è eccessivamente distante dalle zone di interesse (Trescore Cremasco, Sabbioni/Crema), rendendo il tragitto in auto ben oltre i 30 minuti massimi richiesti. Non è menzionato esplicitamente il box auto, che è un requisito fondamentale.",
+            "valutazione_prezzo": 3,
+            "valutazione_match": 2,
+            "consiglio_ribasso": "Data la significativa discrepanza sulla località e sul budget, un ribasso di prezzo, anche se cospicuo, non sarebbe sufficiente a rendere l'immobile interessante per il cliente. Si consiglia di scartare questa proposta e focalizzare la ricerca su altre aree più pertinenti.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-06"
+        },
         {
             "title": "Casa indipendente in Via XI Febbraio, Bagnolo Cremasco",
             "price": "52.000 €",
