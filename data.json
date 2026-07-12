@@ -1,6 +1,21 @@
 {
-    "last_update": "11/07/2026 07:12",
+    "last_update": "12/07/2026 07:31",
     "houses": [
+        {
+            "title": "Casa indipendente in Via San Lorenzo, 13, Fara Olivana con Sola",
+            "price": "73.000 €",
+            "prezzo_numerico": 73000,
+            "location": "Fara Olivana con Sola",
+            "description": "Cerchi una casa grande, davvero grande, ma soprattutto indipendente. Questa casa offre 4 locali e una superficie di 137,00 m².",
+            "link": "https://www.idealista.it/immobile/36178447/?utm_medium=email&utm_campaign=daily_suggestions_oneSearch&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-07-11T110529&utm_link=propertyRecommendedLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertSuggestionsOneSearch&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=f4315d75-fd15-4f4e-96b9-2da857f0893b",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa 'casa indipendente' a Fara Olivana con Sola rappresenta il migliore match tra gli annunci proposti. Il prezzo di 73.000 € è estremamente vantaggioso e ben al di sotto del budget massimo e ideale del cliente. La tipologia 'casa indipendente' è perfettamente in linea con la preferenza per una villetta indipendente o bifamiliare. Anche la posizione è molto buona, in quanto Fara Olivana con Sola dista circa 20-25 minuti di auto sia da Trescore Cremasco (zona lavoro) che da Sabbioni, Crema (zona famiglia), rientrando nei tempi massimi desiderati di 30 minuti. Il principale scostamento riguarda la metratura (137 m²), che è superiore alla fascia preferita (90-105 m²), ma per una casa indipendente questo può offrire maggiore versatilità o potenziale per diverse destinazioni d'uso. Non sono menzionati esplicitamente box auto o spazi esterni specifici (balcone/giardinetto), ma è altamente probabile che una casa indipendente abbia un giardinetto e la possibilità di un box o posto auto. Sarà fondamentale verificare questi aspetti in fase di visita per confermare il pieno rispetto dei requisiti.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Considerato il prezzo già molto competitivo (73.000 €) e ben al di sotto sia del budget massimo che ideale del cliente, le possibilità di un ribasso significativo potrebbero essere limitate. Tuttavia, dopo una visita approfondita che evidenzi eventuali lavori di ristrutturazione necessari, un tentativo di trattativa per un piccolo aggiustamento (es. 5.000 €) per coprire parte delle spese accessorie o dei lavori più urgenti potrebbe essere giustificato.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-12"
+        },
         {
             "title": "Appartamento in Vendita a Pandino - Un'Occasione da Non Perdere!",
             "price": "120.000 €",
