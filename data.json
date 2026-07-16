@@ -1,6 +1,51 @@
 {
-    "last_update": "15/07/2026 07:18",
+    "last_update": "16/07/2026 07:27",
     "houses": [
+        {
+            "title": "Quadrilocale ottimo stato, primo piano, Izano",
+            "price": "120.000 €",
+            "prezzo_numerico": 120000,
+            "location": "Izano",
+            "description": "Quadrilocale di 90 m² con 4 locali e 1 bagno, in ottimo stato, situato al primo piano a Izano.",
+            "link": "https://clicks.immobiliare.it/f/a/jMKZF-fG4g-nQncRDy0Wxg~~/AAAHahA~/97UN4ND5pZnPiHrhC0YZzv4bFh5buZexQH7uQ03J6eoUsK8fu9aZAVjzK8j7hIEsRaEIaAU50ammj8UW2UCWO1Pbjfb8_fbnIHUpNpVzAdTgBbimdoNcvVlGa2vaa2benJ12A-Ab5EZG0SeQoEiZNuMRb3O21D8m6ilsul0bE6LNxWLcBXGPal_nIa0KZs4g9CIlSR5HsSDJu3ZH8Xv9TIy15-zXzCxagrK3IrgvrN347vpo2ysswPCGVvZ_8KjY5EEhwaNmQ6K_fEmSwnkBT2mx8WOU100ZHeTQ6oLRR2t1pnmxOJQsTnUuavi5zpwC0w3WfAzH_YvK5WC16AMC7A~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo quadrilocale a Izano rappresenta un'ottima opportunità per prezzo e metratura, allineandosi perfettamente con i suoi parametri di 120.000€ e 90 m². Il fatto che sia in \"ottimo stato\" è un vantaggio significativo, riducendo le spese immediate. Izano è ben collegata sia a Crema (vicina a Sabbioni, sua zona famiglia) che a Trescore Cremasco (lavoro), rientrando nei tempi di percorrenza massimi. Tuttavia, la tipologia \"Quadrilocale al primo piano\" si discosta dalla sua preferenza per una \"Villetta indipendente o bifamiliare\" con giardinetto. È fondamentale verificare la presenza di un balcone e, soprattutto, di un box auto, requisiti non menzionati nell'annuncio ma prioritari per lei. La presenza di un solo bagno potrebbe essere un fattore da considerare per una famiglia.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Dato l'ottimo stato e il prezzo già molto attraente per un quadrilocale di queste dimensioni e in questa zona, il margine di ribasso è probabilmente limitato. Suggerirei di concentrarsi sulla visita per accertare la presenza di balconi e box auto. Se questi requisiti fossero soddisfatti, l'immobile rappresenta un'offerta molto solida a prezzo pieno. In caso contrario, il prezzo è comunque giusto, ma non pienamente rispondente alle sue richieste.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-16"
+        },
+        {
+            "title": "Trilocale ristrutturato con box e cantina a Crema",
+            "price": "139.000 €",
+            "prezzo_numerico": 139000,
+            "location": "San Bernardino - Castelnuovo, Crema",
+            "description": "Trilocale ristrutturato in Via XI Febbraio, 9 a Crema, a 5 minuti dal centro. Include box e cantina spaziosa. Si presenta come una casa pronta all'uso, senza necessità di interventi.",
+            "link": "https://www.idealista.it/immobile/36268269/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale a Crema si trova in una buona posizione, ben collegata sia per la zona lavoro a Trescore Cremasco (circa 15-20 minuti d'auto) che per la zona famiglia a Sabbioni. La presenza del box e il fatto che sia ristrutturato sono punti a favore, così come il prezzo che rientra nel budget massimo del cliente. Tuttavia, la tipologia (appartamento) non corrisponde alla preferenza del cliente per una villetta indipendente o bifamiliare. Anche la metratura di 88 M² è leggermente al di sotto del minimo richiesto di 90 M². Non sono specificati balconi o giardinetti, che erano preferibili.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Il prezzo di 139.000 € è leggermente superiore al budget ideale (125.000 €) e, considerando che la tipologia non è quella preferita, potrebbe esserci un margine per un'offerta di ribasso. Si potrebbe tentare una proposta intorno ai 130.000-135.000 €, evidenziando che, pur essendo un ottimo immobile, non rispecchia pienamente i criteri principali di ricerca (tipologia e metratura).",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-16"
+        },
+        {
+            "title": "Trilocale in centro storico a Castelleone",
+            "price": "113.000 €",
+            "prezzo_numerico": 113000,
+            "location": "Castelleone",
+            "description": "Appartamento trilocale di 85 M² al primo piano, senza ascensore ma dotato di impianto montascale Stannah. Situato a 50 metri dalla Torre Isso, in pieno centro storico di Castelleone. L'immobile dispone di 3 camere e include un box auto.",
+            "link": "https://www.idealista.it/immobile/36268439/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un prezzo estremamente vantaggioso, ben al di sotto del budget ideale del cliente. La posizione in centro storico a Castelleone è interessante per la vicinanza a Crema (Sabbioni) e Trescore Cremasco, rientrando nei tempi di percorrenza massimi. L'inclusione del box auto è un punto forte che soddisfa un requisito essenziale.\n\nTuttavia, ci sono alcuni punti di discordanza importanti: la tipologia dell'immobile è un trilocale (appartamento), mentre il cliente ha espresso una preferenza chiara per una villetta indipendente o bifamiliare. La metratura di 85 M² è leggermente inferiore al minimo richiesto di 90 M². Inoltre, non sono menzionati balconi o giardinetti, che erano desiderati per gli spazi esterni. L'immobile è al primo piano senza ascensore, sebbene sia dotato di montascale.\n\nNel complesso, l'annuncio rappresenta un'opportunità di prezzo e posizione, ma non rispecchia la tipologia e gli spazi esterni preferiti dal cliente.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Il prezzo di 113.000 € è già molto aggressivo e ben al di sotto del budget ideale del cliente, rendendo i margini di ribasso limitati. Tuttavia, data la discrepanza sulla tipologia (appartamento vs villetta) e la metratura leggermente inferiore a quanto richiesto, si potrebbe tentare una negoziazione per un ribasso simbolico, magari focalizzandosi sull'assenza di spazi esterni desiderati.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-16"
+        },
         {
             "title": "Casa indipendente in Via Solferino, 132, Castelleone",
             "price": "49.000 €",
