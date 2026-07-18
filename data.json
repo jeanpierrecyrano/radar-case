@@ -1,6 +1,36 @@
 {
-    "last_update": "17/07/2026 07:24",
+    "last_update": "18/07/2026 07:04",
     "houses": [
+        {
+            "title": "Trilocale in vendita a Crespiatica, Centro, via Pascoli",
+            "price": "€ 140.000",
+            "prezzo_numerico": 140000,
+            "location": "Crespiatica",
+            "description": "Si tratta di un trilocale di 97 m² situato in via Pascoli, nella zona Centro di Crespiatica. L'immobile dispone di 3 locali e 2 bagni.",
+            "link": "https://clicks.immobiliare.it/f/a/jhzp7yc5j6iVJuQa5naFJQ~~/AAAHahA~/_qEqw5uobIJt0ZcXTb15VDrOoEtguaKUjlK1ZdoN0gQJJATUfSFFaTnezzzVDzTtWyJ-8DO_YNe2e53LAAkFrsWtQWuRcA4Q-dkTWilsu78007EGDRX493-S438Ai3Px",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio si riferisce a un trilocale, che non corrisponde alla sua preferenza per una villetta indipendente o bifamiliare. Tuttavia, la metratura di 97 m² rientra perfettamente nel suo intervallo desiderato (90-105 m²) e il prezzo di 140.000 € è all'interno del budget massimo, sebbene superiore a quello ideale. La località di Crespiatica è vicina sia a Trescore Cremasco (zona lavoro) che a Crema (Sabbioni, zona famiglia), con tempi di percorrenza in auto compatibili. Mancano informazioni su spazi esterni specifici (balcone/giardinetto) e box auto, che sono requisiti per lei. La tipologia rimane il punto di maggiore discordanza.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Data la tipologia differente rispetto alle sue preferenze e il prezzo leggermente superiore al budget ideale, si potrebbe tentare una negoziazione per un piccolo ribasso, ma il problema principale è che non si tratta di una villetta. Suggerirei di approfondire solo se la tipologia dell'appartamento fosse un'opzione secondaria per lei.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-18"
+        },
+        {
+            "title": "Trilocale in Villa con Terrazzo Esclusivo e Box a Capergnanica",
+            "price": "130.000 €",
+            "prezzo_numerico": 130000,
+            "location": "Capergnanica",
+            "description": "Elegante appartamento trilocale di 105 M² situato al primo e ultimo piano di una villa. L'immobile dispone di 3 camere, un ampio terrazzo esclusivo e un box auto incluso. Si trova in Via T. L. Cazzamalli, 3, in una tranquilla zona residenziale.",
+            "link": "https://www.idealista.it/immobile/36290100/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio a Capergnanica presenta un'eccellente corrispondenza con i suoi criteri di ricerca. Il prezzo di 130.000 € è perfettamente all'interno del suo budget, trovandosi tra l'ideale (125.000 €) e il massimo (150.000 €). La metratura di 105 M² è esattamente quella massima da lei desiderata. Sebbene la tipologia sia un 'Appartamento in Villa' e non una villetta indipendente o bifamiliare pura, il fatto che sia al 'Primo e Ultimo Piano con Terrazzo Esclusivo' offre un buon livello di indipendenza e spazi esterni paragonabili a un giardinetto, con il vantaggio di un terrazzo. La presenza del box auto incluso è un requisito soddisfatto. Capergnanica è un'ottima posizione, ben collegata sia a Crema (per la famiglia) che a Trescore Cremasco (per il lavoro), rientrando nei tempi massimi di percorrenza. Il quartiere è residenziale, suggerendo un ambiente non caotico ma presumibilmente ben servito data la vicinanza a Crema.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 9,
+            "consiglio_ribasso": "Il prezzo di 130.000 € è già molto competitivo e si allinea perfettamente al suo budget ideale. Data l'ottima corrispondenza con i suoi criteri e il prezzo già vantaggioso per la metratura e le caratteristiche (appartamento in villa, terrazzo, box), il margine per un ribasso significativo potrebbe essere limitato. Tuttavia, si potrebbe tentare una leggera trattativa per avvicinarsi ai 125.000 € del suo budget ideale (es. proponendo 127.000-128.000 €), giustificandola magari con la non completa aderenza alla tipologia 'villetta indipendente'. Non consiglierei di spingere troppo per un ribasso consistente per non rischiare di perdere l'opportunità.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-18"
+        },
         {
             "title": "Appartamento all'asta a Palazzo Pignano",
             "price": "Da € 29.550",
