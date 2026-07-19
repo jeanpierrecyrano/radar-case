@@ -1,6 +1,36 @@
 {
-    "last_update": "18/07/2026 07:04",
+    "last_update": "19/07/2026 07:29",
     "houses": [
+        {
+            "title": "Trilocale in Villa con Terrazzo Esclusivo a Capergnanica",
+            "price": "130.000 €",
+            "prezzo_numerico": 130000,
+            "location": "Capergnanica",
+            "description": "Appartamento in Villa - Primo e Ultimo Piano con Terrazzo Esclusivo. L'immobile è un trilocale di 105,00 m², situato al 1º piano senza ascensore, con box compreso.",
+            "link": "https://www.idealista.it/immobile/36148663/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale a Capergnanica, in un contesto di villa, offre una metratura perfetta di 105 mq e un prezzo ben allineato al budget del cliente (130.000 €), con box auto incluso. La presenza di un terrazzo esclusivo soddisfa la richiesta di spazi esterni. Sebbene non sia una villetta indipendente o bifamiliare pura, la tipologia 'appartamento in villa - primo e ultimo piano' potrebbe offrire un buon compromesso in termini di privacy e spazi. La posizione è ottima per la vicinanza a Crema e Trescore Cremasco, garantendo un quartiere tranquillo ma ben collegato, rientrando ampiamente nel tempo massimo di percorrenza per il luogo di lavoro.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 9,
+            "consiglio_ribasso": "Il prezzo è già competitivo per la metratura e le caratteristiche offerte, soprattutto considerando il box auto incluso e il terrazzo esclusivo. Si potrebbe tentare un'offerta leggermente inferiore, nell'ordine dei 125.000€ - 128.000€, giustificando la richiesta con la preferenza per una villetta indipendente, ma senza aspettarsi un ribasso significativo.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-19"
+        },
+        {
+            "title": "Trilocale a Vailate",
+            "price": "95.000 €",
+            "prezzo_numerico": 95000,
+            "location": "Vailate",
+            "description": "Luminoso appartamento trilocale di 85 M² all'ultimo piano (senza ascensore), libero su tre lati, in una palazzina recente. Situato in posizione centrale a Vailate, comodo a tutti i principali servizi.",
+            "link": "https://www.idealista.it/immobile/36295011/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-07-18T211919&utm_link=propertyNewLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=185b5838-3097-4ed9-b73a-554000f82adb",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio propone un trilocale a Vailate a un prezzo estremamente vantaggioso, ben al di sotto del budget ideale del cliente. La posizione è centrale e ben servita, e Vailate è un'ottima soluzione per i tempi di percorrenza verso Trescore Cremasco e Crema (entro 30 minuti). Tuttavia, l'immobile è un appartamento al secondo piano senza ascensore, il che è una netta discrepanza rispetto alla preferenza del cliente per una villetta indipendente o bifamiliare. La metratura (85 M²) è anche leggermente inferiore al minimo desiderato (90 M²). Non viene menzionato un box auto (richiesto) né specifici spazi esterni come balcone o giardinetto. Le differenze tipologiche e strutturali sono significative e rendono l'annuncio poco allineato alle aspettative principali del cliente, nonostante il prezzo attraente.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Il prezzo di 95.000 € è già molto competitivo e ampiamente al di sotto del budget massimo del cliente. Considerando le importanti discrepanze con la tipologia di immobile desiderata (appartamento anziché villetta, senza box o giardino menzionati), non è opportuno concentrarsi su un ribasso. Se la tipologia di immobile è un criterio irrinunciabile, questo annuncio non è consigliabile.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-19"
+        },
         {
             "title": "Trilocale in vendita a Crespiatica, Centro, via Pascoli",
             "price": "€ 140.000",
