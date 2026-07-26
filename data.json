@@ -1,6 +1,36 @@
 {
-    "last_update": "25/07/2026 07:23",
+    "last_update": "26/07/2026 07:38",
     "houses": [
+        {
+            "title": "Casa Semindipendente con Ampia Area Esterna a Ticengo",
+            "price": "69.000 €",
+            "prezzo_numerico": 69000,
+            "location": "Ticengo",
+            "description": "Proposta di casa semindipendente disposta su tre livelli con area esterna. L'immobile, con 5 locali e 100 m², offre ampi spazi a un prezzo eccezionale, situato in un contesto tranquillo ma ben collegato.",
+            "link": "https://www.idealista.it/immobile/32044654/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa casa semindipendente a Ticengo rappresenta un'opportunità estremamente interessante. Il prezzo di 69.000€ è nettamente inferiore al suo budget ideale (125.000€) e massimo (150.000€), lasciando un notevole margine per eventuali ammodernamenti o per la realizzazione di un box auto, requisito non esplicitamente menzionato ma plausibile data la presenza di un'area esterna. La metratura di 100 m² si allinea perfettamente con le sue esigenze (90-105 m²), e la tipologia 'semindipendente' si avvicina molto alla 'villetta' desiderata. La posizione è strategica per raggiungere sia Trescore Cremasco (lavoro) che Crema/Sabbioni (famiglia) in circa 20-25 minuti. Il 'vibe' di centro paese, ma non caotico, sembra ben soddisfatto.",
+            "valutazione_prezzo": 10,
+            "valutazione_match": 9,
+            "consiglio_ribasso": "Data l'ottima proposta di prezzo, il margine di trattativa potrebbe essere limitato. Tuttavia, si potrebbe tentare un'offerta leggermente inferiore (es. 65.000€-67.000€), motivando la richiesta con la necessità di verificare la fattibilità e i costi per un eventuale box auto o per interventi di personalizzazione/ammodernamento.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-26"
+        },
+        {
+            "title": "Quadrilocale in Via Giovanni Pascoli, 5, Rivolta d'Adda",
+            "price": "148.000 €",
+            "prezzo_numerico": 148000,
+            "location": "Rivolta d'Adda",
+            "description": "Luminoso appartamento quadrilocale di 120 m² con 4 stanze, situato al primo piano in Via Giovanni Pascoli, 5, Rivolta d'Adda. Immerso nella tranquillità, il prezzo è sceso a 148.000 €.",
+            "link": "https://www.idealista.it/immobile/35388943/?utm_medium=email&utm_campaign=express_priceDrop_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-07-25T194824&utm_link=propertyLowPriceContact&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=378fe022-9c38-4ea4-a3b2-1a68d2666e64",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'immobile si trova a Rivolta d'Adda, una località tranquilla. Il prezzo di 148.000 € rientra nel budget massimo del cliente (150.000 €) ma è significativamente superiore al budget ideale (125.000 €). La metratura di 120 m² supera il limite massimo richiesto di 105 m². La tipologia è un appartamento quadrilocale, discostandosi dalla preferenza principale del cliente per una villetta indipendente o bifamiliare. Non sono specificati balcone, giardinetto o box auto, che sono elementi richiesti o preferiti dal cliente. La posizione di Rivolta d'Adda è al limite della zona di interesse, pur potendo rientrare nei tempi di percorrenza per Trescore Cremasco/Sabbioni, Crema. Nel complesso, presenta diverse discrepanze rispetto ai parametri di ricerca.",
+            "valutazione_prezzo": 6,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Il prezzo ha già subito un ribasso del 3%, passando da 153.000 € a 148.000 €. Data la non perfetta aderenza alle preferenze del cliente (tipologia, metratura e assenza di dettagli su spazi esterni/box), un'ulteriore trattativa sul prezzo è auspicabile, ma un ribasso significativo potrebbe essere difficile considerando il recente decremento. Si potrebbe valutare se la tranquillità della zona e le dimensioni interne siano comunque un compromesso accettabile, prima di tentare una negoziazione mirata a ridurre il divario dal budget ideale.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-26"
+        },
         {
             "title": "Trilocale in Via Roma, 16, Ricengo",
             "price": "148.000 €",
