@@ -1,6 +1,36 @@
 {
-    "last_update": "26/07/2026 07:38",
+    "last_update": "27/07/2026 08:33",
     "houses": [
+        {
+            "title": "Quadrilocale in Via Giovanni Pascoli, 5, Rivolta d'Adda",
+            "price": "148.000 €",
+            "prezzo_numerico": 148000,
+            "location": "Rivolta d'Adda",
+            "description": "Luminoso quadrilocale di 120 mq situato in Via Giovanni Pascoli, 5 a Rivolta d'Adda. L'immobile, al primo piano senza ascensore, include un box auto. Immerso nella tranquillità della zona.",
+            "link": "https://www.idealista.it/immobile/35388943/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo quadrilocale di 120 mq a Rivolta d'Adda presenta diversi aspetti positivi, come l'inclusione del box auto e la posizione in una zona tranquilla, ben collegata alle aree di interesse del cliente (Trescore Cremasco e Crema). La metratura è leggermente superiore all'ideale (90-105 mq), e il prezzo di 148.000 € è al limite del budget massimo. Il principale scostamento riguarda la tipologia: si tratta di un appartamento, mentre il cliente predilige una villetta indipendente o bifamiliare. Non viene menzionato esplicitamente uno spazio esterno come balcone o giardinetto, ma essendo al 1° piano un balcone è probabile.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Il prezzo di 148.000 € è già stato ribassato del 3%, suggerendo una certa motivazione da parte del venditore. Considerando che l'immobile è un appartamento e non una villetta (la tipologia preferita), il cliente ha un buon argomento per tentare un'ulteriore trattativa. Si potrebbe formulare un'offerta più aggressiva, magari intorno ai 135.000-140.000 €, per avvicinarsi al budget ideale e compensare il mismatch sulla tipologia.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-27"
+        },
+        {
+            "title": "Casa indipendente in Via Marazzi s.n.c, Capergnanica",
+            "price": "89.000 €",
+            "prezzo_numerico": 89000,
+            "location": "Capergnanica",
+            "description": "Porzione di cascina ristrutturata di 133 mq con 4 locali, box auto e cortile privato. Situata a Capergnanica in posizione tranquilla.",
+            "link": "https://www.idealista.it/immobile/36200820/?utm_medium=email&utm_campaign=daily_suggestions_oneSearch&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-07-27T081003&utm_link=propertyRecommendedPhoto&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertSuggestionsOneSearch&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=194b03d0-13a1-4835-b9fc-d6f059db4be0",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa proprietà rappresenta un ottimo potenziale per il cliente, in quanto risponde alla tipologia preferita (casa indipendente) e ha un prezzo eccezionalmente basso, ben al di sotto del budget ideale di 125.000€. Il box e il cortile soddisfano pienamente le richieste per gli spazi esterni e il parcheggio. La zona di Capergnanica, pur essendo un comune a sé, è vicina a Crema e compatibile con le zone di lavoro/famiglia richieste, offrendo un ambiente tranquillo. L'unico aspetto da valutare è la metratura, 133 mq, che supera il range massimo desiderato (105 mq), ma potrebbe essere un surplus gradito considerando il prezzo.",
+            "valutazione_prezzo": 10,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Considerando il prezzo già estremamente vantaggioso per una casa indipendente ristrutturata e la forte richiesta per immobili di questo tipo, un ribasso sostanziale è poco probabile. Si potrebbe tentare un piccolo aggiustamento di prezzo in fase di trattativa (circa 2-3.000 €) qualora emergessero piccole necessità di intervento, ma l'attenzione dovrebbe essere più sulla rapida formalizzazione dell'offerta.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-27"
+        },
         {
             "title": "Casa Semindipendente con Ampia Area Esterna a Ticengo",
             "price": "69.000 €",
