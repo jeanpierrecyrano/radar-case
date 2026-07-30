@@ -1,6 +1,21 @@
 {
-    "last_update": "29/07/2026 07:50",
+    "last_update": "30/07/2026 07:36",
     "houses": [
+        {
+            "title": "Trilocale in Via Pagliari, Ombriano, Sabbioni, San Carlo, Crema",
+            "price": "149.000 €",
+            "prezzo_numerico": 149000,
+            "location": "Ombriano, Sabbioni, San Carlo, Crema",
+            "description": "Appartamento trilocale di 82 m² con 3 locali e 1 bagno, situato in zona Sabbioni/San Carlo a Crema. Il prezzo attuale di 149.000 € rappresenta uno sconto del 19,5% rispetto al valore originale di 185.000 €.",
+            "link": "https://clicks.immobiliare.it/f/a/sLH8JMSqxm1p9lHtRiezwQ~~/AAAHahA~/KBUftejleGaRCAsYIjS39oEK7MGD_x5TeasIBgHSPFvabg_PJ1KRAxkqcBHwLyKMY3Ff2ls9hQnKsx7vX1anUcGXKHyWxwbwcHJru64Bn9dYXdipsup6sR-8PhLoIJaIBfzTHafRxUQW733BBDDFh-6J0lCLsgMdTZyBHCIM2SXkCqJws5U8hQE37gT6FUoUfJGlMfBFuQ-JPNALAOHHmL4A-oQlVuOpkPuDPRtAFrIYaK4HkLPwqjUUkO0uW2i7",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'immobile è un trilocale di 82 m² situato nella zona di Sabbioni/San Carlo a Crema, che è una corrispondenza eccellente per la tua zona famiglia desiderata. Il prezzo di 149.000 € è all'interno del tuo budget massimo (150.000 €) e ha già subito una significativa riduzione del 19,5% (dal prezzo originale di 185.000 €), indicando una potenziale buona opportunità economica. Tuttavia, ci sono delle importanti discrepanze rispetto ai tuoi parametri di ricerca: la tipologia (trilocale) non corrisponde alla tua preferenza per una villetta indipendente o bifamiliare, e la metratura di 82 m² è inferiore al tuo requisito minimo di 90 m². Mancano inoltre informazioni specifiche su spazi esterni (balcone/giardinetto) e box auto, che sono per te requisiti fondamentali. Sebbene la posizione e il prezzo (già scontato) siano interessanti, la tipologia e la dimensione potrebbero non soddisfare le tue esigenze primarie.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Dato che il prezzo ha già subito un notevole ribasso del 19.5% e l'immobile è già vicino al tuo budget massimo, un ulteriore sconto significativo potrebbe essere difficile da ottenere. Tuttavia, considerando che la metratura e la tipologia non corrispondono alle tue richieste specifiche, potresti provare a negoziare per un piccolo ribasso aggiuntivo (es. 140.000€ - 145.000€) o chiedere l'inclusione di eventuali accessori (es. cantina, posto auto/box se disponibile e non menzionato) per compensare i compromessi su metratura e tipologia. La priorità è valutare la tua disponibilità a scendere a compromessi su queste caratteristiche principali prima di avviare una negoziazione aggressiva sul prezzo.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-30"
+        },
         {
             "title": "Casa indipendente terra-tetto nel cuore del Centro Storico di Crema",
             "price": "147.000 €",
