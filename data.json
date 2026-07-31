@@ -1,6 +1,51 @@
 {
-    "last_update": "30/07/2026 07:36",
+    "last_update": "31/07/2026 07:54",
     "houses": [
+        {
+            "title": "Trilocale ristrutturato con box a Sergnano",
+            "price": "95.000 €",
+            "prezzo_numerico": 95000,
+            "location": "Sergnano",
+            "description": "Proponiamo in vendita splendido Trilocale di 103 m², completamente ristrutturato, con 3 camere e box auto incluso. Situato al piano terra senza ascensore, con basse spese di gestione. Ideale per chi desidera spazi ampi e comfort moderno.",
+            "link": "https://www.idealista.it/immobile/36372513/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-07-30T103750&utm_link=propertyNewLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=0ee6427b-f7ec-4af7-b734-864da9d2f953",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un prezzo eccellente (95.000 €) ben al di sotto del tuo budget ideale (125.000 €) e massimo (150.000 €). La metratura di 103 m² è perfettamente in linea con le tue preferenze (90-105 m²) e il box auto è incluso, come richiesto. La località di Sergnano è strategicamente ben posizionata per raggiungere sia Trescore Cremasco (lavoro) che Sabbioni, Crema (famiglia) entro il tempo massimo di 30 minuti, e offre un contesto ben servito ma non caotico. Il punto di maggiore discordanza è la tipologia: si tratta di un 'Trilocale' (generalmente un appartamento) al piano terra, mentre la tua preferenza è per una 'Villetta indipendente o bifamiliare'. Non viene specificato se sono presenti balcone o giardinetto. Potrebbe essere un'ottima opportunità se sei disposto a considerare un appartamento spazioso e completamente ristrutturato, rinunciando alla tipologia 'villetta'.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Il prezzo è già estremamente competitivo e ben al di sotto del tuo budget ideale. Un ribasso significativo potrebbe essere difficile da ottenere e potrebbe non essere necessario dato il valore offerto. Potresti considerare una piccola offerta simbolica se l'immobile ti convince, ma concentrati piuttosto sui vantaggi di prezzo e metratura già presenti.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-31"
+        },
+        {
+            "title": "Appartamento all'asta a Palazzo Pignano",
+            "price": "Da € 29.540",
+            "prezzo_numerico": 29540,
+            "location": "Palazzo Pignano",
+            "description": "Appartamento all'asta situato in Via Vittorio Barzoni 1, Palazzo Pignano, di 86 m² con 4 locali e 1 bagno. Prezzo base d'asta a partire da € 29.540.",
+            "link": "https://clicks.immobiliare.it/f/a/Q1g0Jv7BRWCJdxh2uB_b3A~~/AAAHahA~/Q2dh6WrmXpY_K0wlcQWLWH0uKEdfHq06YZ1CiQq986VQNOhmbFjBTACzlAu84VGoKNbhOErHukwiP5oPDi9w5uRUZqnaVi26bQkHYOTsYKloTZg76fxf0zCfTXZ5DUmlCwlRqx9curhG74VsepkjOwraei4YzvTpcyszj__nWjU~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio riguarda un appartamento all'asta a Palazzo Pignano. La posizione è strategicamente ottima, garantendo un rapido accesso sia a Trescore Cremasco per il lavoro (circa 10-15 minuti in auto) che a Crema/Sabbioni per la famiglia (altrettanto vicina), in una zona che rispecchia la sua preferenza per un'area ben servita ma non caotica. Il prezzo base d'asta di soli € 29.540 è eccezionalmente basso e ben al di sotto del suo budget ideale e massimo, rappresentando un'opportunità economica notevole. Tuttavia, la tipologia 'appartamento' è in netto contrasto con la sua preferenza primaria per una 'Villetta indipendente o bifamiliare'. Inoltre, la metratura di 86 m² è leggermente inferiore al minimo di 90 m² richiesto, e l'annuncio non specifica la presenza di un balcone, di un giardinetto piccolo o di un box auto, elementi per lei importanti. Pertanto, sebbene il prezzo e la posizione siano estremamente vantaggiosi, l'immobile richiede un compromesso significativo sulla tipologia e sulle caratteristiche abitative desiderate.",
+            "valutazione_prezzo": 10,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Trattandosi di un'asta, non si parla di ribasso sul prezzo di listino, ma piuttosto di definire una strategia di offerta. Data la discrepanza tra la tipologia dell'immobile (appartamento) e le sue preferenze (villetta, spazi esterni, box auto), è fondamentale valutare attentamente se il significativo vantaggio economico compensa la rinuncia a queste caratteristiche. Le suggerisco di informarsi a fondo sulle condizioni dell'asta e sull'immobile (spesso venduto nello stato di fatto) per capire se, a fronte di un prezzo così basso, è disposto ad accettare un appartamento e investire eventualmente in modifiche, o se preferisce attendere un annuncio più allineato alle sue esigenze primarie.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-31"
+        },
+        {
+            "title": "Trilocale in Via XX Settembre s.n.c, Sergnano",
+            "price": "95.000 €",
+            "prezzo_numerico": 95000,
+            "location": "Sergnano",
+            "description": "Proponiamo in vendita splendido Trilocale di 103 m² a Sergnano con basse spese di gestione e box auto incluso, situato al piano terra.",
+            "link": "https://www.idealista.it/immobile/36372513/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale a Sergnano è un annuncio interessante per il tuo budget e i requisiti di metratura. Il prezzo di 95.000 € è ben al di sotto sia del tuo budget massimo (150.000 €) che ideale (125.000 €), offrendo un ottimo valore. La metratura di 103 m² rientra perfettamente nel range desiderato di 90-105 m². È un vantaggio l'inclusione del box auto. Tuttavia, la tipologia 'Trilocale' (appartamento) non corrisponde alla tua preferenza di 'Villetta indipendente o bifamiliare', che è un punto di discostamento significativo. Essendo al piano terra, potrebbe esserci uno spazio esterno, ma non è esplicitamente indicato se sia un balcone o un giardinetto. La località di Sergnano è vicina a Crema e Trescore Cremasco, e la distanza dovrebbe essere entro il tempo massimo di percorrenza in auto, ma il 'vibe' del quartiere andrebbe verificato di persona.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Il prezzo di 95.000 € è già estremamente competitivo e significativamente al di sotto del tuo budget ideale, rendendo un ribasso piuttosto difficile e forse non necessario. Ti suggerirei di concentrarti sulla visita dell'immobile per valutare le condizioni reali e verificare la presenza e la tipologia di eventuali spazi esterni. Un piccolo margine di trattativa potrebbe essere tentato solo se dovessero emergere difetti importanti o necessità di interventi di ristrutturazione non previsti.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-07-31"
+        },
         {
             "title": "Trilocale in Via Pagliari, Ombriano, Sabbioni, San Carlo, Crema",
             "price": "149.000 €",
