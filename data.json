@@ -1,6 +1,21 @@
 {
-    "last_update": "01/08/2026 07:30",
+    "last_update": "02/08/2026 07:34",
     "houses": [
+        {
+            "title": "Trilocale Ristrutturato Senza Spese Condominiali a Rivolta d'Adda",
+            "price": "139.000 €",
+            "prezzo_numerico": 139000,
+            "location": "Rivolta d'Adda",
+            "description": "Tempocasa propone in vendita un trilocale di 93MQ al secondo piano (senza ascensore) in Via Mario Cereda s.n.c, Rivolta d'Adda. L'immobile è completamente ristrutturato e non presenta spese condominiali. Rif: RIQUI.",
+            "link": "https://www.idealista.it/immobile/36389233/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-08-01T095648&utm_link=propertyNewPhoto&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=847ed2b1-bc66-4adb-94dd-5d519f4f2bb6",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'immobile si trova a Rivolta d'Adda, una località che offre un buon equilibrio tra servizi e tranquillità. La posizione è strategicamente valida, rientrando ampiamente nei tempi di percorrenza massimi (circa 15-20 minuti) sia da Trescore Cremasco (lavoro) che da Sabbioni/Crema (famiglia). La metratura di 93mq è perfettamente in linea con la richiesta del cliente (90-105mq). Il prezzo di 139.000 € è inferiore al budget massimo di 150.000 €, ma superiore al budget ideale di 125.000 €. Tuttavia, la tipologia 'trilocale al secondo piano senza ascensore' rappresenta una discordanza significativa rispetto alla preferenza per 'Villetta indipendente o bifamiliare'. Inoltre, non ci sono informazioni esplicite su balcone/giardinetto e box auto, che sono requisiti importanti per il cliente.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Considerando la tipologia dell'immobile (appartamento anziché villetta) che non rispecchia pienamente le preferenze del cliente, e l'assenza di informazioni su box auto e spazi esterni importanti, sussistono buoni margini per una trattativa. Suggerisco di provare a negoziare un ribasso del 5-7% (circa 7.000-10.000 €) per avvicinarsi al budget ideale e compensare le discrepanze, indagando contemporaneamente sulla presenza di balconi e la possibilità di un box auto o posto auto incluso.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-02"
+        },
         {
             "title": "Casa indipendente all'asta a Palazzo Pignano",
             "price": "29.550 €",
