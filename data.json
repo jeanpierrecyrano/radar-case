@@ -1,6 +1,51 @@
 {
-    "last_update": "04/08/2026 07:45",
+    "last_update": "05/08/2026 07:43",
     "houses": [
+        {
+            "title": "Casa indipendente da ristrutturare a Genivolta",
+            "price": "59.000 €",
+            "prezzo_numerico": 59000,
+            "location": "Genivolta",
+            "description": "Casa indipendente di 100 m² con 3 locali, sviluppata su due livelli e da rinfrescare. Ideale per chi cerca una soluzione personalizzabile immersa nella tranquillità. Il prezzo è stato recentemente ribassato da 70.000 €.",
+            "link": "https://www.idealista.it/immobile/34580863/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa proprietà a Genivolta è un'opportunità molto interessante che rientra pienamente nel suo budget, essendo ben al di sotto del suo budget ideale di 125.000 € e rientrando perfettamente nella metratura desiderata (100 m² contro i 90-105 m² richiesti). La tipologia 'casa indipendente' si allinea con la sua preferenza per una villetta indipendente o bifamiliare. Il fatto che sia 'da rinfrescare' o 'da personalizzare' è un vantaggio, permettendole di modellarla esattamente secondo i suoi gusti. Genivolta offre la tranquillità che ricerca, e la distanza da Trescore Cremasco (lavoro) e Crema (famiglia) dovrebbe essere gestibile entro i 30 minuti in auto. Tuttavia, per quanto riguarda il 'vibe del quartiere' e la condizione di 'ben servito', data la natura di piccolo comune, sarà fondamentale verificare di persona la disponibilità dei servizi primari. Non vengono menzionati esplicitamente box auto o spazi esterni specifici come balcone o giardinetto piccolo, dettagli da approfondire durante una visita.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Il prezzo è già stato oggetto di un significativo ribasso del 16% (da 70.000 € a 59.000 €), rendendo l'offerta già molto competitiva. Date le condizioni 'da rinfrescare' e il prezzo attuale già vantaggioso, il margine per un ulteriore ribasso potrebbe essere limitato, ma non impossibile. Si potrebbe tentare un'offerta leggermente inferiore al prezzo richiesto, magari vincolata alla verifica delle condizioni strutturali o degli impianti. L'assenza di menzione di un box auto e spazi esterni dettagliati può essere un punto da utilizzare nella negoziazione per giustificare un piccolo sconto.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-05"
+        },
+        {
+            "title": "Appartamento Trilocale con Box a Sergnano",
+            "price": "93.000 €",
+            "prezzo_numerico": 93000,
+            "location": "Sergnano",
+            "description": "Proponiamo in vendita appartamento trilocale di 96 m² a Sergnano, posto al secondo ed ultimo piano. L'immobile è composto da ingresso, ampio e luminoso soggiorno con cucinotto a vista. Box auto compreso nel prezzo.",
+            "link": "https://www.idealista.it/immobile/36410868/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-08-04T181141&utm_link=propertyNewLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=0ffa57b8-5c75-43e0-a48a-8fac351397ee",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un trilocale a Sergnano, con un prezzo di 93.000 € e una metratura di 96 m², perfettamente in linea con il suo budget e le dimensioni richieste. La presenza di un box auto è un punto a favore. La località di Sergnano è ben collegata sia a Trescore Cremasco che a Crema (Sabbioni), rispettando probabilmente i tempi di percorrenza massimi. Tuttavia, la tipologia di immobile (appartamento al secondo ed ultimo piano senza ascensore) si discosta dalla sua preferenza per una villetta indipendente o bifamiliare. Non è esplicitamente menzionato uno spazio esterno come un balcone o giardinetto, che rientra tra le sue preferenze.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Il prezzo è già estremamente competitivo (meno di 1000 €/m² con box incluso). Un piccolo ribasso potrebbe essere tentato, magari basandosi sull'assenza dell'ascensore, ma non mi aspetterei margini ampi data la buona offerta.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-05"
+        },
+        {
+            "title": "Trilocale con balcone in Via Indipendenza, Pandino",
+            "price": "139.000 €",
+            "prezzo_numerico": 139000,
+            "location": "Pandino",
+            "description": "Appartamento trilocale di 85 m² al secondo ed ultimo piano senza ascensore, inserito in un piccolo contesto di sole 4 famiglie. L'immobile è libero e si compone di ingresso, soggiorno con angolo cottura e un ampio balcone. La descrizione menziona anche un disimpegno e una camera. Non è specificato se include un box auto.",
+            "link": "https://www.idealista.it/immobile/36411707/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio si riferisce a un trilocale situato a Pandino, che è una località nell'Area di Crema e dovrebbe rientrare nei 30 minuti di auto dalle zone di lavoro (Trescore Cremasco) e famiglia (Sabbioni, Crema). Il prezzo di 139.000 € è all'interno del budget massimo (150.000 €) ma supera il budget ideale (125.000 €). La metratura di 85 m² è leggermente inferiore al minimo richiesto di 90 m². La tipologia dell'immobile è un appartamento, il che rappresenta una discrepanza significativa rispetto alla preferenza per una villetta indipendente o bifamiliare. È presente un ampio balcone, ma non viene menzionato un giardinetto né un box auto, quest'ultimo richiesto specificamente. L'immobile è al secondo e ultimo piano senza ascensore, in un piccolo contesto, aspetti da valutare attentamente.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Data la discrepanza sulla tipologia dell'immobile (appartamento anziché villetta), la metratura leggermente inferiore e la probabile assenza di un box auto, c'è un buon margine per negoziare. Suggerirei di partire con un'offerta più vicina al budget ideale, ad esempio tra 125.000 € e 130.000 €, motivando il ribasso con le caratteristiche che non corrispondono pienamente ai requisiti del cliente.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-05"
+        },
         {
             "title": "Trilocale in Via Solera s.n.c, Crema Nuova - San Carlo, Crema",
             "price": "149.000 €",
