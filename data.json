@@ -1,6 +1,51 @@
 {
-    "last_update": "06/08/2026 07:44",
+    "last_update": "07/08/2026 06:12",
     "houses": [
+        {
+            "title": "Quadrilocale in Via XXV Aprile, Castelleone",
+            "price": "119.000 €",
+            "prezzo_numerico": 119000,
+            "location": "Castelleone",
+            "description": "Ampio quadrilocale di 103 m² al secondo piano in Via XXV Aprile, Castelleone. Prezzo competitivo di 119.000 € (1.155 €/m²). L'immobile è senza ascensore. L'annuncio suggerisce un'elevata domanda.",
+            "link": "https://www.idealista.it/immobile/35187567/?utm_medium=email&utm_campaign=daily_oneSearch_withSugg_sale&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-08-06T094602&utm_link=propertyRecommendedLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertOneDailySuggestions&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=6d122109-59e9-4507-a3bc-e9e60ff2fba7",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo quadrilocale a Castelleone, pur essendo un appartamento e non una villetta come preferito, presenta un'ottima metratura (103 m²) che rientra perfettamente nei suoi parametri (90-105 m²). Il prezzo di 119.000 € è molto interessante, ben al di sotto del budget massimo e anche inferiore al suo budget ideale. La posizione a Castelleone è accettabile, permettendo di raggiungere Trescore Cremasco e Sabbioni/Crema entro i 30 minuti in auto. I punti deboli sono la tipologia (appartamento invece di villetta), l'assenza di ascensore e la mancata menzione di un box auto esplicito (sebbene non sia escluso). Non ci sono dettagli su balconi o giardinetti, che andrebbero verificati. È un'opzione da valutare attentamente se la metratura e il prezzo sono prioritari rispetto alla tipologia e alla presenza del box.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Il prezzo è già molto competitivo e inferiore al budget ideale. Data la dicitura 'Molti dei nostri immobili vengono venduti prima di arrivare qui', il venditore potrebbe essere meno propenso a trattative. Si potrebbe tentare un piccolo ribasso, magari giustificato dalla mancanza di un box auto esplicito o dalla necessità di verificare gli spazi esterni.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-07"
+        },
+        {
+            "title": "Bilocale ristrutturato in Piazza del Duomo, Crema",
+            "price": "145.000 €",
+            "prezzo_numerico": 145000,
+            "location": "Crema (Centro Storico)",
+            "description": "Studio Casa propone bilocale di 91 m², ristrutturato negli anni '90, posto al primo piano con ascensore in un edificio in Piazza Duomo. L'immobile è composto da ingresso, soggiorno con par...",
+            "link": "https://www.idealista.it/immobile/36332602/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio riguarda un bilocale in Centro Storico a Crema, una tipologia molto diversa dalla villetta indipendente/bifamiliare che cerchi. Sebbene la metratura di 91 m² sia in linea con le tue preferenze e il prezzo di 145.000 € rientri nel tuo budget massimo (ma supera quello ideale), l'immobile si trova al primo piano con ascensore, in un contesto condominiale. Non viene menzionato un box auto, un requisito fondamentale per te, né spazi esterni come balcone o giardinetto. La zona, seppur ben servita e vicina alle tue aree di interesse lavorative e familiari, essendo in Piazza Duomo, potrebbe risultare più caotica rispetto al tuo desiderio di un quartiere non troppo affollato.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 2,
+            "consiglio_ribasso": "Data la notevole differenza rispetto alla tipologia di immobile desiderata (villetta vs bilocale), la probabile assenza di box auto e giardinetto, e la potenziale rumorosità del quartiere, questo immobile difficilmente soddisferà le tue esigenze primarie. Un ribasso ulteriore sul prezzo, già sceso, non cambierebbe la natura dell'immobile. Suggerisco di scartarlo e concentrarsi su annunci più in linea con la ricerca di una villetta.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-07"
+        },
+        {
+            "title": "Casa indipendente a Agnadello - Soluzione Plurifamiliare",
+            "price": "98.000 €",
+            "prezzo_numerico": 98000,
+            "location": "Agnadello",
+            "description": "Casa indipendente di 105 m² con 3 locali ad Agnadello, descritta come introvabile soluzione plurifamiliare, ideale per più nuclei familiari o grandi famiglie. L'annuncio invita a vedere 53 foto.",
+            "link": "https://www.idealista.it/immobile/36426492/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa casa indipendente ad Agnadello si presenta come un'ottima opportunità, rientrando perfettamente nel budget del cliente, anche al di sotto del budget ideale. La metratura di 105 m² è esattamente quella massima desiderata, rappresentando un match ideale per la richiesta di spazio. La tipologia di immobile è in linea con le preferenze per una soluzione indipendente o villetta. La vicinanza geografica ad Agnadello rispetto a Trescore Cremasco (zona lavoro) e Crema/Sabbioni (zona famiglia) è un punto di forza, rendendo molto probabile un tempo di percorrenza inferiore ai 30 minuti in auto. Tuttavia, i punti da approfondire e verificare durante una visita sono la presenza di balconi/giardinetto e un box auto, requisiti espressi dal cliente e non specificati esplicitamente nell'annuncio. Anche il \"vibe\" del quartiere andrebbe verificato per assicurarsi che sia ben servito ma non caotico, benché Agnadello sia generalmente un paese tranquillo.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Dato che il prezzo è già molto al di sotto sia del budget ideale che di quello massimo del cliente, e la metratura è perfetta, l'opportunità di negoziazione sul prezzo potrebbe essere limitata o non necessaria. Tuttavia, qualora l'immobile non includesse un box auto o spazi esterni adeguati (balcone/giardinetto), si potrebbe tentare una trattativa per coprire i costi di eventuali lavori di adeguamento o installazione, se strutturalmente fattibile. Altrimenti, il prezzo sembra già molto competitivo e un affare da non perdere.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-07"
+        },
         {
             "title": "Casa indipendente in Via Forno s.n.c, Ripalta Cremasca",
             "price": "124.000 €",
