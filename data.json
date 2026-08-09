@@ -1,6 +1,21 @@
 {
-    "last_update": "08/08/2026 05:44",
+    "last_update": "09/08/2026 05:48",
     "houses": [
+        {
+            "title": "Casa indipendente in Via Forno s.n.c, Ripalta Cremasca",
+            "price": "124.000 €",
+            "prezzo_numerico": 124000,
+            "location": "Ripalta Cremasca",
+            "description": "Casa indipendente di 94 m² con 3 locali, situata nel centro di Ripalta Cremasca. Posizione comoda e dotata di Virtual Tour 360 per una prima visita virtuale.",
+            "link": "https://www.idealista.it/immobile/35234959/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo immobile si allinea eccezionalmente bene con i suoi parametri di ricerca. La tipologia (casa indipendente), il prezzo (quasi identico al budget ideale) e la metratura sono un match perfetto. La posizione a Ripalta Cremasca è strategica, garantendo un'ottima connettività sia con Trescore Cremasco per il lavoro (circa 10-15 minuti di auto) sia con Crema/Sabbioni per le esigenze familiari. Essendo nel centro di un paese come Ripalta, è probabile che sia ben servito ma al contempo goda di un'atmosfera tranquilla e non caotica. I punti da approfondire sono la disponibilità di un box auto e la presenza e natura degli spazi esterni (balcone o giardinetto), poiché questi non sono esplicitamente descritti ma sono importanti per lei. La presenza del Virtual Tour 360 è un plus notevole per una prima valutazione approfondita.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Il prezzo è già molto competitivo e si allinea perfettamente con il suo budget ideale. Un ribasso significativo potrebbe essere difficile da ottenere. Tuttavia, suggerisco di provare una negoziazione mirata (es. 2-3%) dopo aver verificato le condizioni dell'immobile e, soprattutto, la disponibilità o meno di un box auto e giardinetto. Se questi non fossero presenti, potrebbe essere un punto di leva per un piccolo sconto o per coprire eventuali spese accessorie.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-09"
+        },
         {
             "title": "Quadrilocale in Via XXV Aprile, Castelleone",
             "price": "119.000 €",
