@@ -1,6 +1,36 @@
 {
-    "last_update": "10/08/2026 06:11",
+    "last_update": "11/08/2026 05:55",
     "houses": [
+        {
+            "title": "Trilocale in Via Antonio Stradivari, 6, Dovera",
+            "price": "89.000 €",
+            "prezzo_numerico": 89000,
+            "location": "Dovera",
+            "description": "Appartamento trilocale di 80 m² posto al piano rialzato, composto da soggiorno, cucina, due camere, bagno e due balconi. Include un box auto. Il prezzo è sceso da 98.000 € a 89.000 €.",
+            "link": "https://www.idealista.it/immobile/34975463/?utm_medium=email&utm_campaign=express_priceDrop_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-08-10T091040&utm_link=propertyLowPriceLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=f5b0fb38-7156-42b5-94a0-9439518976da",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'immobile si trova a Dovera, una località che rientra agevolmente nei 30 minuti di auto dalle zone di lavoro (Trescore Cremasco) e famiglia (Crema). Il prezzo di 89.000 € è estremamente vantaggioso e ben al di sotto del budget ideale del cliente, includendo un box auto e due balconi. Tuttavia, ci sono due criticità significative: la tipologia è un appartamento (trilocale) e non una villetta indipendente o bifamiliare come desiderato, e la metratura di 80 m² è inferiore ai 90 m² minimi richiesti. Nonostante il prezzo e la posizione siano ottimi, il mismatch su tipologia e dimensione è rilevante per le preferenze del cliente.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Il prezzo è già stato ribassato del 9% (da 98.000 € a 89.000 €) ed è molto competitivo per un trilocale di 80 m² con box. Un ulteriore ribasso potrebbe essere difficile da ottenere, a meno che non emergano specifiche problematiche in fase di visita che possano giustificare una trattativa.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-11"
+        },
+        {
+            "title": "Trilocale in vendita a Dovera, Centro",
+            "price": "89.000 €",
+            "prezzo_numerico": 89000,
+            "location": "Dovera, Centro",
+            "description": "Trilocale di 99 m² con 3 locali e 1 bagno, situato in via Antonio Stradivari 6, Centro, Dovera. Il prezzo è stato ribassato del 9,2% da 98.000 € a 89.000 €.",
+            "link": "https://clicks.immobiliare.it/f/a/5myxbi3CsSxeGByfE-6D2Q~~/AAAHahA~/-R99BvzfGp3PPFztzjn6GKeltPFjr95DH6e3BM0VdOdc0c5Im-O2nY_oEIvS1JvGCW0TNP2jNL86LQzY5hPDRWMCbz11kH6lkt6bHVIBth6l6P2oKi8_69f3F1Bd6r9R4lvhdMXaL2rwI-WIB6RvtoRSgdTL9cOV22jYrnEnMTZtkSOEDbI3o8qvKF5rU2WoZVWRZ3a9OFtFnc1trQFVYk0OIeXaAul5Dc2JueB7C_gYs1M7A7TP3wAf5Qx13VUS",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale a Dovera presenta un prezzo estremamente vantaggioso (ben al di sotto del tuo budget ideale e massimo) e una metratura che rientra perfettamente nei tuoi parametri di ricerca. La zona di Dovera è comoda per raggiungere sia Trescore Cremasco (lavoro) che Crema/Sabbioni (famiglia) entro i 30 minuti. Tuttavia, la tipologia di immobile (appartamento) si discosta dalla tua preferenza per una villetta indipendente o bifamiliare. Mancano inoltre dettagli cruciali su spazi esterni (balcone/giardinetto) e sulla presenza di un box auto, entrambi elementi prioritari per te. Potrebbe valere la pena approfondire se le altre caratteristiche compensano la tipologia non ideale.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Il prezzo è già molto competitivo e ha subito un significativo ribasso. Un ulteriore ribasso potrebbe essere difficile, ma potresti usarlo come leva, in caso di interesse, per richiedere l'inclusione di eventuali spese condominiali o per la realizzazione di piccoli interventi necessari, data la discrepanza con la tipologia preferita e l'assenza di informazioni su box auto e spazi esterni, per te importanti.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-11"
+        },
         {
             "title": "Casa indipendente in Via Forno s.n.c, Ripalta Cremasca",
             "price": "124.000 €",
