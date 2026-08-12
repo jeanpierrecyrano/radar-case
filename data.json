@@ -1,6 +1,21 @@
 {
-    "last_update": "11/08/2026 05:55",
+    "last_update": "12/08/2026 06:16",
     "houses": [
+        {
+            "title": "Bilocale in Via Umberto I, 13, Dovera",
+            "price": "85.000 €",
+            "prezzo_numerico": 85000,
+            "location": "Dovera",
+            "description": "Grazioso Bilocale al Piano Terra - Casa Indipendente con Giardino Privato",
+            "link": "https://www.idealista.it/immobile/35976355/?utm_medium=email&utm_campaign=daily_oneSearch_withSugg_sale&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-08-11T093022&utm_link=propertyRecommendedPhoto&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertOneDailySuggestions&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=43c71d92-bd5e-4137-96ac-5473f3cced2c",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio a Dovera si avvicina alla vostra tipologia preferita di 'Villetta indipendente' grazie alla dicitura 'Casa Indipendente' e soddisfa pienamente la richiesta di un 'giardinetto privato'. La posizione è ottima, essendo molto vicina a Trescore Cremasco e Crema, e il prezzo è estremamente vantaggioso, ben al di sotto del vostro budget ideale. Tuttavia, c'è una significativa discordanza sulla metratura: con soli 65 mq, è ben al di sotto dei 90-105 mq richiesti. Inoltre, non viene esplicitamente menzionata la presenza di un box auto, che è una vostra priorità. Data la metratura ridotta a bilocale, potrebbe non essere sufficiente per le esigenze familiari.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Il prezzo di 85.000 € è già molto competitivo e offre un ottimo valore per una soluzione indipendente con giardino. Sebbene la metratura sia inferiore al desiderato, non ci sono grandi margini per ulteriori ribassi sostanziali. Il focus dovrebbe essere sulla verifica degli spazi interni e sulla possibilità di integrazioni future o alternative per il parcheggio.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-12"
+        },
         {
             "title": "Trilocale in Via Antonio Stradivari, 6, Dovera",
             "price": "89.000 €",
