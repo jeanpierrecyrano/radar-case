@@ -1,6 +1,21 @@
 {
-    "last_update": "13/08/2026 06:31",
+    "last_update": "14/08/2026 06:16",
     "houses": [
+        {
+            "title": "Casa indipendente in Via Santi Nazzaro e Celso, 34, Torre Pallavicina",
+            "price": "125.000 €",
+            "prezzo_numerico": 125000,
+            "location": "Torre Pallavicina",
+            "description": "Casa indipendente di 4 locali situata a Torre Pallavicina, con una superficie generosa di 240 m². L'annuncio suggerisce che è spaziosa, ideale per chi cerca una casa grande e non soffocante. Proposta a 125.000 €.",
+            "link": "https://www.idealista.it/immobile/36447872/?utm_medium=email&utm_campaign=daily_suggestions_oneSearch&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-08-13T090815&utm_link=propertyRecommendedLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertSuggestionsOneSearch&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=e964592b-0046-425a-904c-2e57334d9d8d",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa casa indipendente a Torre Pallavicina si allinea perfettamente con il suo budget ideale di 125.000 € e con la tipologia preferita (villetta indipendente). Tuttavia, è importante notare che la metratura di 240 m² è ben oltre la sua richiesta di 90-105 m², il che potrebbe comportare costi di gestione e manutenzione superiori. La località di Torre Pallavicina richiederà una verifica accurata dei tempi di percorrenza per le sue zone di interesse (Trescore Cremasco e Sabbioni, Crema). Non sono specificati dettagli su box auto o la presenza di un balcone, ma la tipologia 'casa indipendente' solitamente include spazi esterni.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Il prezzo di 125.000 € per 240 m² (circa 521 €/m²) è già molto competitivo e si allinea con il suo budget ideale. Se la casa è in buone condizioni, il margine di trattativa potrebbe essere limitato. Nel caso necessiti di interventi, si potrebbe negoziare per un piccolo ribasso o per includere nel prezzo alcune spese accessorie.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-14"
+        },
         {
             "title": "Bilocale in Via Umberto I, 13, Dovera",
             "price": "85.000 €",
