@@ -1,6 +1,21 @@
 {
-    "last_update": "17/08/2026 05:36",
+    "last_update": "18/08/2026 05:31",
     "houses": [
+        {
+            "title": "Trilocale in Via Attilio Soresini, 15, Torre Pallavicina",
+            "price": "79.000 €",
+            "prezzo_numerico": 79000,
+            "location": "Torre Pallavicina (località Santa Maria)",
+            "description": "Accogliente trilocale di 100 mq, situato al primo piano senza ascensore in un tranquillo contesto a Santa Maria di Torre Pallavicina. Box auto compreso.",
+            "link": "https://www.idealista.it/immobile/36452466/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo immobile si distingue come la migliore opzione tra quelle proposte, principalmente per l'ottima metratura di 100 mq che si allinea perfettamente ai suoi requisiti (90-105 mq) e per il prezzo eccezionalmente basso di 79.000 €, che rappresenta un'opportunità molto interessante. Include il box auto, un requisito fondamentale. Sebbene sia un trilocale (appartamento) e non la tipologia preferita (villetta), la dimensione e il costo lo rendono degno di considerazione. La località di Torre Pallavicina è in provincia di Bergamo ma vicina al confine con Cremona; è essenziale verificare l'esatto tempo di percorrenza per Trescore Cremasco e la zona Sabbioni di Crema, ma è plausibile che rientri nei 30 minuti massimi di auto. Il contesto descritto come 'tranquillo' si addice al 'vibe' di quartiere desiderato. Non vengono menzionati balconi o giardinetti, aspetti da approfondire. Merita sicuramente un approfondimento e una visita per valutare la fattibilità della posizione e lo stato generale dell'immobile.",
+            "valutazione_prezzo": 10,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Il prezzo di 79.000 € per 100 mq è già estremamente vantaggioso e difficilmente negoziabile in modo significativo. Potrebbe tentare un ribasso simbolico (es. 2-3%) se ci fossero piccoli lavori o difetti evidenti in fase di visita, ma la priorità è assicurarsi la disponibilità e verificare attentamente la posizione e gli spazi esterni, data la scarsità di offerte con questo rapporto qualità-prezzo.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-18"
+        },
         {
             "title": "Casa indipendente in Via Santi Nazzaro e Celso, 34, Torre Pallavicina",
             "price": "125.000 €",
