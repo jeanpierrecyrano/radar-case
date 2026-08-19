@@ -1,6 +1,21 @@
 {
-    "last_update": "18/08/2026 05:31",
+    "last_update": "19/08/2026 05:32",
     "houses": [
+        {
+            "title": "Casa indipendente a Ripalta Cremasca",
+            "price": "124.000 €",
+            "prezzo_numerico": 124000,
+            "location": "Ripalta Cremasca",
+            "description": "Nel centro di Ripalta Cremasca, proponiamo casa indipendente di 94 m² con 3 locali. Posizione comoda per raggiungere le zone di interesse del cliente, con un prezzo molto interessante e vicino al budget ideale.",
+            "link": "https://www.idealista.it/immobile/36366098/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa 'Casa indipendente' a Ripalta Cremasca rappresenta un'ottima opportunità. Il prezzo è eccezionalmente allineato al vostro budget ideale, e la tipologia e metratura soddisfano pienamente le vostre preferenze. La posizione è ideale per la vicinanza a Crema e Trescore Cremasco, garantendo tempi di percorrenza minimi. Sebbene la presenza di un box auto non sia esplicitamente indicata e gli spazi esterni (balcone/giardinetto) siano da verificare in dettaglio, l'essere una casa indipendente suggerisce un'area esterna. Questo annuncio merita sicuramente un approfondimento.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 9,
+            "consiglio_ribasso": "Il prezzo è già molto competitivo e vicinissimo al budget ideale. Suggerirei una negoziazione soft, magari puntando a 120.000€, subordinandola alla verifica delle condizioni e alla conferma della presenza del box auto o di un piccolo spazio esterno che soddisfi le vostre esigenze.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-19"
+        },
         {
             "title": "Trilocale in Via Attilio Soresini, 15, Torre Pallavicina",
             "price": "79.000 €",
