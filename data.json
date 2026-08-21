@@ -1,6 +1,21 @@
 {
-    "last_update": "20/08/2026 05:32",
+    "last_update": "21/08/2026 05:34",
     "houses": [
+        {
+            "title": "Trilocale in Via Vaianello, 3, Vaiano Cremasco",
+            "price": "159.000 €",
+            "prezzo_numerico": 159000,
+            "location": "Vaiano Cremasco",
+            "description": "Trilocale di 95,00 m² al piano terra con box auto compreso. Situato in centro paese, comodo per tutti i servizi e con parcheggi pubblici nelle vicinanze.",
+            "link": "https://www.idealista.it/immobile/34506351/?utm_medium=email&utm_campaign=daily_suggestions_oneSearch&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-08-20T113446&utm_link=propertyRecommendedLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertSuggestionsOneSearch&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=7f8cec09-f418-490f-b33f-1d8dd0647fb5",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale a Vaiano Cremasco rappresenta l'annuncio più promettente. La metratura (95 mq) è perfettamente in linea con la richiesta (90-105 mq) e la posizione è eccellente, a pochi minuti di auto sia dalla zona di lavoro (Trescore Cremasco) che da quella familiare (Sabbioni, Crema), rientrando ampiamente nel tempo massimo di 30 minuti. L'inclusione del box auto è un punto a favore. Essendo al piano terra in centro paese, offre il vantaggio dei servizi a portata di mano e la potenziale presenza di un piccolo spazio esterno, sebbene non specificato come giardinetto. Il prezzo è leggermente superiore al budget massimo, ma la forte corrispondenza sui requisiti principali lo rende molto interessante.",
+            "valutazione_prezzo": 6,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Il prezzo di 159.000 € supera di poco il budget massimo di 150.000 €. Data l'ottima corrispondenza su metratura, posizione e servizi, e la presenza del box, c'è un buon margine per negoziare. Un'offerta a 150.000 € o leggermente inferiore sarebbe ragionevole e potrebbe essere accettata per chiudere la trattativa. È fondamentale indagare sullo spazio esterno per capire se risponde all'esigenza di un piccolo giardinetto o balcone.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-21"
+        },
         {
             "title": "Casa indipendente a Ripalta Cremasca",
             "price": "124.000 €",
