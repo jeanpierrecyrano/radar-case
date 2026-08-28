@@ -1,6 +1,21 @@
 {
-    "last_update": "27/08/2026 16:15",
+    "last_update": "28/08/2026 17:17",
     "houses": [
+        {
+            "title": "Casa indipendente di corte a Vailate",
+            "price": "145.000 €",
+            "prezzo_numerico": 145000,
+            "location": "Vailate",
+            "description": "CASA DI CORTE INDIPENDENTE. L'immobile si sviluppa su due piani: il piano terra ospita un generoso box auto, un locale cantina e un'area privata; una scala conduce al piano primo adibito ad abitazione. Dispone di 3 locali e ha una superficie di 120 m².",
+            "link": "https://www.idealista.it/immobile/36121500/?utm_medium=email&utm_campaign=express_priceDrop_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-08-27T211830&utm_link=propertyLowPriceLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=4415e5b2-8a8e-488c-ba14-56030ca64e39",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio a Vailate presenta un'ottima corrispondenza con la tipologia 'villetta indipendente' preferita dal cliente, trattandosi di una 'casa di corte indipendente'. La presenza di un generoso box auto al piano terra è un punto di forza, in quanto un box auto è esplicitamente richiesto. La metratura di 120 m² è leggermente superiore al massimo di 105 m² desiderato, ma potrebbe essere un surplus accettabile per gli spazi offerti. L'area privata al piano terra risponde alla preferenza per un giardinetto piccolo. La posizione di Vailate è strategica: si trova a circa 10-15 minuti di auto da Trescore Cremasco (zona lavoro) e 15-20 minuti da Sabbioni/Crema (zona famiglia), ben entro il limite di 30 minuti. Il prezzo, già ribassato da 150.000 € a 145.000 €, rientra nel budget massimo del cliente, anche se è superiore al budget ideale di 125.000 €.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Il prezzo ha già subito un calo di 5.000 €, il che dimostra una certa flessibilità da parte del venditore. Considerando che il prezzo attuale è ancora al di sopra del budget ideale del cliente (125.000 €), si potrebbe tentare una trattativa proponendo un'offerta leggermente inferiore, ad esempio tra 135.000 € e 140.000 €, motivandola con l'intenzione di una chiusura rapida.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-28"
+        },
         {
             "title": "Quadrilocale in Via Edallo, Castelleone",
             "price": "135.000 €",
