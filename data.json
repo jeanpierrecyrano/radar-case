@@ -1,6 +1,21 @@
 {
-    "last_update": "30/08/2026 10:19",
+    "last_update": "31/08/2026 11:26",
     "houses": [
+        {
+            "title": "Trilocale panoramico in Via Francesco Crispi s.n.c, Centro, Crema",
+            "price": "150.000 €",
+            "prezzo_numerico": 150000,
+            "location": "Crema",
+            "description": "Appartamento trilocale di 110 m² situato in posizione centrale (zona Campo di Marte) a Crema, posto al quinto e ultimo piano con ascensore. Gode di ampi locali e ottima luminosità. L'alloggio è composto da ingresso, soggiorno e altre stanze.",
+            "link": "https://www.idealista.it/immobile/36650936/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio riguarda un appartamento trilocale di 110 m² nel centro di Crema, proposto al tuo budget massimo di 150.000 €. Sebbene la posizione a Crema sia favorevole per la vicinanza a Trescore Cremasco (lavoro) e la zona famiglia di Sabbioni, la tipologia dell'immobile (appartamento al quinto piano con ascensore) non corrisponde alla tua preferenza per una villetta indipendente o bifamiliare. La metratura è leggermente superiore al tuo range desiderato (max 105 m²), e non vengono menzionati balcone, giardinetto o box auto. Il quartiere è sicuramente ben servito, ma la natura centrale potrebbe non essere esattamente 'non caotica' come cerchi.",
+            "valutazione_prezzo": 5,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Il prezzo è esattamente al limite massimo del tuo budget e l'immobile presenta una tipologia differente dalla tua preferenza principale (appartamento vs villetta). Se, nonostante queste discrepanze significative, l'immobile dovesse interessarti, potresti tentare una trattativa, ma le probabilità di un ribasso consistente potrebbero essere limitate dato che il prezzo è probabilmente in linea con il mercato per un appartamento di questa zona e metratura, e la tua offerta è già al limite del budget.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-08-31"
+        },
         {
             "title": "Casa indipendente di corte a Vailate",
             "price": "145.000 €",
