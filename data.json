@@ -1,6 +1,21 @@
 {
-    "last_update": "05/09/2026 08:56",
+    "last_update": "06/09/2026 09:12",
     "houses": [
+        {
+            "title": "Bilocale in Via Vecchia s.n.c, Caravaggio",
+            "price": "130.000 €",
+            "prezzo_numerico": 130000,
+            "location": "Caravaggio",
+            "description": "Appartamento posto al primo piano, di generosa metratura, servito da ascensore, composto da 2 locali per 75,00 m².",
+            "link": "https://www.idealista.it/immobile/36687099/?utm_medium=email&utm_campaign=daily_suggestions_oneSearch&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-09-06T090548&utm_link=propertyRecommendedLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertSuggestionsOneSearch&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=aa4f4be2-2194-4c1c-8cbd-cc3e28e0799a",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un bilocale di 75 m² situato al primo piano con ascensore a Caravaggio. La tipologia dell'immobile (appartamento) e la metratura sono distanti dalle tue preferenze per una villetta indipendente/bifamiliare di 90-105 m². Il prezzo di 130.000 € rientra nel tuo budget massimo, ma non è specificato se include un box auto, che è una tua richiesta. Sebbene Caravaggio si trovi nell'Area di Crema, la distanza dalle tue zone di interesse (Trescore Cremasco, Sabbioni) e lo scarso allineamento con le tue esigenze primarie di tipologia e dimensioni rendono questo immobile poco adatto.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 2,
+            "consiglio_ribasso": "Nonostante il prezzo sia nel tuo budget, l'immobile non soddisfa i requisiti fondamentali di tipologia e metratura. Un ribasso non lo renderebbe un'opzione valida per le tue esigenze.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-09-06"
+        },
         {
             "title": "Terratetto unifamiliare a Romanengo Centro",
             "price": "89.000 €",
