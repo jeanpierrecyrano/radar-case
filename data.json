@@ -1,6 +1,21 @@
 {
-    "last_update": "06/09/2026 09:12",
+    "last_update": "07/09/2026 10:14",
     "houses": [
+        {
+            "title": "Trilocale via Viviani, Semicentro, Crema",
+            "price": "€ 130.000",
+            "prezzo_numerico": 130000,
+            "location": "Crema",
+            "description": "Trilocale di 100 m² con 3 locali e 1 bagno, situato nel Semicentro di Crema.",
+            "link": "https://clicks.immobiliare.it/f/a/mfc7wiSdYui1XGwA-oemYw~~/AAAHahA~/hPDeb8Chjn08UDzsTYkEKjVaIpmjSLtSK8PJsOctwhVDVSMjyyzwcfvIuHjsV_fwL8sOYW0yX3C1-28VBOcblF19FAfqJWCWSRTRHl1HYsF5b6JRIpiUQGPn8KkaUVk1ifDQbZuAkDHFqRu8EL_qEPzfxh1O_vf8lXAW6NSwdOvItWQJKJQB1ao6i45MjzohwuMPS62xidilivgZaRJxfp-oOvLHQvrkt5nXZJxbW832vpFbhVHYtZUAyXaP0ri7X20Od0df7n2W5LXsuMnmSK4tP2l7QFFmV4PBZCKMGJlSCBaFZZ5qghjLhPlRqBbdJglOARI7HyE0yuy_TdSzUQ~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale nel Semicentro di Crema è un'ottima proposta per la sua posizione strategica. La metratura di 100 m² è perfetta per le vostre esigenze, e la vicinanza alla zona famiglia (Sabbioni, Crema) è un grande vantaggio. Anche il tragitto verso Trescore Cremasco per lavoro è breve e ben entro i 30 minuti. Il prezzo è leggermente superiore al vostro budget ideale, ma rimane comunque un ottimo affare per la zona e ben al di sotto del budget massimo. L'unico aspetto da approfondire è la tipologia (un trilocale è un appartamento, non una villetta indipendente o bifamiliare come preferito) e la presenza di spazi esterni (balcone/giardinetto) e box auto, che non sono specificati nell'annuncio.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Considerando la posizione molto desiderata a Crema, il prezzo di 130.000 € è ragionevole. Si potrebbe tentare un piccolo ribasso verso il budget ideale di 125.000 €, ma la fattibilità dipenderà molto dalla domanda e dalla presenza/stato di eventuali spazi esterni e box auto non dettagliati nell'annuncio. Consiglierei di visitarlo e poi valutare la strategia di offerta.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-09-07"
+        },
         {
             "title": "Bilocale in Via Vecchia s.n.c, Caravaggio",
             "price": "130.000 €",
