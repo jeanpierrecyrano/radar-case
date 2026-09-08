@@ -1,6 +1,51 @@
 {
-    "last_update": "07/09/2026 10:14",
+    "last_update": "08/09/2026 09:39",
     "houses": [
+        {
+            "title": "Trilocale in Via Vallarsa, Sergnano",
+            "price": "95.000 €",
+            "prezzo_numerico": 95000,
+            "location": "Sergnano",
+            "description": "Appartamento trilocale termoautonomo di 85 m² al primo piano senza ascensore, situato in zona residenziale a Sergnano. Composto da soggiorno, angolo cottura, disimpegno notte, due camere da letto, bagno e due balconi. Include un box auto.",
+            "link": "https://www.idealista.it/immobile/26788809/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio si presenta molto interessante per il prezzo, nettamente inferiore al budget ideale del cliente, e include un box auto, come richiesto. La zona di Sergnano è relativamente vicina a Crema e Trescore Cremasco, rientrando probabilmente nei tempi di percorrenza massimi. Tuttavia, la tipologia (appartamento trilocale al primo piano senza ascensore) non corrisponde alla preferenza per una villetta indipendente o bifamiliare. La metratura è leggermente inferiore al minimo desiderato (85 m² contro i 90 m² minimi) e, sebbene siano presenti due balconi, manca il giardinetto preferibile. È una buona opportunità dal punto di vista economico, ma non allineata perfettamente con la tipologia di immobile cercata.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Il prezzo è già molto competitivo e ben al di sotto del budget ideale del cliente. Data la tipologia (appartamento) e il piano senza ascensore, si potrebbe tentare un piccolo ribasso, ma il margine è limitato e il focus dovrebbe essere sulla corrispondenza con le esigenze piuttosto che sul prezzo.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-09-08"
+        },
+        {
+            "title": "Trilocale ristrutturato con box a Sergnano",
+            "price": "89.000 €",
+            "prezzo_numerico": 89000,
+            "location": "Sergnano",
+            "description": "Appartamento termoautonomo di 85 m² al primo piano (senza ascensore), recentemente e completamente ristrutturato, composto da soggiorno, angolo cottura, disimpegno notte e due camere. Il prezzo include il box auto. Situato in zona residenziale.",
+            "link": "https://www.idealista.it/immobile/26788809/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio a Sergnano presenta un'ottima opportunità in termini di prezzo e posizione, trovandosi in una zona residenziale vicina a Crema e Trescore Cremasco, ed è già ristrutturato con box auto incluso. Tuttavia, la tipologia 'trilocale' (appartamento) si discosta dalla sua preferenza per una villetta indipendente o bifamiliare, il che influisce anche sulla disponibilità di spazi esterni (giardinetto assente, balcone non specificato). Inoltre, la metratura di 85 m² è leggermente inferiore al suo minimo desiderato di 90 m². Potrebbe essere un'opzione da considerare se è disposto a fare un compromesso sulla tipologia abitativa in cambio di un prezzo estremamente vantaggioso e una buona localizzazione.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Il prezzo è già stato ribassato significativamente (da 95.000 € a 89.000 €) e si posiziona ben al di sotto del suo budget ideale e massimo. Data la discrepanza con la tipologia abitativa preferita (villetta), si potrebbe tentare un'offerta leggermente inferiore, magari attorno agli 85.000 €, argomentando con la volontà di investire in eventuali modifiche o la compensazione della metratura leggermente ridotta. Tuttavia, il margine di trattativa è limitato dato il prezzo già molto competitivo.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-09-08"
+        },
+        {
+            "title": "Casa indipendente con cortile e posto auto coperto a Chieve",
+            "price": "93.000 €",
+            "prezzo_numerico": 93000,
+            "location": "Chieve",
+            "description": "Studio Casa propone casa indipendente disposta su più livelli, con 3 locali e una superficie di 101 mq. Include un cortile di 40 mq con possibilità di posto auto coperto. Situata in una corte di sole quattro famiglie nel centro del paese.",
+            "link": "https://www.idealista.it/immobile/36749645/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa casa indipendente a Chieve presenta un ottimo match con i tuoi criteri di ricerca. Il prezzo di 93.000 € è eccezionalmente conveniente, ben al di sotto del tuo budget ideale di 125.000 €. La metratura di 101 mq è perfetta, rientrando precisamente nel tuo range desiderato (90-105 mq). La tipologia 'casa indipendente' corrisponde alla tua preferenza per una villetta. La possibilità di un posto auto coperto è un buon punto, sebbene non sia un box auto chiuso. Il cortile di 40 mq offre uno spazio esterno, anche se non specificatamente un giardinetto con balcone. Chieve è una località tranquilla e ben collegata, in un raggio di tempo accettabile (circa 15-20 minuti) sia da Trescore Cremasco per il lavoro che da Sabbioni/Crema per la famiglia. La 'corte di sole quattro famiglie in centro paese' suggerisce un contesto riservato ma con i servizi essenziali a portata di mano, rispettando il desiderio di un quartiere ben servito ma non caotico.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 9,
+            "consiglio_ribasso": "Dato il prezzo già molto vantaggioso e ben al di sotto del budget ideale del cliente, un ribasso sostanziale potrebbe essere difficile da ottenere. Tuttavia, si può tentare un'offerta strategica leggermente inferiore al prezzo richiesto (ad esempio, tra 89.000 € e 91.000 €) per verificare la flessibilità del venditore, soprattutto se si è pronti a procedere rapidamente con l'acquisto. Il rapporto qualità/prezzo è già eccellente.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-09-08"
+        },
         {
             "title": "Trilocale via Viviani, Semicentro, Crema",
             "price": "€ 130.000",
