@@ -1,6 +1,21 @@
 {
-    "last_update": "10/09/2026 09:28",
+    "last_update": "11/09/2026 09:26",
     "houses": [
+        {
+            "title": "Terratetto unifamiliare in Via Mulini, Crema",
+            "price": "129.000 €",
+            "prezzo_numerico": 129000,
+            "location": "Crema (Santa Maria, San Bernardino, Castelnuovo)",
+            "description": "Terratetto unifamiliare di 105 m² con 3 locali e 2 bagni, situato nelle zone di Santa Maria, San Bernardino e Castelnuovo a Crema. Il prezzo ha subito un recente ribasso del 7,2%.",
+            "link": "https://clicks.immobiliare.it/f/a/n_HkYjNmHVjx3SoP1xNtPA~~/AAAHahA~/lkZHp5ha7ebcdYLDJ0A1Uuh1APAM8dgZixnPPQq9uAYdxHrOotBzWlWaxFZ28lKNnxcc13RDPoxaDF2fjghdJr4FaL0GVVtaKBTlrKIsYnA8eqAUh6x_OYrtjEhttzOQfE1co561Niz8SGbScaPZs9vtBBJUSCpH0tSCVJQArcSjuujrHXk8ZktSzWFYrFkvfqARobHX_y3yyYUyTEbHBKO8YShoSvuLr_ELeIh8dESxr9kEQJ0GlfKr7lplNEQLt7P2aGp36e70joLfF_6wBny4VtuqzZZvMEsQ5PK4vmkIOs51WFkZ7apT5ZtIRoWoX8oZ4LZU48dT2cpgRt6Xd_6NpmAMiCeOPdgARRdMniDHz41qFWWJUz7JspSK3lSoqTLXH25RAUDGbDD9ZVkS_aYsrlzbIBeQ3_78tWl7iY3zDPYezoVop7w-MR4juhhAD36bIvRHPhqyXgj1GHgT0a_hWz931EmOx1pbT8skg5DuP7MbnQHkHCWnSN57HGnmaTsx4sAg-7D3fk374KPevr-R79ArBssS1aDW_IxwV00GRvCr-DvodE4AlY9vt_C13_EbQVq6bfugi3eSpj1CKm8VZDV4U34Vk9sGGnUcrmjs5j5raYC4UtUsUfhERoRXP6Lp8O2F20nt3Zky7jfXVrOrEA_4PXDsc3mVFS4-myzHeD2Ka_MSpNEjAHHLonpmXxUP86xvKEsYY4zz-3JFE1-4EvJYAoUWBLSuUaPgvSRcXq--x6s6lhS2P69idA6Z6WNAJ_MahAuzWY5S-4_orOhuG6M8hVJw5b4y0UR2-rrtL4r2FW_riK1ykAhCaV4",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo terratetto unifamiliare a Crema presenta un'ottima corrispondenza con la sua ricerca per tipologia, metratura (105 m² rientra perfettamente nel suo range massimo) e zona (vicino alla zona famiglia desiderata e probabilmente entro il tempo di percorrenza per il lavoro). Il prezzo di 129.000 € è leggermente superiore al budget ideale ma ben al di sotto del massimo, con un recente ribasso che lo rende ancora più interessante. Mancano dettagli specifici su spazi esterni (balcone, giardinetto) e box auto, che saranno da verificare al momento della visita, ma le premesse sono molto buone.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Considerando il ribasso già applicato (-7,2%), il margine di trattativa potrebbe essere limitato. Tuttavia, data la vicinanza al budget ideale di 125.000 €, si potrebbe tentare un'offerta leggermente inferiore al prezzo attuale, magari a 125.000 € o 127.000 €, giustificandola con la necessità di eventuali piccole personalizzazioni o la mancanza di specifici dettagli come il box auto nel primo annuncio.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-09-11"
+        },
         {
             "title": "Casa indipendente a Santa Maria della Croce - Santo Stefano in Variano, Crema",
             "price": "129.000 €",
