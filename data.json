@@ -1,6 +1,36 @@
 {
-    "last_update": "11/09/2026 09:26",
+    "last_update": "12/09/2026 09:06",
     "houses": [
+        {
+            "title": "Trilocale Indipendente a Sergnano (CR)",
+            "price": "98.000 €",
+            "prezzo_numerico": 98000,
+            "location": "Sergnano (CR)",
+            "description": "Appartamento trilocale indipendente al piano terra in posizione centralissima a Sergnano. L'immobile, di circa 86 mq, è composto da 3 locali con ingresso indipendente da cortile comune e soggiorno con cucina.",
+            "link": "https://www.idealista.it/immobile/36802959/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento trilocale indipendente a Sergnano, con un prezzo estremamente interessante e ben al di sotto del budget ideale del cliente. La posizione è centralissima e strategicamente vicina alle zone di interesse (Crema, Trescore Cremasco), il che rappresenta un punto a favore. Tuttavia, la tipologia 'appartamento' (seppur indipendente) non corrisponde pienamente alla preferenza del cliente per una villetta indipendente o bifamiliare. La metratura di 86 mq è leggermente inferiore al minimo richiesto (90 mq). Inoltre, non sono menzionati balconi o giardinetti privati, e non c'è indicazione della presenza di un box auto, aspetti importanti nelle richieste del cliente. Potrebbe essere un'opzione da valutare se si è disposti a scendere a compromessi sulla tipologia e sulla metratura, ma si discosta da alcune richieste chiave.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Il prezzo di 98.000 € è già molto competitivo per un trilocale indipendente in questa zona. Un ribasso significativo è improbabile. Si potrebbe tentare una piccola offerta simbolica argomentando le carenze rispetto alle preferenze (mancanza di un box auto esplicito, assenza di giardinetto privato, metratura leggermente inferiore al desiderato), ma le aspettative dovrebbero essere basse data l'ottima base di partenza.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-09-12"
+        },
+        {
+            "title": "Trilocale in Via Magneto, 8, Palazzo Pignano",
+            "price": "137.000 €",
+            "prezzo_numerico": 137000,
+            "location": "Palazzo Pignano",
+            "description": "Appartamento trilocale di 90mq circa, situato al primo piano di un contesto residenziale del 1996, servito da ascensore. L'immobile include un box auto. Composto da ingresso e altri spazi non specificati nel dettaglio.",
+            "link": "https://www.idealista.it/immobile/34976855/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'immobile si trova a Palazzo Pignano, una località ben posizionata rispetto alle zone di interesse del cliente (Trescore Cremasco per il lavoro e Sabbioni/Crema per la famiglia), presumibilmente entro il tempo massimo di percorrenza. La metratura di 90 mq è un match perfetto per il requisito minimo e rientra nel range desiderato. La presenza del box auto è un punto di forza, in quanto espressamente richiesto. Tuttavia, la tipologia è un trilocale (appartamento), il che rappresenta una notevole deviazione dalla preferenza del cliente per una villetta indipendente o bifamiliare. L'annuncio non specifica la presenza di un balcone e la tipologia non contempla un giardinetto. Il prezzo di 137.000 € è all'interno del budget massimo, ma superiore al budget ideale di 125.000 €.",
+            "valutazione_prezzo": 6,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Data la differenza tra la tipologia dell'immobile (appartamento) e la preferenza del cliente (villetta), oltre al fatto che il prezzo supera il budget ideale, c'è un buon margine per una proposta di ribasso. Si potrebbe mirare a una cifra intorno ai 125.000 € - 127.000 €, giustificando la richiesta con la tipologia non pienamente corrispondente alle aspettative e la necessità di rientrare nel budget ideale.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-09-12"
+        },
         {
             "title": "Terratetto unifamiliare in Via Mulini, Crema",
             "price": "129.000 €",
