@@ -1,6 +1,36 @@
 {
-    "last_update": "14/09/2026 10:24",
+    "last_update": "15/09/2026 09:51",
     "houses": [
+        {
+            "title": "Bilocale a Ombriano - Sabbioni, Crema",
+            "price": "129.000 €",
+            "prezzo_numerico": 129000,
+            "location": "Ombriano - Sabbioni, Crema",
+            "description": "Accogliente BILOCALE di ampie dimensioni di 80 m², situato al piano terra di un contesto residenziale ben abitato. Include Box auto. Il prezzo è recentemente sceso da 133.000 €.",
+            "link": "https://www.idealista.it/immobile/33717940/?utm_medium=email&utm_campaign=express_priceDrop_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-09-14T163508&utm_link=propertyLowPriceLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=573445c5-f8c5-44c2-8e0b-4e99a283f3ad",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta alcuni punti di forza notevoli, in particolare la location. La zona di Ombriano-Sabbioni a Crema corrisponde esattamente alla sua zona famiglia desiderata ed è molto ben collegata a Trescore Cremasco per il lavoro. Il prezzo è interessante, rientra pienamente nel suo budget massimo e si avvicina a quello ideale, beneficiando inoltre di un recente ribasso. L'inclusione del box auto è un altro punto a favore. Tuttavia, ci sono alcune discordanze significative: la tipologia (bilocale/appartamento) non corrisponde alla sua preferenza per una villetta indipendente o bifamiliare e la metratura (80 m²) è inferiore ai 90-105 m² richiesti. Non è specificato se vi siano spazi esterni come balcone o giardinetto. Valuti se la priorità alla zona e al box compensa la dimensione e la tipologia inferiore alle sue aspettative.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Il prezzo è già stato ribassato. Data la metratura inferiore al desiderato, potrebbe esserci un piccolissimo margine di trattativa per avvicinarsi ai 125.000 €, ma è un'offerta già competitiva. La principale leva negoziale potrebbe essere la tipologia e la dimensione che non soddisfano pienamente i criteri del cliente.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-09-15"
+        },
+        {
+            "title": "Trilocale in Via Manini, 6, Crema Nuova - San Carlo, Crema",
+            "price": "120.000 €",
+            "prezzo_numerico": 120000,
+            "location": "Crema Nuova - San Carlo, Crema",
+            "description": "Proposto nel comune di Crema, questo trilocale di 100 m² si trova al primo piano di una palazzina. È l'unica proposta che soddisfa pienamente il criterio di metratura desiderato dal cliente.",
+            "link": "https://www.idealista.it/immobile/32942886/?utm_medium=email&utm_campaign=daily_oneSearch_withSugg_sale&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-09-15T093246&utm_link=propertyNewVisita360Photo&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertOneDailySuggestions&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=84f99e84-d251-4649-9ab5-72a7533c1a00",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale è l'unica proposta che rispetta pienamente i stringenti requisiti di metratura (100 m² su un range di 90-105 m²), un criterio fondamentale per il cliente. Il prezzo di 120.000 € è estremamente vantaggioso, rientrando perfettamente nel budget ideale. La posizione in Crema Nuova - San Carlo è funzionale per gli spostamenti da/verso Trescore Cremasco e ben servita, sebbene non sia la zona specifica di 'Sabbioni' preferita per la famiglia. La tipologia è un appartamento e non la villetta desiderata. Non viene menzionata la presenza di un box auto o di spazi esterni (balcone/giardinetto), aspetti cruciali da approfondire. La disponibilità di un Virtual Tour 360 è un plus per una prima valutazione a distanza.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Considerando il prezzo già molto competitivo e la perfetta rispondenza alla metratura richiesta, il margine per un ribasso significativo potrebbe essere limitato. Si consiglia di concentrare la trattativa sulla conferma della presenza e inclusione di un box auto, sull'esistenza di spazi esterni (balcone) e sull'eventuale necessità di lavori di miglioramento o sui costi condominiali.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-09-15"
+        },
         {
             "title": "Trilocale Indipendente a Sergnano (CR)",
             "price": "98.000 €",
