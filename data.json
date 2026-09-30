@@ -1,6 +1,51 @@
 {
-    "last_update": "29/09/2026 11:15",
+    "last_update": "30/09/2026 11:02",
     "houses": [
+        {
+            "title": "Appartamento all'asta in Via Pagliari, Crema",
+            "price": "Da € 48.375",
+            "prezzo_numerico": 48375,
+            "location": "Crema (Ombriano, Sabbioni, San Carlo)",
+            "description": "Appartamento all'asta di 87 m² con 3 locali e 2 bagni. Situato in Via Pagliari, Crema, nelle zone di Ombriano, Sabbioni, San Carlo. Il prezzo base d'asta è di € 48.375.",
+            "link": "https://clicks.immobiliare.it/f/a/3ZeMOka3Nfhelj75x8kCZA~~/AAAHahA~/m2CdCpu1VZ5XACQjOKq8W5CYjy-ajhh8nByd_yxb0Hsk9qoiLuTx2aamtGXQuCiNoYTf9NStJ1VR1I8esMXFydCLAJUBSOnmBJ4AFP0c5v98MPjZCkZyhDK0GmxjaU2KxNdb8UMB4FeuGzqmdi8U0DStaVYbKw75KCL8OjtRec~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento all'asta che ha come punto di forza la localizzazione. Si trova a Crema, nelle zone di Ombriano, Sabbioni e San Carlo, un'ottima corrispondenza con la zona preferita per la famiglia (Sabbioni, Crema). Inoltre, la distanza da Trescore Cremasco è facilmente coperta entro i 30 minuti richiesti. Il prezzo di partenza di € 48.375 è estremamente vantaggioso e ben al di sotto del budget ideale e massimo. Tuttavia, ci sono alcune discordanze significative: la tipologia è un appartamento mentre il cliente preferisce una villetta indipendente o bifamiliare. La metratura di 87 m² è leggermente inferiore al minimo richiesto di 90 m². Non sono specificati balcone/giardinetto o box auto, elementi importanti per il cliente. Essendo un'asta, il prezzo finale potrebbe salire e richiede una gestione specifica.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Essendo un immobile all'asta, non si può negoziare il prezzo in modo tradizionale. È fondamentale un'attenta analisi preliminare dell'immobile e una chiara definizione del suo budget massimo per l'asta. Considerando la forte discrepanza sulla tipologia (appartamento vs. villetta) e le informazioni mancanti su spazi esterni e box auto, è consigliabile valutare se questi compromessi sono accettabili data la posizione e il potenziale prezzo d'acquisto vantaggioso. Si suggerisce di approfondire eventuali costi aggiuntivi per adeguare l'immobile alle esigenze (es. acquisto/affitto box auto separato).",
+            "is_ai_render": true,
+            "data_inserimento": "2026-09-30"
+        },
+        {
+            "title": "Appartamento all'asta in Via Pagliari, Crema (Ombriano, Sabbioni, San Carlo)",
+            "price": "Da 86.700 €",
+            "prezzo_numerico": 86700,
+            "location": "Crema (Ombriano, Sabbioni, San Carlo)",
+            "description": "Appartamento all'asta di 110 m² con 4 locali e 2 bagni, situato in Via Pagliari.",
+            "link": "https://clicks.immobiliare.it/f/a/gFqPHP9TAYuzgbKzLimqCg~~/AAAHahA~/FqkLA887eXPQpuIK6Z1SWJ-lO27__0DOcLBZ7nJz3oJw8_EAgPy-TyHtee0JL_-gj7OheCAfTsZE5hCbRYQNrToOojPW2p4Z1u0aZAI4Tte9OY7say0NEbz7lguIUZvjtAOqil9EfKX4YEnkk2moBrQ6RtqnFtmVHIxGwj6uq4gEywqCTHilkU8wNnXsizW6HDAfp0wVbTN8tu6VDkxa0wkiUTKvOSeNmsg5DZErB5k~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'immobile si trova a Crema, nella zona Sabbioni, che è un'ottima corrispondenza con la sua ricerca per la zona famiglia. La metratura di 110 m² è leggermente superiore al massimo desiderato, ma rientra nella fascia accettabile per un appartamento. Il prezzo di partenza, trattandosi di un'asta, è estremamente vantaggioso e ben al di sotto del suo budget massimo e ideale. Tuttavia, la tipologia è un appartamento, mentre lei preferirebbe una villetta indipendente o bifamiliare, il che rappresenta una discordanza significativa. Non sono disponibili dettagli su spazi esterni o box auto nell'annuncio.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Essendo un'asta, non è possibile negoziare un ribasso diretto. Il consiglio è di valutare attentamente il valore di mercato dell'immobile e stabilire un'offerta massima sostenibile, considerando che il prezzo finale potrebbe salire durante la procedura d'asta. È un'opportunità per un ottimo prezzo se si è disposti ad accettare la tipologia appartamento e il processo d'asta.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-09-30"
+        },
+        {
+            "title": "Appartamento all'asta a Crema (Ombriano, Sabbioni, San Carlo)",
+            "price": "Da € 79.650",
+            "prezzo_numerico": 79650,
+            "location": "Crema (Ombriano, Sabbioni, San Carlo)",
+            "description": "Appartamento di 89 m² con 3 locali e 2 bagni, disponibile all'asta. Situato in via V. Pagliari 14.",
+            "link": "https://clicks.immobiliare.it/f/a/vFe51SLoHU_iwindITn70w~~/AAAHahA~/chk8qH3MRV3d5iqpf6Mb2eixNF-LZjvDbS67Avx9p2JtTDuySxLxSg_edTf_g4K7STjMBJ7UWSOo0DIfK39_oOlqz8Y1rEvlophxLhsXCJBXCI-KLpEhBITDo0thbBOg",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento all'asta in una delle zone familiari preferite dal cliente (Sabbioni, Crema). Il prezzo di partenza è eccezionalmente basso e ben al di sotto del budget massimo e ideale. La metratura di 89 m² è molto vicina alla richiesta minima di 90 m². Tuttavia, la tipologia \"appartamento\" si discosta dalla preferenza per una \"villetta indipendente o bifamiliare\". Mancano inoltre informazioni essenziali sulla presenza di spazi esterni (balcone/giardinetto) e di un box auto, entrambi requisiti importanti per il cliente.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Non essendo una vendita tradizionale ma un'asta, il concetto di 'ribasso' non si applica. È fondamentale valutare attentamente il valore reale dell'immobile e stabilire un'offerta massima congrua, considerando che la tipologia non è quella preferita e non ci sono dettagli su box auto o spazi esterni.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-09-30"
+        },
         {
             "title": "Appartamento all'asta a Chieve",
             "price": "Da € 85.501",
