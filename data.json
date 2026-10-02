@@ -1,6 +1,51 @@
 {
-    "last_update": "01/10/2026 11:38",
+    "last_update": "02/10/2026 10:59",
     "houses": [
+        {
+            "title": "Trilocale via Magneto 8, Centro, Palazzo Pignano",
+            "price": "€ 128.000",
+            "prezzo_numerico": 128000,
+            "location": "Palazzo Pignano, Centro",
+            "description": "Trilocale di 90 m² con 3 locali e 1 bagno, situato in via Magneto 8. Il prezzo è stato recentemente ribassato del 6,6%.",
+            "link": "https://clicks.immobiliare.it/f/a/glCFLU4WlYNHXnRFxU3mDQ~~/AAAHahA~/ORm0PlJWktCmWR24r3MOpoauJpVN1XPznCurEoSjkMZlHIGLwUuVTQyARUggs_M6M9JlttGDCVOQgCD-Tc6sJRGKNxoXirwYNDriKYehPJSisaJiX-9sC7wLCJkGjoUb0",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un 'Trilocale' (appartamento) che, sebbene non sia una 'villetta indipendente o bifamiliare' come da lei preferito, si allinea molto bene con il suo budget e la metratura richiesta (90 m²). La localizzazione a Palazzo Pignano è ottima per la vicinanza a Trescore Cremasco e Crema, rientrando nei 30 minuti di auto. Il prezzo di 128.000 € è molto vicino al suo budget ideale e già scontato. Mancano informazioni sul box auto e sugli spazi esterni (balcone/giardinetto), che sono elementi importanti per lei. Se l'assenza di una villetta non è un 'deal-breaker' e se si riuscisse a verificare la presenza di un box auto o uno spazio esterno, potrebbe essere un'opzione interessante, anche considerando il vantaggio della vicinanza alle zone di interesse.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Dato che il prezzo è già stato ribassato del 6,6% (da 137.000 € a 128.000 €), il margine per un ulteriore ribasso potrebbe essere limitato. Tuttavia, la mancanza di dettagli su box auto o spazi esterni specifici (se non presenti) potrebbe essere un buon punto di partenza per negoziare un piccolo ulteriore sconto, magari puntando a raggiungere il suo budget ideale di 125.000 €.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-02"
+        },
+        {
+            "title": "Trilocale di 100 mq con box a Offanengo, Via San Jacini",
+            "price": "149.000 €",
+            "prezzo_numerico": 149000,
+            "location": "Offanengo",
+            "description": "Appartamento trilocale di generose metrature (100 m²), situato al secondo piano senza ascensore di una piccola palazzina nel centro di Offanengo, vicino a oratorio e scuole. Include box auto.",
+            "link": "https://www.idealista.it/immobile/37015357/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'immobile di Offanengo è un trilocale di 100 mq con box, offerto a 149.000 €. La metratura è perfetta e il box auto è incluso, elementi positivi che soddisfano i suoi criteri. La posizione a Offanengo è strategicamente buona, permettendo di raggiungere Trescore Cremasco (lavoro) in circa 15-20 minuti e Sabbioni/Crema (famiglia) in pochi minuti, in un contesto che, essendo in centro paese e vicino a servizi come scuole e oratorio, dovrebbe essere ben servito ma non eccessivamente caotico. Tuttavia, ci sono due punti critici rilevanti: la tipologia (appartamento vs villetta indipendente o bifamiliare richiesta) rappresenta un mismatch significativo e il prezzo, che sfiora il budget massimo di 150.000 € e si discosta notevolmente da quello ideale di 125.000 €. Non è specificato se sono presenti balconi, e manca il giardinetto piccolo che era preferibile. Data la forte discordanza sulla tipologia principale e il prezzo elevato, questo annuncio non rappresenta un match ottimale, ma potrebbe essere un'opzione da considerare solo se è disposto a compromettere sulla tipologia in cambio della metratura e della posizione favorevole.",
+            "valutazione_prezzo": 6,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Considerando che si tratta di un appartamento e non della tipologia preferita (villetta), e dato che il prezzo richiesto è al limite del suo budget massimo, c'è un buon margine per tentare una trattativa al ribasso. Potrebbe proporre una cifra più vicina al suo budget ideale (es. 125.000 - 135.000 €) motivando l'offerta con la differenza rispetto alla sua preferenza primaria di immobile.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-02"
+        },
+        {
+            "title": "Trilocale via San Jacini 6, Offanengo",
+            "price": "€ 149.000",
+            "prezzo_numerico": 149000,
+            "location": "Offanengo",
+            "description": "Un trilocale di 100 m² situato in via San Jacini 6 a Offanengo, composto da 3 locali e 1 bagno.",
+            "link": "https://clicks.immobiliare.it/f/a/0ieK423EI3Vu0XkJacPCoQ~~/AAAHahA~/38Ysr4hMb54f9kujMyIhojTvKEBkPtSPyVo0ZTOF7y6TKyv3h4yTCb_Qrdi9-I13CnFDmldcE9ZbOkPrmmP9rnqLpTST2n-vPXkKtP0kiepXl6DT0P38m9wKVdrovxRGU9VT_KDUi4DWAOvHYACfLJ63n46B73sOCybUT2wqXemvqHZ5Z1Ky4xm6e97QlAIIBjHacH5qC2PXniQ8fPMNH1-vwY67_Lo_Zavp04T2QwD2u-Vm6z-cX82sraOHNsOe",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale a Offanengo presenta una metratura (100 m²) perfettamente in linea con le sue richieste (90-105 m²). La posizione è vantaggiosa, trovandosi vicino sia a Trescore Cremasco (zona lavoro) che a Crema (zona famiglia), con tempi di percorrenza in auto ben al di sotto dei 30 minuti. Tuttavia, la tipologia 'trilocale' si discosta notevolmente dalla sua preferenza per una villetta indipendente o bifamiliare. Il prezzo di €149.000 è al limite massimo del suo budget e ben oltre l'ideale di €125.000. Mancano informazioni cruciali riguardo la presenza di un balcone/giardinetto e del box auto, elementi da lei richiesti o preferiti.",
+            "valutazione_prezzo": 4,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Considerando la tipologia non corrispondente alle sue preferenze e il prezzo elevato rispetto al suo budget ideale, sarebbe opportuno valutare un ribasso significativo (almeno 10-15%) se fosse disposto a considerare un appartamento. Prima di qualsiasi proposta, è fondamentale verificare la disponibilità di balcone/giardinetto e soprattutto del box auto, requisiti essenziali per lei.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-02"
+        },
         {
             "title": "Trilocale in Via Ponticella, 1, Vailate",
             "price": "67.000 €",
