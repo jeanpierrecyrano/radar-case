@@ -1,6 +1,36 @@
 {
-    "last_update": "04/10/2026 11:01",
+    "last_update": "05/10/2026 12:07",
     "houses": [
+        {
+            "title": "Trilocale con box a Casaletto Vaprio",
+            "price": "128.000 €",
+            "prezzo_numerico": 128000,
+            "location": "Casaletto Vaprio",
+            "description": "Appartamento trilocale di 124 m² al secondo piano senza ascensore, con box auto incluso. Prezzo al m² di 1.032 €. Situato in Viale Punto Manara, 8, Casaletto Vaprio.",
+            "link": "https://www.idealista.it/immobile/25137284/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale a Casaletto Vaprio presenta un prezzo di 128.000 €, molto interessante in quanto vicino al budget ideale (125.000 €) e ben entro il massimo (150.000 €). La presenza del box auto è un punto di forza e risponde a una richiesta specifica. La località è eccellente per la vicinanza a Trescore Cremasco e Crema (Sabbioni), con tempi di percorrenza ottimali (circa 5-15 minuti). I punti deboli riguardano la tipologia (appartamento invece di villetta indipendente/bifamiliare), la metratura che eccede leggermente il massimo richiesto (124 m² vs 105 m²), e la mancanza di spazi esterni specificati (balcone/giardinetto) essendo un secondo piano senza ascensore. Nonostante i compromessi su tipologia e metratura, è l'opzione più bilanciata tra quelle proposte, soprattutto per la posizione e la presenza del box.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Dato il buon rapporto qualità/prezzo e la domanda di immobili con box in zone comode, il margine di ribasso potrebbe essere limitato, forse un 2-3% (circa 2.500-3.500 €), giustificabile magari dall'assenza dell'ascensore. Vale la pena proporre un'offerta per testare la disponibilità, evidenziando le limitazioni dello stabile (es. secondo piano senza ascensore).",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-05"
+        },
+        {
+            "title": "Appartamento all'asta a Crema (Ombriano, Sabbioni)",
+            "price": "Da 86.700 €",
+            "prezzo_numerico": 86700,
+            "location": "Crema (Ombriano, Sabbioni, San Carlo)",
+            "description": "Appartamento di 100 m² con 3 locali e 2 bagni, disponibile all'asta in via V. Pagliari 14 a Crema, nelle zone di Ombriano, Sabbioni, San Carlo.",
+            "link": "https://clicks.immobiliare.it/f/a/DpTluB1131bncVcVL7gpGw~~/AAAHahA~/0mn7eSGBw3xRdsJ9Zn0F_LcfH8KNjtAJvstdp6Z5pNTmeGt-TXwdENo9xPae7cKc6ftrYirky3jxOYhT_4DFhofN1VJZIvabjpdIBbJGXSzjVzZq9h7ieQcpk_q7bsqCL3KFfWIpAtOLZ3eaZjeV3w~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo immobile si trova a Crema, nelle zone di Sabbioni, il che rappresenta un'ottima corrispondenza con la zona famiglia desiderata. La metratura di 100 m² rientra perfettamente nel range richiesto dal cliente (90-105 m²) e il prezzo di partenza di 86.700 € è decisamente interessante, ben al di sotto del budget massimo di 150.000 €. Tuttavia, è fondamentale notare che si tratta di un appartamento e non della tipologia preferita 'villetta indipendente o bifamiliare'. Inoltre, l'immobile è all'asta, il che implica una procedura d'acquisto specifica e diversa dal mercato tradizionale. Non sono presenti informazioni sugli spazi esterni (balcone/giardinetto) o sul box auto, dettagli importanti per il cliente.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Trattandosi di un immobile all'asta, non è possibile fare una proposta di ribasso diretto. Il prezzo indicato (86.700 €) è la base d'asta. È cruciale informarsi attentamente sulle modalità, tempistiche e costi accessori dell'asta (es. spese legali, costi di perizia, eventuali oneri fiscali) prima di partecipare. Sebbene la tipologia non sia quella preferita, il prezzo e la metratura nella zona desiderata potrebbero renderlo un'opzione da valutare se il cliente è aperto a un appartamento e al processo di acquisto tramite asta.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-05"
+        },
         {
             "title": "Trilocale con box in Via Anna Frank, Agnadello",
             "price": "129.000 €",
