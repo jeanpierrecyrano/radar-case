@@ -1,6 +1,36 @@
 {
-    "last_update": "06/10/2026 11:57",
+    "last_update": "07/10/2026 11:48",
     "houses": [
+        {
+            "title": "Trilocale con terrazzo in Via Giuseppe Verdi s.n.c, Monte Cremasco",
+            "price": "95.000 €",
+            "prezzo_numerico": 95000,
+            "location": "Monte Cremasco",
+            "description": "Ampio appartamento trilocale di 118 m² con terrazzo, situato in una tranquilla zona residenziale di Monte Cremasco. L'immobile, al primo piano senza ascensore, è termoautonomo e privo di spese condominiali. Il prezzo è stato recentemente ribassato da 109.000 € a 95.000 € (13% di sconto).",
+            "link": "https://www.idealista.it/immobile/36689996/?utm_medium=email&utm_campaign=express_priceDrop_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-10-07T085441&utm_link=propertyLowPriceLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=02bf34e8-c0b5-4604-8e8a-aab5b924fb3a",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento trilocale a Monte Cremasco, una località che si rivela molto vantaggiosa per la posizione: è a pochi minuti di auto sia da Trescore Cremasco (zona lavoro) che da Sabbioni/Crema (zona famiglia), rientrando ampiamente nel tempo massimo di percorrenza. Il prezzo di 95.000 € è estremamente interessante e ben al di sotto sia del budget massimo che di quello ideale del cliente, offrendo un'opportunità economica notevole, rafforzata dall'assenza di spese condominiali e dalla termoautonomia. La presenza di un terrazzo soddisfa la richiesta di spazi esterni. Tuttavia, la tipologia (appartamento) non corrisponde alla preferenza del cliente per una villetta indipendente o bifamiliare e la metratura (118 m²) è leggermente superiore al massimo desiderato (105 m²). Non è menzionata la presenza di un box auto, che è una richiesta specifica del cliente.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Considerando il recente e significativo ribasso del 13% che ha già posizionato l'immobile a un prezzo molto competitivo e ben al di sotto del budget ideale del cliente, il margine per ulteriori trattative potrebbe essere limitato. Tuttavia, si potrebbe tentare una proposta leggermente inferiore (es. 90.000-92.000 €), giustificandola con il fatto che la tipologia non è una villetta e la metratura è leggermente superiore a quella desiderata, oltre all'incertezza sulla presenza di un box auto.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-07"
+        },
+        {
+            "title": "Appartamento Trilocale in Nuda Proprietà a Crema",
+            "price": "70.000 €",
+            "prezzo_numerico": 70000,
+            "location": "Crema (Ospedale - Stadio)",
+            "description": "Proposta di vendita della NUDA PROPRIETA' di un ampio appartamento trilocale di 106 m² al 2º piano con ascensore, situato in Via Paolo Viviani, Crema, zona Ospedale - Stadio. Include un box auto e si trova a pochi passi dal centro storico.",
+            "link": "https://www.idealista.it/immobile/37071341/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento trilocale in nuda proprietà a Crema. Pur rientrando ampiamente nel budget e offrendo una metratura e un box auto conformi alle sue ricerche, la tipologia (appartamento in nuda proprietà) si discosta significativamente dalle sue preferenze per una villetta indipendente/bifamiliare e dall'esigenza implicita di un immobile per uso immediato. La nuda proprietà è un investimento a lungo termine che non offre l'uso immediato dell'immobile. La zona Ospedale-Stadio a Crema è ben servita e compatibile con le zone di lavoro e famiglia indicate, ma la mancanza di spazi esterni specifici (giardinetto) e la tipologia di acquisto rendono questo annuncio poco allineato alle sue esigenze primarie.",
+            "valutazione_prezzo": 6,
+            "valutazione_match": 2,
+            "consiglio_ribasso": "Data la natura della nuda proprietà, il prezzo è già una frazione del valore di piena proprietà. Un ribasso ulteriore potrebbe essere difficile a meno di specifiche criticità dell'immobile o condizioni dell'usufruttuario. Si consiglia di valutare prima se la nuda proprietà sia un tipo di investimento che rientra effettivamente nei suoi obiettivi, data la preferenza per un'abitazione con uso immediato.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-07"
+        },
         {
             "title": "Villa in Via Ponchielli s.n.c, Agnadello",
             "price": "140.000 €",
