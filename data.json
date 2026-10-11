@@ -1,6 +1,51 @@
 {
-    "last_update": "10/10/2026 11:04",
+    "last_update": "11/10/2026 11:20",
     "houses": [
+        {
+            "title": "Appartamento all'asta a Pagliari, Crema",
+            "price": "Da € 80.250",
+            "prezzo_numerico": 80250,
+            "location": "Sabbioni, Crema (zona Pagliari, Ombriano, San Carlo)",
+            "description": "Appartamento all'asta di 105 m² con 4 locali e 2 bagni, situato a Crema, in una zona che comprende Sabbioni, Ombriano e San Carlo. Ottimo potenziale data la metratura e la posizione strategica per la famiglia.",
+            "link": "https://clicks.immobiliare.it/f/a/YxllYpwxf09_hr_sW8Bevg~~/AAAHahA~/qSzkO26oJQsfAIWS1XojiWkqbl3t8QnvxBq9njGCbaIPPvaLwb07TV2bGvmwRgRSYSAsxf8LXOeAKuHtqN3ljA5gkmwShOwtQOAbJVWT5aK5O2dyHELeFsKOu3twYDRJhGw6qomfVuvZWMPoxx78dIJ0oBrb1IPf9f5LkazX4D3DkmY5O_dMG0SWKiaVdJrG4cH6Mn6nG3I4FrVM7hqahhYBEKmhVqfl13dh-F_nhODtc-QXk0PLrfy4mCUTqGGz",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento all'asta a Crema, in una zona che include Sabbioni, perfettamente in linea con la 'zona famiglia' desiderata dal cliente. La metratura di 105 m² rientra nell'intervallo richiesto (90-105 m²) e il prezzo di partenza è notevolmente al di sotto del budget massimo di 150.000 €, lasciando ampio margine per l'asta e potenziali spese extra o ristrutturazioni. I 4 locali e 2 bagni sono adatti per una famiglia. Tuttavia, è fondamentale notare che la tipologia è un 'appartamento' e non una 'villetta indipendente o bifamiliare', che è la preferenza principale del cliente. Inoltre, non sono specificati spazi esterni come balcone/giardino né la presenza di un box auto, requisiti importanti per il cliente. La natura 'all'asta' richiede una comprensione approfondita del processo e la capacità di gestire potenziali rilanci.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Trattandosi di un'asta, non si applica un ribasso tradizionale. È fondamentale che il cliente si informi sul processo d'asta, stabilisca un budget massimo realistico e valuti i costi aggiuntivi (ad es. spese legali, eventuali oneri fiscali e costi di ristrutturazione) prima di partecipare. Il prezzo di partenza è molto interessante e lascia margine.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-11"
+        },
+        {
+            "title": "Appartamento all'asta via Pagliari, Crema",
+            "price": "Da € 86.700",
+            "prezzo_numerico": 86700,
+            "location": "Crema (Ombriano, Sabbioni, San Carlo)",
+            "description": "Appartamento all'asta di 110 m² con 4 locali e 2 bagni. Situato nella zona di Ombriano, Sabbioni, San Carlo a Crema.",
+            "link": "https://clicks.immobiliare.it/f/a/erQXfXmBwvEKZlnN8IZuPA~~/AAAHahA~/rVKM-noAwq6uu3dZvBcUqZ-jMWZhWXUh0uVSSzyPheAgeftCAC4oiNG4NJ_quwQTLA8ozOySL6HDM6imOvFfHFZXCKliXgui2deLCUUINcDQuBf4a4pFrDPMLH7wE9JsLbWgHl31W9u-wnUymymdfiHL5R65AZujqGjHlxaVU-HVGjsH28JFA7ixpZU8hJ3UDH8sL9wXsETMRm9r8yAe3MVuqsEUCmjRzU6XX-reEmmdgfSQzO0dVGo8hCDP0fFCOingie6zeB8Huwgx3tD8gJbuwfdzwpJ6gAiscI0N3sk4VMZ4LSTUQbNlfuO9Yxqb7ayy50dunmWxVvPRcm1oYQ~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio si trova in un'ottima posizione per la famiglia (Sabbioni, Crema), come richiesto, e la metratura di 110 m² è leggermente superiore al massimo desiderato ma ben tollerabile. Il prezzo di partenza all'asta è estremamente interessante e ben al di sotto del budget ideale del cliente. Tuttavia, è fondamentale evidenziare la notevole discrepanza sulla tipologia: si tratta di un 'appartamento all'asta' e non della 'Villetta indipendente o bifamiliare' preferita. Inoltre, non sono menzionati esplicitamente balcone/giardinetto o box auto, elementi importanti per il cliente.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Trattandosi di un immobile all'asta, non si può negoziare un ribasso diretto. Si consiglia di stabilire un prezzo massimo di offerta con molta attenzione, tenendo conto che l'immobile si discosta significativamente dalla tipologia preferita ('villetta'), e che il valore finale potrebbe superare l'attuale base d'asta.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-11"
+        },
+        {
+            "title": "Trilocale a Capergnanica",
+            "price": "132.000 €",
+            "prezzo_numerico": 132000,
+            "location": "Capergnanica",
+            "description": "Appartamento termoautonomo posto ad un piano basso composto da ingresso, soggiorno. Box compreso. 3 camere da letto, 90 m², 1° piano senza ascensore.",
+            "link": "https://www.idealista.it/immobile/37061370/?utm_medium=email&utm_campaign=daily_oneSearch_withSugg_sale&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-10-11T091134&utm_link=propertyRecommendedLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertOneDailySuggestions&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=f46da1b3-77b4-4b6b-ad2f-5d030f869afa",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale a Capergnanica si distingue per il prezzo molto competitivo, ben al di sotto del budget massimo e vicino a quello ideale del cliente. La metratura di 90 mq rientra perfettamente nel range richiesto e la presenza del box auto è un punto a favore. La posizione di Capergnanica è favorevole sia per la vicinanza a Crema/Sabbioni (zona famiglia) che per il pendolarismo verso Trescore Cremasco (zona lavoro), restando probabilmente nei 30 minuti di auto. Il principale punto di debolezza è la tipologia, essendo un appartamento anziché la villetta indipendente o bifamiliare preferita dal cliente. Mancano anche dettagli specifici sulla presenza di un balcone e l'assenza di un giardinetto.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Il prezzo è già molto interessante, quasi l'ideale per il cliente. Pertanto, il margine di trattativa potrebbe essere limitato. Tuttavia, si potrebbe tentare un piccolo ribasso (es. 128.000-130.000€) verificando lo stato dell'immobile, la presenza effettiva di un balcone e l'isolamento acustico, dato che si tratta di un piano basso e non è la tipologia di immobile preferita.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-11"
+        },
         {
             "title": "Villa singola a Bagnolo Cremasco",
             "price": "139.000 €",
