@@ -1,6 +1,36 @@
 {
-    "last_update": "11/10/2026 11:20",
+    "last_update": "12/10/2026 12:53",
     "houses": [
+        {
+            "title": "Casale/cascina a Santa Maria della Croce - Santo Stefano in Variano, Crema",
+            "price": "90.000 €",
+            "prezzo_numerico": 90000,
+            "location": "Santa Maria della Croce, Crema",
+            "description": "Porzione di cascina di 120 mq, disposta su due livelli, con 4 camere da letto, da ristrutturare. Situata a Crema, frazione Santa Maria della Croce.",
+            "link": "https://www.idealista.it/immobile/36384850/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo immobile, pur essendo una 'porzione di cascina' e non la 'villetta indipendente o bifamiliare' preferita, presenta diversi vantaggi. La metratura di 120 mq è leggermente superiore al suo range ideale (90-105 mq), ma accettabile. La posizione a Santa Maria della Croce è eccellente per la vicinanza alla zona famiglia a Crema e offre un buon collegamento con Trescore Cremasco per il lavoro (sicuramente entro i 30 minuti). Il prezzo è estremamente vantaggioso, lasciando un ampio budget per la ristrutturazione necessaria. Durante la ristrutturazione, si potrebbe valutare l'aggiunta di un piccolo giardinetto o balcone e la creazione di un box auto, se lo spazio lo consente e il progetto lo permette. Il quartiere dovrebbe essere tranquillo e ben servito, in linea con il 'vibe' desiderato.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Il prezzo di 90.000€ è già molto competitivo, specialmente considerando la metratura e la posizione. Suggerirei di esplorare un margine di ribasso contenuto, magari intorno al 5% (circa 4.500 €), basandosi su una stima dettagliata dei costi di ristrutturazione. L'obiettivo principale dovrebbe essere una valutazione accurata dei lavori necessari piuttosto che un forte sconto sul prezzo d'acquisto iniziale.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-12"
+        },
+        {
+            "title": "Bilocale di 92 m² in Palazzo Storico con Box a Ombriano, Crema",
+            "price": "130.000 €",
+            "prezzo_numerico": 130000,
+            "location": "Ombriano - Sabbioni, Crema",
+            "description": "Ampio bilocale di 92 m² situato al piano terreno nello storico Palazzo Rossi a Ombriano, Viale Europa, zona Sabbioni di Crema. L'immobile dispone di 2 locali e include un box singolo al piano interrato. Il prezzo è stato recentemente ridotto da 140.000 € a 130.000 €.",
+            "link": "https://www.idealista.it/immobile/33663386/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta diversi punti di forza e alcune discordanze rispetto alle tue preferenze. La zona di Ombriano-Sabbioni a Crema è un'ottima corrispondenza per la tua zona famiglia, ed è ben collegata a Trescore Cremasco per il lavoro. La metratura di 92 m² è perfettamente in linea con le tue richieste e la presenza del box auto singolo è un plus. Il prezzo di 130.000 € è all'interno del budget massimo e vicino al tuo budget ideale, soprattutto considerando il recente ribasso. Tuttavia, la tipologia di immobile è un 'bilocale in palazzo storico' al piano terreno, che si discosta significativamente dalla tua preferenza per una 'villetta indipendente o bifamiliare'. Inoltre, non vengono menzionati balconi o giardinetti privati, aspetto che per te è importante. Sebbene sia un bilocale molto spazioso (92 mq), la configurazione e il contesto di un palazzo potrebbero non soddisfare l'esigenza di una villetta.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Il prezzo ha già subito un ribasso del 7% (da 140.000 € a 130.000 €), rendendolo già interessante e vicino al tuo budget ideale. Un ulteriore ribasso potrebbe essere difficile da ottenere, ma potresti tentare una piccola offerta simbolica intorno ai 125.000 € data la tipologia non perfettamente allineata alle tue ricerche, o se si riscontrassero difetti in fase di visita.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-12"
+        },
         {
             "title": "Appartamento all'asta a Pagliari, Crema",
             "price": "Da € 80.250",
