@@ -1,6 +1,36 @@
 {
-    "last_update": "13/10/2026 12:38",
+    "last_update": "14/10/2026 10:00",
     "houses": [
+        {
+            "title": "Trilocale in Via Caduti sul Lavoro s.n.c, Sergnano",
+            "price": "125.000 €",
+            "prezzo_numerico": 125000,
+            "location": "Sergnano",
+            "description": "IN PALAZZINA DI RECENTE COSTRUZIONE BEN TENUTO E RIFINITO, appartamento libero subito posto al piano secondo ed ultimo e composto da ingresso soggiorno con angolo cottura disimpegn...",
+            "link": "https://www.idealista.it/immobile/37147098/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un ottimo allineamento con il budget ideale del cliente (125.000 €). La posizione a Sergnano è vantaggiosa, permettendo di raggiungere sia Trescore Cremasco (zona lavoro) che Crema/Sabbioni (zona famiglia) entro i 30 minuti massimi di auto richiesti. Tuttavia, la tipologia di immobile è un appartamento trilocale, che si discosta notevolmente dalla preferenza del cliente per una villetta indipendente o bifamiliare. Anche la metratura di 80 mq è inferiore ai 90-105 mq desiderati. La descrizione non fornisce dettagli specifici su balcone/giardinetto o sulla presenza di un box auto, elementi importanti per il cliente. Sebbene il prezzo sia allettante, l'immobile richiederebbe un significativo compromesso sulla tipologia e sulla metratura per il cliente.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Dato che il prezzo di 125.000 € corrisponde esattamente al budget ideale del cliente e l'immobile è descritto come \"ben tenuto e rifinito di recente costruzione\", i margini per un ribasso significativo non sono elevatissimi. Tuttavia, le discrepanze con le preferenze del cliente in termini di tipologia (appartamento vs villetta) e metratura (80 mq vs 90-105 mq), unite alla mancanza di informazioni dettagliate su box auto e spazi esterni, potrebbero offrire un punto di leva per tentare una piccola trattativa (es. 2-3%) o per negoziare eventuali arredi se inclusi. Non consiglierei di puntare a un forte ribasso, ma una lieve negoziazione potrebbe essere tentata.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-14"
+        },
+        {
+            "title": "Appartamento all'asta a Palazzo Pignano",
+            "price": "Da 29.550 €",
+            "prezzo_numerico": 29550,
+            "location": "Palazzo Pignano",
+            "description": "Appartamento all'asta situato in Via Vittorio Barzoni, 1, Palazzo Pignano. L'immobile ha una superficie di 86 m², include 3 locali e 1 bagno. Il prezzo di partenza è di € 29.550.",
+            "link": "https://clicks.immobiliare.it/f/a/PWsYXpGeMG9QND6UUDLXZQ~~/AAAHahA~/jUUJcqTwHmzXFi16OIn3wKVQLZR2x88wZvmGquZG7z2Uc-VUQm2iNV35aZvAjOXp-M5B1E9LIgS3xdoqfTo1LcNXnlZdu1Vzk_kTClxfywimhSNEvJNkBSXZe7u9VOG8CwwcYdH-WcLfbqmpf91XCQ~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento all'asta, una tipologia che si discosta dalla preferenza del cliente per una villetta indipendente o bifamiliare. La metratura di 86 m² è leggermente inferiore al minimo desiderato (90 m²). Tuttavia, il prezzo di partenza è eccezionalmente basso e ben al di sotto del budget massimo del cliente, offrendo un notevole potenziale di acquisto. Mancano però informazioni cruciali riguardo spazi esterni (balcone/giardinetto) e box auto, che sono requisiti importanti per il cliente. La località di Palazzo Pignano è ben posizionata rispetto alle zone di interesse lavorativo e familiare (Trescore Cremasco e Crema). È fondamentale considerare che, trattandosi di un'asta, il prezzo finale potrebbe aumentare significativamente.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Data la natura dell'annuncio (asta), non si applica un ribasso diretto. Si consiglia vivamente al cliente di informarsi approfonditamente sulle procedure d'asta, sul reale valore di mercato dell'immobile e di stabilire un tetto massimo di offerta, tenendo conto dei costi accessori dell'asta e delle eventuali spese per adeguare l'immobile alle proprie esigenze, in particolare per quanto riguarda gli spazi esterni e il box auto, che al momento non sono garantiti.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-14"
+        },
         {
             "title": "Trilocale in Via Carlo Urbino s.n.c, Ospedale - Stadio, Crema",
             "price": "135.000 €",
