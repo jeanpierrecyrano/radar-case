@@ -1,6 +1,21 @@
 {
-    "last_update": "17/10/2026 09:05",
+    "last_update": "18/10/2026 09:23",
     "houses": [
+        {
+            "title": "Appartamento all'asta a Pagliari, Crema (Ombriano, Sabbioni)",
+            "price": "Da € 79.650",
+            "prezzo_numerico": 79650,
+            "location": "Pagliari, Crema (Ombriano, Sabbioni, San Carlo)",
+            "description": "Appartamento all'asta di 105 m², con 4 locali e 2 bagni, situato nelle zone di Pagliari, Ombriano, Sabbioni e San Carlo a Crema.",
+            "link": "https://clicks.immobiliare.it/f/a/nMbKPonlWEgNS3quU6VZDQ~~/AAAHahA~/pi5ADIAD3QBU0DKV7aSefJJ8z2Tg1nxKEKUcbkTWpAfOIWtwYu8yh2ot263pIpAzo6sb8DST9uLLf4No5pqCvr7Z55QmZoflUnwQXVUCgzKsmmQhkZTJkL0dkcmiXyRGSQTgmi8ewqp8bti1oiZA5w~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento all'asta situato a Crema, nelle zone di Pagliari, Ombriano e Sabbioni. La location è un punto di forza eccezionale, data l'esplicita menzione di 'Sabbioni, Crema' come zona famiglia desiderata dal cliente, ed è verosimilmente a breve distanza da Trescore Cremasco per il lavoro. La metratura di 105 m² è in perfetta sintonia con il range di 90-105 m² richiesto. Il prezzo di partenza di €79.650 è estremamente competitivo e ben al di sotto sia del budget massimo che di quello ideale del cliente, offrendo un'opportunità economica notevole.\n\nTuttavia, è fondamentale evidenziare che la tipologia di immobile è un 'appartamento all'asta' e non la 'villetta indipendente o bifamiliare' preferita dal cliente. Mancano inoltre dettagli cruciali riguardo la presenza di un balcone/giardinetto e di un box auto, che sono requisiti importanti. La natura dell'asta richiede un'attenta valutazione delle procedure, dei costi accessori e dei rischi connessi, che potrebbero non allinearsi con le aspettative del cliente.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Trattandosi di un'asta, la negoziazione sul prezzo di ribasso non è applicabile nel senso tradizionale. Il prezzo di €79.650 è la base d'asta. Si consiglia vivamente di consultare un legale specializzato in aste immobiliari per comprendere a fondo la procedura, i costi totali (incluse tasse, spese procedurali e oneri professionali) e il potenziale rischio, prima di partecipare. Sebbene il prezzo di partenza sia ottimo, la mancanza di informazioni su box auto e spazi esterni, e la tipologia (appartamento vs villetta), sono aspetti da considerare seriamente.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-18"
+        },
         {
             "title": "Trilocale in Vendita a Pandino, Centro",
             "price": "99.000 €",
