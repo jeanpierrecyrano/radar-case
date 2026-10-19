@@ -1,6 +1,36 @@
 {
-    "last_update": "18/10/2026 09:23",
+    "last_update": "19/10/2026 10:36",
     "houses": [
+        {
+            "title": "Casa rurale in Via Alessandro Manzoni s.n.c, Vailate",
+            "price": "65.000 €",
+            "prezzo_numerico": 65000,
+            "location": "Vailate",
+            "description": "Rustico da ristrutturare, disposto su tre livelli, di 120 m² con 4 camere da letto, situato a Vailate.",
+            "link": "https://www.idealista.it/immobile/37024315/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo immobile è l'unico della lista che si avvicina alla tipologia di 'casa' o 'villetta' che lei ricerca, essendo una casa rurale. Tuttavia, presenta diverse criticità significative. La prima è che si tratta di un 'rustico da ristrutturare', il che implica un investimento di tempo e denaro considerevole, ben oltre il prezzo di acquisto di 65.000 €. Il budget massimo di 150.000 € difficilmente coprirebbe l'acquisto e una ristrutturazione completa per renderla abitabile e moderna. La metratura di 120 m² è leggermente superiore al suo range ideale (90-105 m²). La località di Vailate è più distante dalle sue zone di interesse (Trescore Cremasco e Sabbioni, Crema) e potrebbe non offrire il 'vibe ben servito ma non caotico' desiderato. Non è specificato il box auto né la presenza di spazi esterni come un balcone o un piccolo giardinetto, anche se una casa rurale spesso ne include.",
+            "valutazione_prezzo": 5,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Il prezzo di 65.000 € è già un prezzo di liquidazione per un immobile da ristrutturare completamente. Non c'è margine significativo per un ulteriore ribasso. Il vero focus qui deve essere il budget totale stimato per l'acquisto + ristrutturazione, che quasi certamente supererà il suo limite massimo di 150.000 €.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-19"
+        },
+        {
+            "title": "Casa indipendente in Via Marconi, Gombito",
+            "price": "89.000 €",
+            "prezzo_numerico": 89000,
+            "location": "Gombito",
+            "description": "Casa indipendente di 92 m² con 3 locali, situata in Via Marconi a Gombito. L'immobile include un giardino grande e ha subito un recente ribasso di prezzo del 18%, passando da 109.000 € a 89.000 €.",
+            "link": "https://www.idealista.it/immobile/36860068/?utm_medium=email&utm_campaign=express_priceDrop_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-10-19T111157&utm_link=propertyLowPriceLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=9e694339-4da0-4631-84da-a7c30104649e",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa casa indipendente a Gombito si presenta come un'ottima opportunità, con un prezzo molto allettante e recentemente ribassato, ben al di sotto del suo budget ideale (89.000 € vs 125.000 €). La metratura (92 m²) e la tipologia (casa indipendente) sono perfettamente in linea con le sue preferenze. La località di Gombito è strategicamente vicina sia alla sua zona di lavoro a Trescore Cremasco (da verificare tempi di percorrenza esatti sotto i 30 minuti) che all'area di Crema per la famiglia. Tuttavia, è importante approfondire la disponibilità di servizi nel quartiere per assicurarsi che soddisfi il suo desiderio di una zona 'ben servita ma non caotica'. Manca l'informazione sul box auto e sul balcone (richiesto), mentre il giardino è descritto come 'grande' rispetto alla sua preferenza per un 'giardinetto piccolo'. Questi sono aspetti cruciali da verificare durante la visita per una valutazione completa.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Dato il recente e significativo ribasso del prezzo (-18%) e l'attrattività generale dell'immobile rispetto al suo budget, le possibilità di ottenere un ulteriore ribasso potrebbero essere limitate. Se l'immobile si rivelasse un ottimo match dopo la visita, si potrebbe tentare un'offerta leggermente trattabile (es. 85.000 €) o negoziare l'inclusione di eventuali spese accessorie o arredi, qualora non fosse presente un box auto, che è una sua priorità non menzionata e critico da verificare.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-19"
+        },
         {
             "title": "Appartamento all'asta a Pagliari, Crema (Ombriano, Sabbioni)",
             "price": "Da € 79.650",
