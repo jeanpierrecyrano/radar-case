@@ -1,6 +1,51 @@
 {
-    "last_update": "20/10/2026 10:00",
+    "last_update": "21/10/2026 10:00",
     "houses": [
+        {
+            "title": "Appartamento all'asta a Crema (Sabbioni)",
+            "price": "Da € 87.450",
+            "prezzo_numerico": 87450,
+            "location": "Crema (Ombriano, Sabbioni, San Carlo)",
+            "description": "Appartamento all'asta di 99 m² con 3 locali e 2 bagni, situato in via V. Pagliari 14.",
+            "link": "https://clicks.immobiliare.it/f/a/wRWYdjgQfFElYT-S0P7MYA~~/AAAHahA~/vHi1VH_cCUXQb-YdtfOGrO3NNTwjURKQeIcSHSzgap3ZqIahpE79CUFkGT8m9Oc1a7pCsxMZeYyodA1CmzxqtyAqdiQ9Dds_swXFx-JpAAyDZ52l2HgIg0VOvKgV85gNukp4Mkpvn8RwAf9EI8HsyTi7wYvq7A7Sae1HeCVBMBaxI5rXRasTqumgtGAzkqFO92Wm6jH67iJH6dmP64jDR8B4xhs1B_pKPVTAS-MTOu9hw-8CnfBeoOghqEZZKTd4WtqQFxmOKIIhiGxjeDcofreOkV4mImSJTgAiqor1D7IlCO0YWKfrDylWTdYrhIRVRDW20PEYrdzAftVkDEFDiA~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio riguarda un appartamento all'asta a Crema, specificamente nelle zone di Ombriano, Sabbioni e San Carlo. La zona di Sabbioni è un ottimo match per la sua 'zona_famiglia'. Il prezzo di partenza è estremamente competitivo e ben al di sotto del suo budget massimo e ideale, rappresentando un potenziale affare. La metratura di 99 m² è quasi perfetta per la sua richiesta (90-105 m²). Tuttavia, la tipologia 'appartamento' è una deviazione dalla sua preferenza per una 'villetta indipendente o bifamiliare'. Mancano informazioni riguardo a spazi esterni come balcone/giardinetto e la presenza di un box auto, elementi importanti nella sua ricerca. Trattandosi di un'asta, il processo di acquisizione ha dinamiche diverse rispetto a una compravendita tradizionale.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Essendo un'opportunità all'asta, non c'è possibilità di negoziare direttamente il prezzo. Il consiglio è di informarsi approfonditamente sulle procedure d'asta, visionare la perizia tecnica dell'immobile (se disponibile) e, se possibile, effettuare un sopralluogo. È fondamentale stabilire in anticipo un budget massimo d'offerta che includa tutti i costi aggiuntivi (spese legali, tasse, ecc.) e che sia in linea con il valore di mercato stimato per la tipologia di immobile, considerando la discrepanza con la tipologia preferita.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-21"
+        },
+        {
+            "title": "Appartamento all'asta in Via Pagliari, Crema",
+            "price": "Da 48.375 € (prezzo base d'asta)",
+            "prezzo_numerico": 48375,
+            "location": "Crema (Ombriano, Sabbioni, San Carlo)",
+            "description": "Appartamento all'asta di 87 m² con 3 locali e 2 bagni, situato nella zona di Sabbioni, Crema.",
+            "link": "https://clicks.immobiliare.it/f/a/-Xzjrz2uqu7dzGVMkuKCXg~~/AAAHahA~/px2sJ3BQ4ToYjIot5zJJrdaR94Rv98tu53-2Xmb9bo8ZpWrNjuq4aatcS1MTNpsuFLpO9uyuqlEIyeQ79xD094Hl8thved_mxi7Y6BRPZd6g7noxnEeDMhK5XSkCKmt3ztbuHWxCK3dXHYmmz2jjOGbOKMo1G_zK3Xj3V91BNNgc8jyVdcXS-yhjb-hW1LfhtbY9ZCMmCgN-3kuGIgCcHCPBDrAU24MA3m3tvJiTJqIH8uXQiJHEAc87Zwd92oS_",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio riguarda un appartamento all'asta situato nella zona di Sabbioni, Crema, che è una corrispondenza eccellente per la sua 'zona famiglia' preferita. Il prezzo di partenza di 48.375 € è estremamente attraente e ben al di sotto sia del budget ideale che massimo. Tuttavia, la tipologia (appartamento) non rispecchia la preferenza del cliente per una villetta indipendente o bifamiliare. La metratura di 87 m² è leggermente inferiore al minimo richiesto di 90 m². Non sono fornite informazioni sulla presenza di balconi/giardinetto o di un box auto, requisiti importanti per il cliente. Essendo un'asta, il prezzo finale potrebbe aumentare significativamente rispetto alla base.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Trattandosi di un'asta, non è possibile negoziare il prezzo. Si consiglia di considerare attentamente il valore di mercato dell'immobile in relazione alla zona e alle sue condizioni. Fissare un budget massimo di partecipazione all'asta che tenga conto di eventuali costi aggiuntivi (ristrutturazione, spese d'asta) e del forte compromesso sulla tipologia di immobile (appartamento anziché villetta).",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-21"
+        },
+        {
+            "title": "Trilocale LUMINOSO APPARTAMENTO CON BOX a Montodine",
+            "price": "89.000 €",
+            "prezzo_numerico": 89000,
+            "location": "Montodine",
+            "description": "Ampio appartamento trilocale di 106 m² al piano terra, con box auto compreso. Situato in Vicolo Nuovo s.n.c a Montodine, in una zona tranquilla e verdeggiante, circondato dalla natura. L'immobile è comodo e luminoso.",
+            "link": "https://www.idealista.it/immobile/37225685/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-10-21T093850&utm_link=propertyNewLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=8fea9d4e-c1d9-47b9-bea4-05150b7a9767",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale a Montodine si presenta come un'ottima opportunità dal punto di vista economico, essendo nettamente inferiore al budget massimo e anche all'ideale. La metratura di 106 m² rientra perfettamente nelle sue esigenze e la presenza del box auto è un punto a favore. La posizione a Montodine è strategica per raggiungere Trescore Cremasco (lavoro) e Sabbioni/Crema (famiglia) entro i 30 minuti desiderati, e la descrizione di zona tranquilla e verdeggiante è in linea con il 'vibe' ricercato. Il principale scostamento riguarda la tipologia: è un appartamento e non una villetta indipendente o bifamiliare. Essendo al piano terra e circondato dalla natura, potrebbe offrire spazi esterni, ma andrebbe verificata la presenza specifica di un balcone o di un giardinetto privato.",
+            "valutazione_prezzo": 10,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Dato il prezzo già estremamente competitivo (89.000 € contro un budget massimo di 150.000 €) e l'ottimo rapporto qualità-prezzo, un ribasso significativo potrebbe essere difficile da ottenere. Suggerirei piuttosto di procedere con un'offerta rapida e pulita, concentrandosi sulla velocità di chiusura per mostrare interesse. Si potrebbero chiedere informazioni dettagliate sulle condizioni dell'immobile e sulle spese condominiali per avere una visione completa.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-21"
+        },
         {
             "title": "Quadrilocale in via Armando Diaz, Centro, Crespiatica",
             "price": "99.000 €",
