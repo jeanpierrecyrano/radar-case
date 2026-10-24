@@ -1,6 +1,36 @@
 {
-    "last_update": "23/10/2026 09:51",
+    "last_update": "24/10/2026 09:22",
     "houses": [
+        {
+            "title": "Trilocale di 100 m² a Pandino, 4º piano con ascensore",
+            "price": "98.000 €",
+            "prezzo_numerico": 98000,
+            "location": "Pandino",
+            "description": "Ampio appartamento trilocale di 100 m² situato al quarto e ultimo piano di una palazzina dotata di ascensore. L'immobile è in posizione centrale e comoda a tutti i principali servizi.",
+            "link": "https://www.idealista.it/immobile/37256074/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un trilocale a Pandino, con una metratura di 100 m² e un prezzo di 98.000 €. Dal punto di vista del budget e della metratura, l'immobile si allinea perfettamente ai suoi parametri di ricerca, rientrando ampiamente sia nel budget ideale (125.000 €) che massimo (150.000 €), e nella metratura richiesta (90-105 m²).\n\nTuttavia, la tipologia è un appartamento (trilocale al quarto e ultimo piano con ascensore), mentre la sua preferenza è per una villetta indipendente o bifamiliare. Non sono menzionati spazi esterni come balcone o giardinetto piccolo, né la presenza di un box auto, che sono richieste importanti per lei. La posizione a Pandino è funzionale per raggiungere Trescore Cremasco e Crema (Sabbioni) entro i 30 minuti, e la descrizione indica una zona ben servita e centrale, il che potrebbe soddisfare il requisito di un quartiere ben servito ma resta da verificare la tranquillità.\n\nIn sintesi, un'ottima opportunità dal punto di vista economico e dimensionale, ma con forti discrepanze sulla tipologia di immobile e sulla mancanza di informazioni riguardo spazi esterni e box auto.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Il prezzo di 98.000 € è già estremamente competitivo e ben al di sotto del suo budget ideale. Un ribasso significativo è improbabile e potrebbe non essere la priorità. Piuttosto, se l'immobile fosse di interesse nonostante la tipologia, si potrebbe tentare una piccola negoziazione (es. 2-3%) legata magari alla presenza o all'ottenimento di un posto auto/box, o alla richiesta di verifiche sugli spazi esterni (balcone).",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-24"
+        },
+        {
+            "title": "Trilocale in via Cesare Battisti, Centro, Pandino",
+            "price": "€ 98.000",
+            "prezzo_numerico": 98000,
+            "location": "Pandino",
+            "description": "Trilocale di 100 m² con 3 locali e 2 bagni, situato nel centro di Pandino. Prezzo molto competitivo.",
+            "link": "https://clicks.immobiliare.it/f/a/5wvLqYSgvuAyV6t7Xd7rKQ~~/AAAHahA~/RU5CVbcmaRcinZ2Sr8TppmJMtvGwY6kpFxckxlrsFB_opbrTZWsVHuFxOuS0UGDpmajgKTm6hEwiXF5Hc_HTrBWYieyOk5eGSTOQl-QnFyW6XnpzsbnViQoqK7tQXDFi32BaRRudjCMC5d0WpvS7IQ~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un trilocale a Pandino, con un prezzo (98.000 €) e una metratura (100 m²) che rientrano perfettamente nei tuoi parametri di ricerca e sono anzi molto convenienti. La posizione a Pandino è compatibile con i tempi di percorrenza massimi per Trescore Cremasco (lavoro) e Crema (famiglia). Tuttavia, la tipologia 'trilocale' suggerisce un appartamento, il che rappresenta una deviazione significativa dalla tua preferenza per una villetta indipendente o bifamiliare. Non sono specificati dettagli su spazi esterni (balcone, giardinetto) o box auto, che sono requisiti importanti per te. Potrebbe essere interessante se si considera anche l'opzione appartamento, altrimenti la tipologia è un mismatch forte.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Il prezzo è già estremamente competitivo e ben al di sotto del tuo budget ideale, rendendo difficile un ribasso sostanziale. L'attenzione dovrebbe essere più sulla verifica delle caratteristiche non specificate (spazi esterni, box auto) e se la tipologia 'trilocale' possa comunque essere considerata. Un piccolo margine di trattativa potrebbe esserci, ma il prezzo è già un punto di forza.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-24"
+        },
         {
             "title": "Trilocale in Via Manini, 6, Crema Nuova - San Carlo, Crema",
             "price": "110.000 €",
