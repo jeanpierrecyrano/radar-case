@@ -1,6 +1,21 @@
 {
-    "last_update": "24/10/2026 09:22",
+    "last_update": "25/10/2026 09:39",
     "houses": [
+        {
+            "title": "Porzione di casa indipendente con balcone a Castelleone (Prezzo ribassato)",
+            "price": "73.000 €",
+            "prezzo_numerico": 73000,
+            "location": "Castelleone",
+            "description": "Porzione di casa indipendente di recente costruzione, disposta su due piani. Offre soggiorno/cucina, due camere, bagno e balcone. Superficie abitabile di 68 mq (totale 81 m² commerciali), con predisposizione clima.",
+            "link": "https://www.idealista.it/immobile/32104494/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'immobile a Castelleone si presenta con un prezzo estremamente competitivo, ben al di sotto sia del budget massimo che di quello ideale del cliente, con un recente ribasso da 75.000€ a 73.000€. La tipologia di 'porzione di casa indipendente' è in linea con la preferenza per una villetta, e la presenza di un balcone soddisfa la richiesta di spazi esterni. La località di Castelleone dovrebbe rientrare nei tempi di percorrenza massimi per le zone di Trescore Cremasco e Crema, e il vibe del quartiere dovrebbe essere non caotico. \nTuttavia, ci sono due punti critici significativi: la metratura abitabile di 68 mq (o 81 mq commerciali) è inferiore alla metratura minima richiesta di 90 mq. Inoltre, non viene menzionato un box auto, che è una richiesta esplicita e fondamentale per il cliente. Questi due aspetti rappresentano dei compromessi importanti che il cliente dovrebbe valutare attentamente.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Il prezzo ha già subito un ribasso e si presenta molto competitivo per la tipologia. Considerato che le principali carenze riguardano metratura e l'assenza di box auto (aspetti strutturali non negoziabili sul prezzo), un ulteriore ribasso non sarebbe la priorità. Il focus dovrebbe essere sulla valutazione se il cliente è disposto ad accettare la metratura ridotta e l'assenza del box auto prima di considerare qualsiasi trattativa sul prezzo.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-25"
+        },
         {
             "title": "Trilocale di 100 m² a Pandino, 4º piano con ascensore",
             "price": "98.000 €",
