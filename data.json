@@ -1,6 +1,51 @@
 {
-    "last_update": "25/10/2026 09:39",
+    "last_update": "26/10/2026 10:52",
     "houses": [
+        {
+            "title": "Appartamento all'asta a Crema (Pagliari, Ombriano, Sabbioni, San Carlo)",
+            "price": "Da € 80.251",
+            "prezzo_numerico": 80251,
+            "location": "Crema (Pagliari, Ombriano, Sabbioni, San Carlo)",
+            "description": "Appartamento di 105 m² con 4 locali e 2 bagni, disponibile all'asta. Situato in diverse zone di Crema, tra cui Sabbioni. Prezzo di partenza molto competitivo.",
+            "link": "https://clicks.immobiliare.it/f/a/9pNX9iwMhFgq5TbEuqWFvQ~~/AAAHahA~/MM5Ur0m4emRZPV9L1Ua3rErUYCu1lhdnlHTNr57ogYuHkuJUiTqPAkP-SDA-JrOzUV2Ly84Fw7dIzN-K_BaJsGDdwnhHz4DV3rwnC83BnzUX6JtGP6j4fw70s-HgUmONiHyYfG7HLj9zM4RvE4G5-z_yXn8AReRdqiVbT8NvmDD0OHSfX7_MVBqdnzPGXD-5s5az7PhEEY1j0to8d_N8EkgEs_QTtLPWzIICojhVRlnPETX1Hpxz0vIXLSb-tVYhwadTzIPWrT1H7S70pHuKoC0hKpg5ETMc7ry08NyGNbo7BRPwaaUh9I9b_5AlR9X2KobLVDelo6IBz_nibzgH3g~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento all'asta a Crema, in zone che includono Sabbioni, la sua zona famiglia preferita. La metratura di 105 m² è perfetta e il prezzo di partenza di €80.251 è estremamente vantaggioso e ben al di sotto del budget ideale. Tuttavia, la tipologia 'appartamento all'asta' si discosta significativamente dalla sua preferenza per una 'villetta indipendente o bifamiliare'. Questo implica un processo d'acquisto differente e l'incertezza sulla presenza di spazi esterni privati o box auto. Sebbene la location e il prezzo siano ottimi, la tipologia è un forte elemento di discordanza.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Trattandosi di un'asta, non è possibile negoziare il prezzo di partenza. Il prezzo finale sarà determinato dalle offerte. È fondamentale esaminare attentamente la documentazione, partecipare a eventuali sopralluoghi e definire un'offerta massima basata sul valore reale per lei e sulla presenza/assenza di box auto e spazi esterni, prima di partecipare all'incanto.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-26"
+        },
+        {
+            "title": "Casa rurale a Calvenzano",
+            "price": "45.000 €",
+            "prezzo_numerico": 45000,
+            "location": "Calvenzano",
+            "description": "Rustico in vendita in esclusiva, in zona centrale nel paese, con 3 camere da letto e 149 m².",
+            "link": "https://www.idealista.it/immobile/35681826/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un 'rustico' che, per tipologia, è l'unico tra i suggerimenti a essere una 'casa' indipendente e non un appartamento. Tuttavia, il prezzo estremamente contenuto (45.000 €) indica chiaramente la necessità di una ristrutturazione completa e onerosa, che non sembra essere stata prevista nei parametri del cliente, il cui budget ideale è 125.000€ e massimo 150.000€. La metratura di 149 m² supera inoltre la dimensione desiderata (90-105 m²). Non sono specificati box auto o spazi esterni adeguati (balcone/giardinetto). Sebbene la posizione di Calvenzano sia geograficamente compatibile per spostamenti verso Trescore Cremasco e Crema, l'investimento totale richiesto per rendere l'immobile abitabile e rispondente alle esigenze di una famiglia supererebbe probabilmente il budget complessivo e la ricerca di una 'villetta' pronta all'uso o con interventi minimi.",
+            "valutazione_prezzo": 2,
+            "valutazione_match": 2,
+            "consiglio_ribasso": "Il prezzo è già al minimo per un immobile in stato di rustico, non c'è margine per un ulteriore ribasso. L'attenzione primaria dovrebbe essere rivolta alla stima dettagliata dei costi di ristrutturazione, che probabilmente porterebbero il costo finale ben oltre il budget massimo del cliente.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-26"
+        },
+        {
+            "title": "Trilocale a Castel Gabbiano con Box",
+            "price": "135.000 €",
+            "prezzo_numerico": 135000,
+            "location": "Castel Gabbiano",
+            "description": "Interessante trilocale di 90 m² situato al primo piano (senza ascensore) in un tranquillo contesto residenziale composto da sole 6 famiglie. L'annuncio specifica la presenza di un box auto compreso nel prezzo.",
+            "link": "https://www.idealista.it/immobile/37272853/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-10-26T114522&utm_link=propertyNewLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=f8759e9f-78d2-4038-b1b3-04ab247d2c88",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un trilocale, tipologia che si discosta dalla preferenza primaria del cliente (villetta indipendente o bifamiliare). Tuttavia, rispetta la metratura desiderata (90 m²) e include il box auto richiesto. La posizione a Castel Gabbiano è eccellente per il tempo di percorrenza verso Trescore Cremasco e l'area di Crema. Il contesto residenziale è piccolo e tranquillo, in linea con il 'vibe non caotico'. Il prezzo è entro il budget massimo ma supera quello ideale. Mancano dettagli specifici sulla presenza di un balcone o un giardinetto, elementi preferiti dal cliente. Potrebbe essere un'opzione da considerare solo se si è aperti a valutare appartamenti, nonostante la preferenza per le villette.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Data la differenza rispetto alla tipologia preferita (villetta) e il prezzo leggermente superiore al budget ideale (125.000 €), un tentativo di ribasso di 5.000-10.000 € potrebbe essere giustificato, specialmente se l'immobile non offre spazi esterni come un balcone o giardinetto esplicitamente menzionati e desiderati.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-26"
+        },
         {
             "title": "Porzione di casa indipendente con balcone a Castelleone (Prezzo ribassato)",
             "price": "73.000 €",
