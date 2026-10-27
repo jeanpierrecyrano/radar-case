@@ -1,6 +1,36 @@
 {
-    "last_update": "26/10/2026 10:52",
+    "last_update": "27/10/2026 10:17",
     "houses": [
+        {
+            "title": "Appartamento all'asta Pagliari, Crema Ombriano, Sabbioni, San Carlo",
+            "price": "Da € 79.651",
+            "prezzo_numerico": 79651,
+            "location": "Pagliari, Crema",
+            "description": "Appartamento all'asta di 105 m² con 4 locali e 2 bagni, situato nelle zone di Pagliari, Ombriano, Sabbioni e San Carlo a Crema. Prezzo di partenza molto interessante.",
+            "link": "https://clicks.immobiliare.it/f/a/kME1xaoLCf94RTmdA0GtkA~~/AAAHahA~/euDr-Q3_D7HhI1wE6AVLYFhBSCjszFUSlmpe3Zv37KihDFTNocFnHE1L3798jXo5ne0AeD5zKOOGJARlcR1f0FBSisb_jmHkdgK_uxU7Y8KXn56FFNblzNN3BAmO16Q9Ix61cAW-nvvBHKuuuWudCv4GKl4T75tCGIMg2x32HA8~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'annuncio propone un appartamento all'asta localizzato nelle vicinanze di Sabbioni, Crema, una zona che soddisfa la preferenza del cliente per la famiglia. La metratura di 105 m² rientra perfettamente nel range desiderato. Il prezzo di partenza, decisamente basso (€ 79.651), è un punto di forza rispetto al budget massimo e ideale. Tuttavia, la tipologia 'appartamento' non corrisponde alla preferenza per una 'villetta indipendente o bifamiliare'. Inoltre, non ci sono dettagli riguardo la presenza di spazi esterni (balcone/giardinetto) e di un box auto, entrambi requisiti importanti per il cliente. Essendo un'asta, il prezzo finale e le modalità di acquisto sono meno prevedibili e comportano costi aggiuntivi.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Trattandosi di un'asta, non è possibile negoziare direttamente un ribasso sul prezzo di partenza. Il prezzo finale sarà determinato dalle offerte. Si consiglia di effettuare una due diligence approfondita, inclusa la valutazione del valore di mercato per appartamenti simili in zona e la verifica della presenza di spazi esterni e box auto. È fondamentale considerare anche i costi aggiuntivi tipici delle aste (spese legali, perizie, oneri) per calcolare il costo totale dell'investimento.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-27"
+        },
+        {
+            "title": "Trilocale di 90 mq con box auto a Castel Gabbiano",
+            "price": "135.000 €",
+            "prezzo_numerico": 135000,
+            "location": "Castel Gabbiano (CR)",
+            "description": "In un tranquillo contesto residenziale di sole 6 famiglie, proponiamo in vendita un trilocale di 90 m² al 1° piano senza ascensore, con box auto incluso. Ideale per chi cerca tranquillità e vicinanza ai servizi della zona di Crema.",
+            "link": "https://www.idealista.it/immobile/34959660/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo trilocale a Castel Gabbiano rappresenta un'ottima soluzione, nonostante la tipologia non sia una villetta indipendente o bifamiliare come preferito. Il contesto di sole 6 famiglie offre un'atmosfera raccolta e tranquilla, simile all'ambiente ricercato. Il prezzo è competitivo, ben al di sotto del budget massimo e leggermente superiore a quello ideale, con una metratura di 90 m² che si allinea perfettamente ai tuoi requisiti. La presenza del box auto incluso è un grande vantaggio. La posizione è strategica per la vicinanza a Crema e a Trescore Cremasco, rendendo gli spostamenti rapidi e comodi. È consigliabile verificare la presenza e la dimensione degli spazi esterni (balcone/giardinetto), un aspetto non esplicitamente dettagliato ma richiesto.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Il prezzo di 135.000€ è già ben posizionato per il mercato attuale, considerando la metratura, il box incluso e la buona localizzazione. Data la natura tranquilla del contesto e il potenziale interesse, un ribasso significativo potrebbe essere difficile. Suggerisco di provare una leggera offerta, ad esempio intorno ai 128.000€ - 130.000€, evidenziando una rapida conclusione della trattativa o la disponibilità ad adattarsi alle tempistiche del venditore, senza però aspettarsi margini di negoziazione molto ampi.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-27"
+        },
         {
             "title": "Appartamento all'asta a Crema (Pagliari, Ombriano, Sabbioni, San Carlo)",
             "price": "Da € 80.251",
