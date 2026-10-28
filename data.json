@@ -1,6 +1,51 @@
 {
-    "last_update": "27/10/2026 10:17",
+    "last_update": "28/10/2026 11:07",
     "houses": [
+        {
+            "title": "Trilocale in Via Caduti di Nassiriya, 5, Chieve",
+            "price": "149.000 €",
+            "prezzo_numerico": 149000,
+            "location": "Chieve",
+            "description": "In bel contesto residenziale, questo trilocale al 1° piano senza ascensore offre 3 camere da letto e una metratura di 96 m². L'immobile è composto da soggiorno e cucina a vista. Il box auto è compreso nel prezzo.",
+            "link": "https://www.idealista.it/immobile/33913641/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta alcuni punti di forza e debolezza rispetto ai suoi parametri di ricerca. La metratura di 96 m² è ideale, rientrando perfettamente nel suo range desiderato (90-105 m²). La presenza di un box auto compreso è un grande vantaggio, essendo una sua richiesta esplicita. La posizione a Chieve è eccellente, garantendo tempi di percorrenza ridotti sia verso Trescore Cremasco (lavoro) che verso Sabbioni, Crema (famiglia), ben entro i 30 minuti massimi. Il prezzo di 149.000 € è tuttavia molto vicino al suo budget massimo (150.000 €) e distante dal suo budget ideale (125.000 €). La tipologia 'Trilocale' al '1° piano senza ascensore' non coincide con la sua preferenza per una 'Villetta indipendente o bifamiliare' e l'assenza di un giardino privato è una mancanza rispetto al 'giardinetto piccolo preferibile'. Non è specificato se sia presente un balcone.",
+            "valutazione_prezzo": 6,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Considerando che il prezzo è al limite del budget massimo e la tipologia non è perfettamente allineata, suggerirei di tentare un'offerta di acquisto più vicina ai 142.000 - 144.000 €. Questo lascerebbe un margine di trattativa e si avvicinerebbe di più al suo budget ideale, giustificando la tipologia non proprio 'villetta'.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-28"
+        },
+        {
+            "title": "Ampio Trilocale in Via Indipendenza, Centro, Crema",
+            "price": "125.000 €",
+            "prezzo_numerico": 125000,
+            "location": "Crema, Centro (Via Indipendenza)",
+            "description": "Proponiamo in vendita ampio trilocale di circa 90 mq al primo piano con ascensore, inserito in una palazzina in ordine e ben abitata, situato in posizione strategica e servita alle porte della città di Crema.",
+            "link": "https://www.idealista.it/immobile/37295578/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un ottimo allineamento per budget e metratura, rispecchiando esattamente il suo budget ideale di 125.000 € e la metratura minima richiesta di 90 mq. La posizione a Crema, 'alle porte della città' e 'ben servita', si accorda con la sua ricerca di un quartiere non caotico ma funzionale, con buona vicinanza alla zona famiglia (Sabbioni) e al luogo di lavoro (Trescore Cremasco). Tuttavia, la tipologia immobiliare è un 'trilocale in palazzina' (appartamento), che diverge dalla sua preferenza per una 'villetta indipendente o bifamiliare'. Non sono menzionati esplicitamente il balcone/giardinetto o il box auto, che sono requisiti importanti.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Il prezzo è già allineato con il suo budget ideale. Un ribasso significativo potrebbe essere difficile, ma si potrebbe tentare una piccola negoziazione (es. 2-3%) o chiedere se inclusi accessori (cantina, box) non specificati, soprattutto in assenza di un box auto esplicito.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-28"
+        },
+        {
+            "title": "Casa indipendente in Via Roma, Romanengo",
+            "price": "59.000 €",
+            "prezzo_numerico": 59000,
+            "location": "Romanengo",
+            "description": "Casa indipendente di 97 m² con 3 locali situata in Via Roma, Romanengo. Il prezzo è sceso da 89.000 € a 59.000 €. L'annuncio menziona la disponibilità di spazio esterno.",
+            "link": "https://www.idealista.it/immobile/36252868/?utm_medium=email&utm_campaign=express_priceDrop_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-10-28T113703&utm_link=propertyLowPriceContact&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=79ff4cb7-999a-4c49-93a5-dc87ae91ec4d",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo immobile rappresenta un'ottima opportunità, specialmente considerando il prezzo di 59.000 € che è ben al di sotto del budget ideale del cliente. La tipologia (casa indipendente) e la metratura (97 m²) corrispondono perfettamente ai criteri di ricerca. La zona di Romanengo è vicina all'area di Crema ed è compatibile con i tempi di percorrenza per Trescore Cremasco (lavoro) e Sabbioni, Crema (famiglia). Si suggerisce di approfondire la natura dello 'spazio esterno' e verificare la presenza di un box auto, dettagli non esplicitamente menzionati ma cruciali per il cliente.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Considerato il significativo ribasso del 34% già applicato (da 89.000 € a 59.000 €), ulteriori margini di trattativa potrebbero essere limitati. È consigliabile una visita approfondita per valutare le condizioni dell'immobile e identificare eventuali punti di forza o debolezza che potrebbero offrire una piccola leva per un ulteriore ribasso, ma non aspettarsi una riduzione sostanziale.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-28"
+        },
         {
             "title": "Appartamento all'asta Pagliari, Crema Ombriano, Sabbioni, San Carlo",
             "price": "Da € 79.651",
