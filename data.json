@@ -1,6 +1,36 @@
 {
-    "last_update": "29/10/2026 11:25",
+    "last_update": "30/10/2026 11:17",
     "houses": [
+        {
+            "title": "Trilocale mansardato con box a Crema, zona Ospedale-Stadio",
+            "price": "120.000 €",
+            "prezzo_numerico": 120000,
+            "location": "Ospedale - Stadio, Crema",
+            "description": "Appartamento trilocale di 120 mq mansardato, situato al quinto ed ultimo piano con ascensore. Include box auto. Il prezzo è stato recentemente ribassato del 11%, passando da 135.000 € a 120.000 €.",
+            "link": "https://www.idealista.it/immobile/33899058/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo appartamento a Crema è molto interessante per il prezzo, decisamente inferiore al suo budget massimo di 150.000 € e molto vicino all'ideale di 125.000 €. La metratura di 120 mq è leggermente superiore alla sua preferenza massima di 105 mq, ma offre spazio aggiuntivo. Un grande punto a favore è l'inclusione del box auto, che lei ha specificamente richiesto. La posizione nella città di Crema è ottima in relazione sia alla zona di lavoro (Trescore Cremasco è facilmente raggiungibile in meno di 30 minuti) sia alla zona familiare di Sabbioni. Il principale scostamento rispetto alle sue preferenze riguarda la tipologia: si tratta di un appartamento mansardato, mentre lei preferisce una villetta indipendente o bifamiliare. Non sono specificati spazi esterni come balconi o giardinetti, anche se alcune soluzioni mansardate possono offrire terrazzi. La zona 'Ospedale - Stadio' è probabilmente ben servita ma potrebbe non essere 'non caotica' come desiderato, data la natura delle strutture presenti.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "L'immobile ha già subito un importante ribasso del 11%, passando da 135.000 € a 120.000 €. Data la competitività del prezzo attuale e l'inclusione del box auto, un ulteriore ribasso significativo potrebbe essere difficile da ottenere. Si potrebbe comunque tentare una piccola trattativa per un arrotondamento del prezzo finale, magari sfruttando la differenza di tipologia rispetto alle sue preferenze ideali.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-30"
+        },
+        {
+            "title": "Appartamento all'asta vicolo Casirani 2, Offanengo",
+            "price": "90.740 € (base d'asta)",
+            "prezzo_numerico": 90740,
+            "location": "Offanengo",
+            "description": "Appartamento all'asta di 111 m², composto da 4 locali e 1 bagno. Prezzo di partenza da € 90.740.",
+            "link": "https://clicks.immobiliare.it/f/a/oBoCSzCgDwXyRacCxtcuMQ~~/AAAHahA~/hfgWjY-0QczGh1_FlRkmAVEkNYFxVfoVaokArae398FNODuCCiKHsdO2CkvEjpNnRJ2c07ozkLjjAmdERAt-_avRESKbCMi8ycDkf8dku7VWhwVKr01n1kBoR9VzteMN383MVeVdy3Sc2Br1cOAFA~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio riguarda un appartamento all'asta situato a Offanengo. Il prezzo di partenza di 90.740 € è estremamente vantaggioso e rientra ampiamente sia nel budget massimo (150.000 €) che ideale (125.000 €) del cliente. La metratura di 111 m² è leggermente superiore al range massimo desiderato (105 m²), ma potrebbe essere considerata accettabile. La posizione a Offanengo è ottima, garantendo vicinanza sia a Crema (e quindi Sabbioni, per la famiglia) che a Trescore Cremasco (per il lavoro, entro i 30 minuti di auto). Tuttavia, il punto critico è la tipologia: il cliente cerca una villetta indipendente o bifamiliare, mentre questo è un appartamento e, per di più, proposto in asta. Non sono specificate informazioni riguardo la presenza di un balcone, un giardinetto o un box auto, tutti elementi esplicitamente richiesti dal cliente. Essendo un'asta, non c'è margine di trattativa sul prezzo di partenza, e il prezzo finale potrebbe salire.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Trattandosi di un immobile all'asta, non è possibile negoziare il prezzo di partenza. La strategia consiste nel definire un budget massimo per l'asta e valutare attentamente se l'immobile, pur con i suoi punti di forza (prezzo iniziale, posizione), soddisfa comunque le esigenze primarie del cliente, soprattutto in relazione alla tipologia (appartamento vs villetta) e all'assenza di informazioni su spazi esterni e box auto. Si consiglia cautela nel partecipare se le preferenze sulla tipologia sono stringenti.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-10-30"
+        },
         {
             "title": "Trilocale con box e cantina in Via Giovanni Pascoli, Spino d'Adda",
             "price": "139.000 €",
