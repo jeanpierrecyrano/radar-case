@@ -1,6 +1,36 @@
 {
-    "last_update": "01/11/2026 11:44",
+    "last_update": "02/11/2026 13:16",
     "houses": [
+        {
+            "title": "Appartamento all'asta a Crema (Pagliari, Ombriano, Sabbioni, San Carlo)",
+            "price": "Da 79.650 €",
+            "prezzo_numerico": 79650,
+            "location": "Crema (zone Ombriano, Sabbioni, Pagliari, San Carlo)",
+            "description": "Appartamento all'asta di 105 m² con 4 locali e 2 bagni, situato a Crema. Prezzo di partenza d'asta.",
+            "link": "https://clicks.immobiliare.it/f/a/ofsGsAte4ScMhFA_3hymYw~~/AAAHahA~/5VnKXmFPRf3X9dC-PFXsnGJr2gRTfMVik-qvdwdrZDHb3mr-U1_DEIh5fzkM24ZcyT6HShKJhVEovzNJbTiTSKtMvMgA6iS1eYBNzv4RdYzThNl4-Lv6UEyWWlBAl28iPak-HOyDtpEIWzn8EX5p4g~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "L'annuncio propone un appartamento all'asta, una tipologia diversa dalla preferenza del cliente (villetta indipendente o bifamiliare), ma rientra nella categoria di ricerca salvata. Punti di forza sono la metratura (105 m²) che soddisfa perfettamente le esigenze e la localizzazione nella zona di Sabbioni a Crema, ideale per la famiglia. Il prezzo di partenza è estremamente vantaggioso e ben al di sotto del budget ideale. Tuttavia, mancano dettagli fondamentali sugli spazi esterni (balcone/giardinetto) e sulla presenza di un box auto, elementi importanti per il cliente. La natura di asta richiede attenzione e competenze specifiche per la valutazione dei costi accessori e delle procedure.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Trattandosi di un'asta, non è possibile un ribasso diretto sul prezzo di partenza. Si consiglia di approfondire attentamente le condizioni dell'asta, i costi totali (inclusi oneri accessori e spese legali), la tempistica e di stabilire un tetto massimo di offerta in linea con il budget del cliente. È fondamentale verificare la documentazione e lo stato di conservazione dell'immobile prima di partecipare.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-02"
+        },
+        {
+            "title": "Bilocale Ristrutturato con Box a Montodine",
+            "price": "115.000 €",
+            "prezzo_numerico": 115000,
+            "location": "Montodine",
+            "description": "Nel cuore di Montodine, proponiamo un bilocale di 116 mq, di nuova costruzione, completato e ristrutturato nel 2023. L'immobile, situato al 2º piano senza ascensore, offre modernità e comfort e include un box auto.",
+            "link": "https://www.idealista.it/immobile/37338442/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-11-02T120750&utm_link=propertyNewLink",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo bilocale a Montodine si presenta con un ottimo prezzo, ben al di sotto del budget ideale del cliente di 125.000 € e include un box auto, un requisito fondamentale. La posizione è strategicamente valida, essendo a circa 15-20 minuti d'auto sia da Trescore Cremasco (zona lavoro) che da Crema/Sabbioni (zona famiglia). Il bilocale è di nuova costruzione e ristrutturato nel 2023, promettendo modernità. Tuttavia, la tipologia 'bilocale' (appartamento) non rispecchia la preferenza del cliente per una 'villetta indipendente o bifamiliare'. La metratura di 116 mq è leggermente superiore alla massima desiderata (105 mq) e non viene specificato se ci sia un balcone, mentre il giardinetto è assente. L'immobile è al 2° piano senza ascensore, fattore da considerare.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Il prezzo è già molto competitivo e al di sotto del budget ideale del cliente. Considerando l'ottimo stato dell'immobile (nuova costruzione/ristrutturato 2023) e l'inclusione del box, un ampio margine di ribasso è improbabile. Si potrebbe tentare una leggera trattativa, magari enfatizzando l'assenza di ascensore, ma non è una priorità data l'attrattività del prezzo iniziale.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-02"
+        },
         {
             "title": "Trilocale con Box a Castel Gabbiano, in Via Cascina Secchi, 1",
             "price": "130.000 €",
