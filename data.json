@@ -1,6 +1,36 @@
 {
-    "last_update": "04/11/2026 12:58",
+    "last_update": "05/11/2026 13:07",
     "houses": [
+        {
+            "title": "VILLA BIFAMILIARE INDIPENDENTE IMPERDIBILE CON AMPIO GIARDINO E BOX DA 50 MQ!",
+            "price": "138.000 €",
+            "prezzo_numerico": 138000,
+            "location": "Palazzo Pignano",
+            "description": "Trilocale di 95 m² situato al primo piano di una villa bifamiliare, senza ascensore, in Piazza Roma a Palazzo Pignano. L'immobile include un box auto di 50 m² e la proprietà vanta un ampio giardino.",
+            "link": "https://www.idealista.it/immobile/37370366/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio si riferisce a un trilocale situato in una villa bifamiliare a Palazzo Pignano e presenta diverse caratteristiche molto interessanti rispetto ai suoi criteri. La metratura di 95 m² è in linea perfetta con le sue preferenze (90-105 m²), così come la tipologia (unità in bifamiliare) e la presenza di un box auto di ben 50 m², ampiamente superiore alla richiesta. La posizione a Palazzo Pignano è ideale, garantendo un rapido accesso sia a Trescore Cremasco per il lavoro che a Sabbioni, Crema per la famiglia, rimanendo ben al di sotto dei 30 minuti in auto. Il quartiere, essendo Piazza Roma, è presumibilmente ben servito ma Palazzo Pignano offre un'atmosfera meno caotica di Crema centro. Il prezzo di 138.000 € è all'interno del suo budget massimo, pur superando leggermente quello ideale. L'unico aspetto da approfondire è l'indicazione di '1º piano senza ascensore': sebbene sia una soluzione indipendente in una bifamiliare, l'unità non è al piano terra, quindi l'accesso all''ampio giardino' menzionato potrebbe non essere diretto e privato, o potrebbe trattarsi di un giardino condominiale. Questo è un punto da chiarire con il venditore.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Il prezzo di 138.000 € è già competitivo per le caratteristiche e la zona. Tuttavia, essendo leggermente al di sopra del suo budget ideale (125.000 €) e considerando la specificità del primo piano senza ascensore in una bifamiliare, potrebbe esserci un piccolo margine di trattativa. Suggerirei di esplorare un'offerta iniziale tra i 130.000 € e i 135.000 € dopo aver verificato i dettagli sul giardino e l'accessibilità.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-05"
+        },
+        {
+            "title": "Trilocale a Santa Maria della Croce - Santo Stefano in Variano, Crema",
+            "price": "135.000 €",
+            "prezzo_numerico": 135000,
+            "location": "Santa Maria della Croce - Santo Stefano in Variano, Crema (CR)",
+            "description": "Luminoso appartamento trilocale di 100 m² situato al primo piano senza ascensore. Offerto in vendita da Zeta Case Agenzia Immobiliare.",
+            "link": "https://www.idealista.it/immobile/37371031/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-11-04T162447&utm_link=propertyNewLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=4dadc1da-2504-4c39-8d5e-3c7a3da01c1a",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo appartamento trilocale di 100 m² a Santa Maria della Croce, Crema, ha un prezzo interessante (135.000 €) e si trova in una zona ben posizionata rispetto alle tue esigenze (vicino a Sabbioni e comodo per Trescore Cremasco). La metratura è perfetta. Il punto dolente è la tipologia: si tratta di un appartamento e non di una villetta indipendente o bifamiliare come preferisci. Mancano inoltre dettagli su balcone/giardino e box auto, che sono importanti per te.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Data la preferenza per una villetta e la mancanza di informazioni su box auto e spazi esterni, si potrebbe proporre un'offerta leggermente inferiore, puntando a circa 125.000-130.000 €, per compensare la tipologia non ideale o l'eventuale assenza di box/balcone.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-05"
+        },
         {
             "title": "Trilocale con ingresso indipendente e veranda a Vaiano Cremasco",
             "price": "140.000 €",
