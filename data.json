@@ -1,6 +1,51 @@
 {
-    "last_update": "07/11/2026 11:41",
+    "last_update": "08/11/2026 11:48",
     "houses": [
+        {
+            "title": "Trilocale a Soncino con cantina e garage nel centro storico",
+            "price": "130.000 €",
+            "prezzo_numerico": 130000,
+            "location": "Soncino",
+            "description": "Grande trilocale di 100 m² al 2° piano senza ascensore, situato nel centro storico di Soncino, in una zona comoda e riservata. L'appartamento include autorimessa (box) e cantina.",
+            "link": "https://www.idealista.it/immobile/37406313/?utm_medium=email&utm_campaign=express_newAd_sale_professional&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-11-07T124740&utm_link=propertyNewLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&utm_notification_id=809a38ea-daa5-47fc-ada3-6baeee1b34de",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un trilocale a Soncino che rientra nel budget massimo e nella metratura richiesta dal cliente, e include un box auto. La posizione a Soncino è compatibile con i tempi di percorrenza massimi verso Trescore Cremasco e Crema (circa 20-25 minuti). Tuttavia, la preferenza primaria del cliente è per una 'villetta indipendente o bifamiliare', mentre questo è un appartamento. Inoltre, è situato al 2° piano senza ascensore e non vi è menzione di spazi esterni come balcone o giardinetto. Il prezzo è leggermente superiore al budget ideale.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Data la tipologia di immobile (appartamento anziché villetta) e la presenza di un 2° piano senza ascensore, oltre al prezzo leggermente superiore al budget ideale del cliente, suggerirei di tentare una trattativa per un ribasso di circa 5.000 - 10.000 €.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-08"
+        },
+        {
+            "title": "Trilocale con Box a Offanengo, Via San Francesco D'Assisi s.n.c",
+            "price": "150.000 €",
+            "prezzo_numerico": 150000,
+            "location": "Offanengo",
+            "description": "Appartamento trilocale di 93 m² con 3 camere da letto e box auto incluso, situato al primo piano senza ascensore. L'immobile, descritto come un 'interessante e bell'appartamento' in contesto centrale, ha subito un recente ribasso del 6% sul prezzo originale.",
+            "link": "https://www.idealista.it/immobile/36839345/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio si colloca al limite del suo budget massimo, ma presenta diversi punti di forza. La metratura di 93 m² è perfettamente in linea con le sue richieste e l'inclusione del box auto soddisfa un requisito fondamentale. La posizione a Offanengo è eccellente per la vicinanza sia a Trescore Cremasco (lavoro) che a Sabbioni, Crema (famiglia), garantendo tempi di percorrenza ridotti. Il recente ribasso del 6% indica una potenziale apertura alla trattativa. Il punto dolente è la tipologia: si tratta di un appartamento e non della 'villetta indipendente o bifamiliare' preferita. Inoltre, essendo al primo piano senza ascensore e senza espliciti riferimenti a balconi o giardinetti, potrebbe non soddisfare pienamente le sue aspettative per gli spazi esterni.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Data la recente riduzione del prezzo del 6%, c'è un buon margine per negoziare ulteriormente. Potrebbe valutare un'offerta leggermente inferiore ai 150.000 € (es. 140.000 € - 145.000 €), giustificando la richiesta con il fatto che non è la tipologia di immobile preferita (villetta) e l'assenza di spazi esterni dedicati. L'essere pronti a chiudere rapidamente potrebbe giocare a suo favore.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-08"
+        },
+        {
+            "title": "Appartamento all'asta a Crespiatica, Via Giovanni Pascoli 1B",
+            "price": "Da € 54.750",
+            "prezzo_numerico": 54750,
+            "location": "Crespiatica Centro",
+            "description": "Appartamento all'asta di 85 m² con 3 locali e 1 bagno, situato in Via Giovanni Pascoli 1B, Crespiatica. Prezzo di partenza molto interessante.",
+            "link": "https://clicks.immobiliare.it/f/a/vgDZ38YKcie-vg7SyQqxWg~~/AAAHahA~/CFuUEqsTM9WcaXOtuB43jfPgiECjD6WsgAKk9LwiMk7MDn_l143ji5bZAprvYcn0vDgS9mA5jFkvwSLhyiKEk-WOC19YJGdeW768i5K8rtaa_w5W2gYCmP7VNENtrTVrod0Up7uM4V-m10MmmsHHLg~~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento all'asta, che si discosta notevolmente dalla sua tipologia preferita (villetta indipendente o bifamiliare). La metratura di 85 m² è anche leggermente inferiore al minimo richiesto (90 m²). Tuttavia, la posizione a Crespiatica è geograficamente valida, rientrando nei 30 minuti di auto da Trescore Cremasco e Crema. Il prezzo di partenza è estremamente vantaggioso e ben al di sotto del suo budget massimo, offrendo un notevole margine. Mancano informazioni specifiche su balconi, giardinetto o box auto.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Trattandosi di un'asta, la strategia è quella di valutare attentamente il potenziale dell'immobile e stabilire un'offerta massima, considerando che non è la tipologia preferita. Il prezzo di partenza molto basso consente di partecipare con un budget limitato e di avere un'ottima base per eventuali trattative o offerte al rialzo, qualora decidesse di scendere a compromessi sulla tipologia.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-08"
+        },
         {
             "title": "Casa indipendente all'asta a Palazzo Pignano",
             "price": "Da 23.000 €",
