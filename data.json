@@ -1,6 +1,21 @@
 {
-    "last_update": "08/11/2026 11:48",
+    "last_update": "09/11/2026 13:41",
     "houses": [
+        {
+            "title": "Appartamento all'asta 4 locali a Crema (zona Pagliari)",
+            "price": "Da 80.251 €",
+            "prezzo_numerico": 80251,
+            "location": "Crema, Pagliari (Sabbioni)",
+            "description": "Appartamento all'asta di 105 m² con 4 locali e 2 bagni. Situato nella zona di Pagliari a Crema, con riferimento alle aree di Ombriano, Sabbioni e San Carlo.",
+            "link": "https://clicks.immobiliare.it/f/a/hQOTqqbpOfDwpvSUU6NBGQ~~/AAAHahA~/nlJg3zzlB29x3pI7I6sugcsaTy4wF0xixbK69h-O-MX5D3SFsLjNqXU3-Q2WXeWnDKOxCNdowBOanwX7EWoUT87iOpIVJ7jNptK4RAhNJ4OxY5cbOfeU-m5R4X9A0u9ZkknMWARSOpKO9lP_f-sM_rJwg7WFUvsmVzXmIReDLtI~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo appartamento, sebbene sia proposto all'asta e si discosti dalla tua preferenza per una villetta, presenta punti di forza notevoli. La metratura di 105 m² è un match perfetto per il tuo requisito massimo, e la sua ubicazione a Crema (Pagliari, con Sabbioni tra le zone di riferimento) è ideale per la tua famiglia e a una distanza ragionevole da Trescore Cremasco. Il prezzo di partenza è estremamente competitivo e ben al di sotto del tuo budget ideale, offrendo un'opportunità economica se sei disposto a considerare la tipologia dell'appartamento e le complessità di un'asta.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 7,
+            "consiglio_ribasso": "Trattandosi di un'asta, non si può negoziare il prezzo di partenza. È fondamentale informarsi sui tempi e le modalità dell'asta, sul valore di mercato dell'immobile in zona e stabilire una soglia massima d'offerta che rispetti il tuo budget e la tua tolleranza al rischio. Considera che il prezzo finale potrebbe aumentare, ma anche che l'investimento iniziale potrebbe essere molto vantaggioso. Ti consiglio di approfondire la possibilità di ottenere un mutuo per l'asta, se necessario.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-09"
+        },
         {
             "title": "Trilocale a Soncino con cantina e garage nel centro storico",
             "price": "130.000 €",
