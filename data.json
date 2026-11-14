@@ -1,6 +1,21 @@
 {
-    "last_update": "13/11/2026 12:57",
+    "last_update": "14/11/2026 11:59",
     "houses": [
+        {
+            "title": "Trilocale a Crespiatica Centro",
+            "price": "135.000 €",
+            "prezzo_numerico": 135000,
+            "location": "Crespiatica",
+            "description": "Trilocale di 85 m² situato in zona Centro a Crespiatica, con 3 locali e 2 bagni.",
+            "link": "https://clicks.immobiliare.it/f/a/HfYIIyPjlVTxMsFZ_lFN6Q~~/AAAHahA~/GVPzw7S7AjDfjV6Dj1g8qX58MIyY7LyAXP0aKgODoe-mE5qhmRtD89leXWrXprtbqqraSP-_bh_rR06MtYwSUEw-pp-fVIla3JDKnwIusMnaF95GWQdVPsecKtNgtoms",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un trilocale a Crespiatica, con una metratura di 85 m² e un prezzo di 135.000 €. Sebbene la posizione a Crespiatica sia favorevole per raggiungere sia Trescore Cremasco (lavoro) che Crema/Sabbioni (famiglia) in meno di 30 minuti, e il prezzo rientri nel budget massimo, la tipologia (appartamento vs. villetta indipendente/bifamiliare) e la metratura (85 m² vs. min 90 m²) rappresentano dei chiari scostamenti dalle tue preferenze. Non sono disponibili informazioni riguardo a spazi esterni come balcone o giardinetto, né alla presenza di un box auto, che sono per te requisiti importanti.",
+            "valutazione_prezzo": 6,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Data la discordanza con le preferenze di metratura e tipologia, se fossi comunque interessato all'immobile, ci sarebbe un ampio margine per una proposta al ribasso. Potrebbe essere opportuno mirare a un prezzo più vicino al tuo budget ideale, magari tra i 120.000 e i 125.000 €.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-14"
+        },
         {
             "title": "Appartamento all'asta a Crespiatica - 3 locali",
             "price": "Da € 54.750",
