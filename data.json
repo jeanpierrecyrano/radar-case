@@ -1,6 +1,21 @@
 {
-    "last_update": "14/11/2026 11:59",
+    "last_update": "15/11/2026 12:34",
     "houses": [
+        {
+            "title": "Appartamento all'asta a Crema (Pagliari, Sabbioni)",
+            "price": "Da 66.976 €",
+            "prezzo_numerico": 66976,
+            "location": "Crema (Pagliari, Ombriano, Sabbioni, San Carlo)",
+            "description": "Appartamento all'asta di 88 m² con 3 locali e 2 bagni, situato nelle zone di Pagliari, Ombriano, Sabbioni e San Carlo a Crema.",
+            "link": "https://clicks.immobiliare.it/f/a/GORqCIdVy5I1c0Gsr6PFtA~~/AAAHahA~/dYkeEDqpIdSxz9nji4Z3n_To6cH_uAX_5iU2-B-6MX23Z0zysYmFLsYOl1cR2GyW3CTp6PwDhS3leFUCffHSbWVTZNRJt65A3L3O8Z6hms9EZW4p3sXu63xSqlw4nvMW",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento all'asta situato in una zona eccellente e altamente ricercata dal cliente per la famiglia (Sabbioni, Crema), con una buona prossimità anche alla zona di lavoro. Il prezzo di partenza è estremamente vantaggioso e ben al di sotto del budget massimo e ideale. La metratura è molto vicina al requisito minimo. Tuttavia, il punto critico è la tipologia: si tratta di un appartamento all'asta, non una villetta indipendente o bifamiliare come desiderato. Non sono menzionati spazi esterni specifici (giardinetto) o la presenza di un box auto, che sono requisiti importanti. La natura di 'asta' implica un processo di acquisto diverso e potenzialmente più complesso rispetto a una compravendita tradizionale.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 5,
+            "consiglio_ribasso": "Trattandosi di un immobile all'asta, non è possibile negoziare un ribasso sul prezzo di partenza. Il consiglio è di valutare attentamente il valore reale dell'immobile e di definire un'offerta massima consapevole che tenga conto anche di eventuali lavori di ristrutturazione e dei costi accessori legati all'asta. È fondamentale un'analisi dettagliata tramite perizia.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-15"
+        },
         {
             "title": "Trilocale a Crespiatica Centro",
             "price": "135.000 €",
