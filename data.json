@@ -1,6 +1,36 @@
 {
-    "last_update": "15/11/2026 12:34",
+    "last_update": "16/11/2026 13:29",
     "houses": [
+        {
+            "title": "Appartamento all'asta a Crema (Sabbioni)",
+            "price": "Da € 48.375",
+            "prezzo_numerico": 48375,
+            "location": "Crema (Ombriano, Sabbioni, San Carlo)",
+            "description": "Appartamento all'asta situato in via Pagliari, Crema. L'immobile ha una superficie di 87 m², con 3 locali e 2 bagni. Il prezzo di partenza è molto competitivo.",
+            "link": "https://clicks.immobiliare.it/f/a/_ONElE9ki8ac2vzOjK2qtw~~/AAAHahA~/D4sf_YJqzvrEz1rVzzkLoiFx2vFS0fYbrJQ_XuKy18MrNCLbZCAuB5SRPZOPiHfErlMcYR5MeMzispNTwrxwXeZij2j6i0Sz5wFPIg-KIVoWYxf1rYyt8MlBF8qLO3Z2",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento all'asta, il che si discosta notevolmente dalla tipologia preferita dal cliente (villetta indipendente o bifamiliare). La metratura di 87 m² è leggermente al di sotto del minimo di 90 m² richiesto. Tuttavia, la posizione nella zona di Sabbioni, Crema, è un ottimo riscontro per la zona famiglia desiderata e la vicinanza a Trescore Cremasco è accettabile. Il prezzo di partenza è estremamente basso, rientrando ampiamente nel budget. Mancano informazioni essenziali riguardo a spazi esterni (balcone/giardino) e box auto, entrambi richiesti. L'essere un'asta implica una procedura d'acquisto differente e richiede un'attenta valutazione legale e tecnica prima di procedere.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Trattandosi di un'asta, non è possibile negoziare il prezzo di partenza. È fondamentale stabilire un limite massimo di offerta coerente con il proprio budget e con il valore effettivo dell'immobile, considerando eventuali costi aggiuntivi (spese d'asta, perizie, ecc.). È consigliabile approfondire lo stato dell'immobile tramite una visita e una consulenza legale specializzata in aste immobiliari.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-16"
+        },
+        {
+            "title": "Casa indipendente a Pandino, Frazione Nosadello",
+            "price": "155.000 €",
+            "prezzo_numerico": 155000,
+            "location": "Pandino, Frazione di Nosadello (CR)",
+            "description": "Scopri la tua nuova casa indipendente a Pandino nella Frazione di Nosadello (CR), un rifugio spazioso di 140 m² con 3 camere da letto. Ideale per chi cerca tranquillità e indipendenza in un contesto rurale.",
+            "link": "https://www.idealista.it/immobile/37043335/?utm_medium=email&utm_campaign=daily_suggestions_oneSearch&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-11-16T083023&utm_link=propertyRecommendedLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertSuggestionsOneSearch&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=d853f19e-59d8-4bb2-8c18-e98437eb7484",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa 'Casa indipendente' a Pandino è la migliore corrispondenza tra le proposte per la tipologia preferita ('Villetta indipendente o bifamiliare'). La posizione in Frazione Nosadello è vicina sia alla zona lavoro (Trescore Cremasco, circa 15-20 min) che alla zona famiglia (Crema/Sabbioni, circa 15-20 min), offrendo un contesto presumibilmente tranquillo. Tuttavia, presenta alcuni punti critici: il prezzo è leggermente sopra il budget massimo del cliente (155.000 € vs 150.000 €) e la metratura (140 m²) è significativamente superiore alla richiesta (90-105 m²). Non sono specificati la presenza di balcone/giardinetto o box auto, che sono requisiti importanti per il cliente.",
+            "valutazione_prezzo": 5,
+            "valutazione_match": 6,
+            "consiglio_ribasso": "Data la metratura superiore alla richiesta massima (140 m² contro 105 m²) e il prezzo leggermente al di sopra del budget massimo del cliente (155.000 € contro 150.000 €), si consiglia di formulare un'offerta di ribasso, puntando a circa 140.000 - 145.000 €. È fondamentale verificare la presenza di box auto e giardinetto, elementi non specificati ma richiesti, che potrebbero influenzare ulteriormente la trattativa.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-16"
+        },
         {
             "title": "Appartamento all'asta a Crema (Pagliari, Sabbioni)",
             "price": "Da 66.976 €",
