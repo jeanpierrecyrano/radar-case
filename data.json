@@ -1,6 +1,21 @@
 {
-    "last_update": "19/11/2026 14:19",
+    "last_update": "20/11/2026 13:56",
     "houses": [
+        {
+            "title": "Trilocale in buono stato a Chieve",
+            "price": "€ 130.000",
+            "prezzo_numerico": 130000,
+            "location": "Chieve",
+            "description": "Si propone un Trilocale in buono stato, situato al secondo piano nel comune di Chieve. L'immobile offre una superficie di 92 m², con 3 locali e 1 bagno.",
+            "link": "https://clicks.immobiliare.it/f/a/nIlJRiOlWYWM3veiCx1l5A~~/AAAHahA~/WZZpmjXyXOZWxCgPgPhGmLDa6e3iTwQLHDCew8e8Ew-S3dz8SQHgmsmD82aFAz87uTcLReuMjUbz2TkmP_LoV3G0n8jpHxdugS95Uo_crxiN_-Tzxf6GhUy27A9sU47UU97l6XSrnsVswnYeB5BzOns0rv2oy6fQ9zJRUC9P3LOgdDAZT1hNJMerz_P2vy3_FULlQrlb-iGoUv5flq5c-rOztVIIZ7iqFSPob7HQ3nj92Obcvqyv9qKsefHC7_qN",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio si riferisce a un Trilocale, che rappresenta una tipologia molto diversa dalla 'Villetta indipendente o bifamiliare' desiderata dal cliente. Sebbene la metratura (92 m²) rientri perfettamente nel range richiesto (90-105 m²) e il prezzo (€ 130.000) sia all'interno del budget massimo (€ 150.000), superando di poco il budget ideale (€ 125.000), ci sono forti discrepanze per quanto riguarda la tipologia e gli spazi esterni. Non viene menzionato un balcone o un giardinetto e non c'è riferimento a un box auto, tutti elementi esplicitamente richiesti dal cliente. La località di Chieve è comunque plausibile per le zone di interesse (Trescore Cremasco e Crema). Consiglio di valutare se la flessibilità sulla tipologia di immobile e l'assenza di spazi esterni e box auto siano accettabili.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Data la differenza rispetto alla tipologia di immobile preferita dal cliente e l'assenza di alcuni servizi richiesti (spazi esterni, box auto), si potrebbe tentare una trattativa per avvicinarsi al budget ideale di € 125.000, chiedendo un ribasso di circa € 5.000. Tuttavia, il punto chiave è se il cliente è disposto a considerare un appartamento invece di una villetta.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-20"
+        },
         {
             "title": "Trilocale in Via Giovanni Pascoli, Spino d'Adda",
             "price": "115.000 €",
