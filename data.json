@@ -1,6 +1,51 @@
 {
-    "last_update": "21/11/2026 13:22",
+    "last_update": "22/11/2026 13:09",
     "houses": [
+        {
+            "title": "Appartamento all'asta a Crema (Pagliari, Ombriano, Sabbioni, San Carlo)",
+            "price": "Da € 66.976",
+            "prezzo_numerico": 66976,
+            "location": "Crema (Pagliari, Ombriano, Sabbioni, San Carlo)",
+            "description": "Appartamento all'asta di 88 m², composto da 3 locali e 2 bagni. Situato nelle zone di Pagliari, Ombriano, Sabbioni e San Carlo a Crema.",
+            "link": "https://clicks.immobiliare.it/f/a/GPY7H0zNXjp4vHb-vH9QHw~~/AAAHahA~/WHbNUiVpwjw6sapD5zDH48I5HX0_-KfLEv5hxtIwVLxDFz6PaS6MpgpQ6SKx7WJKxXozUUYXHxXnV60C31fugCNo2pyqJBbWZMUK2Xamw8OW5Pq9KiLOymoggKNUW09F",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo appartamento in vendita all'asta si trova in una zona di Crema che include Sabbioni, di interesse per la famiglia del cliente. Tuttavia, la tipologia (appartamento) non rispecchia la preferenza per una villetta indipendente o bifamiliare e l'acquisto tramite asta comporta procedure e rischi specifici. La metratura di 88 m² è leggermente inferiore al minimo richiesto di 90 m². Non sono menzionati dettagli su spazi esterni (balcone, giardinetto) o box auto, che sono requisiti importanti per il cliente. Il prezzo di partenza è molto attraente e ben al di sotto del budget ideale, ma il prezzo finale sarà determinato dall'asta e potrebbero esserci costi aggiuntivi.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Trattandosi di una vendita all'asta, non è possibile negoziare un ribasso del prezzo di partenza. È fondamentale effettuare una due diligence approfondita, valutare attentamente i costi totali (inclusi oneri d'asta, spese legali, eventuali sanatorie) e definire un'offerta massima basata sul reale valore di mercato e sulle proprie disponibilità.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-22"
+        },
+        {
+            "title": "Appartamento all'asta a Pagliari, Crema",
+            "price": "Da € 79.650",
+            "prezzo_numerico": 79650,
+            "location": "Pagliari, Crema (Ombriano, Sabbioni, San Carlo)",
+            "description": "Appartamento all'asta di 105 m² con 4 locali e 2 bagni, situato a Pagliari, Crema, in prossimità delle zone di Ombriano, Sabbioni e San Carlo. Metratura in linea con le sue preferenze, ad un prezzo di partenza molto vantaggioso.",
+            "link": "https://clicks.immobiliare.it/f/a/HhreUGAKM1joAgO0Ns5LJw~~/AAAHahA~/l5UKBfpkm0ahVIZwDrvK5_8OQRH1ERLgnUAFk-Yfe8omMW4gBHppEEvbkvZOaj2kn3I6DmW3gYZamIZjKbCCgFKNu-1rFDd15qSTS6tyPLPkjdIWqN3cby8ylts2VuEsZy-pRTkZr2FBFqXWJvlRK0qh-hMoheFpZBrlHDP_1Q03CcC4PHQOS6unFWzB7SJ_uEdnhfum3XSqxtmnBZXkSLRB8fAiTzvQv6NVBmKnINuDwnCtz-RBvhpiV5BNOoUZ",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento all'asta con un prezzo di partenza estremamente competitivo, ben al di sotto del suo budget ideale e massimo. La metratura di 105 m² è perfettamente in linea con le sue preferenze e la zona (Sabbioni, Crema) è un punto d'interesse per la famiglia, compatibile anche con il tempo di percorrenza verso Trescore Cremasco. Tuttavia, la tipologia 'appartamento' non corrisponde alla sua preferenza per una 'villetta indipendente o bifamiliare'. Inoltre, trattandosi di un'asta, il prezzo finale non è garantito e la procedura di acquisto è più complessa. Mancano dettagli su balcone/giardino e box auto, che sono requisiti importanti. Sebbene il prezzo sia allettante, la tipologia e le incertezze dell'asta lo rendono un match parziale, ma potrebbe essere un'opportunità da valutare per il prezzo.",
+            "valutazione_prezzo": 8,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Non è possibile negoziare il prezzo di partenza in un'asta. È fondamentale stabilire un limite massimo di offerta e attenersi ad esso. Si consiglia di approfondire i dettagli dell'immobile e della procedura d'asta prima di procedere, considerando anche i costi aggiuntivi e le tempistiche.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-22"
+        },
+        {
+            "title": "Villa in Via G. Rossini, 4, Rivolta d'Adda",
+            "price": "159.000 €",
+            "prezzo_numerico": 159000,
+            "location": "Rivolta d'Adda",
+            "description": "Proponiamo in vendita una villa di 91 mq con 2 camere da letto, situata in una tranquilla zona residenziale di prevalenza ville a Rivolta d'Adda.",
+            "link": "https://www.idealista.it/immobile/33856196/?utm_medium=email&utm_campaign=daily_suggestions_oneSearch&utm_campaigntype=retention&utm_project=adNotification&utm_source=alerts-id&utm_date_send=2026-11-22T083805&utm_link=propertyRecommendedLink&utm_recipient_id=JmB2Wu6bBiF9X7l0g05W+HMrgI0LiGlUVWRCUKqs26I=&origin=alertSuggestionsOneSearch&savedSearchAlertId=66614034&genericSearch=false&utm_notification_id=a9b35823-16c9-44d0-8e9f-48c13b8f76a0",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa villa rappresenta il miglior match tra gli annunci proposti e i suoi parametri di ricerca. La tipologia 'villa' si allinea perfettamente con la preferenza per 'villetta indipendente o bifamiliare'. La metratura di 91 mq rientra idealmente nel suo range desiderato (90-105 mq). La descrizione del quartiere come 'tranquilla zona residenziale di prevalenza ville' è in linea con il 'vibe non caotico ma ben servito'.\nIl prezzo di 159.000 € supera di poco il suo budget massimo di 150.000 €, rendendolo un buon punto di partenza per una trattativa. La località di Rivolta d'Adda è raggiungibile da Trescore Cremasco in circa 20-25 minuti e da Sabbioni/Crema in 25-30 minuti, rientrando nei tempi massimi indicati. Mancano dettagli specifici su balcone e box auto, ma per una villa sono caratteristiche probabili e verificabili in fase di visita. Merita sicuramente un approfondimento.",
+            "valutazione_prezzo": 7,
+            "valutazione_match": 8,
+            "consiglio_ribasso": "Data l'ottima corrispondenza con le sue preferenze e il fatto che il prezzo sia solo leggermente sopra il budget massimo, le consiglio di avviare una trattativa offrendo una cifra vicina ai 150.000 €, magari motivandola con una disponibilità a concludere rapidamente. Potrebbe anche richiedere informazioni più dettagliate sulla presenza di box auto o spazi esterni specifici durante la visita, per rafforzare la sua offerta.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-22"
+        },
         {
             "title": "Trilocale in via Montello, Crema (quartieri Santa Maria, San Bernardino, Castelnuovo)",
             "price": "129.000 €",
