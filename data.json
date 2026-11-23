@@ -1,6 +1,51 @@
 {
-    "last_update": "22/11/2026 13:09",
+    "last_update": "23/11/2026 15:46",
     "houses": [
+        {
+            "title": "Appartamento all'asta - Via Giovanni Pascoli, 1B, Crespiatica Centro",
+            "price": "Da € 54.750",
+            "prezzo_numerico": 54750,
+            "location": "Crespiatica",
+            "description": "Appartamento all'asta di 80 m² con 2 locali e 1 bagno, situato in zona Centro a Crespiatica.",
+            "link": "https://clicks.immobiliare.it/f/a/yXqe1fNvnL4TfeyqezdFXw~~/AAAHahA~/TF17RGWKi2GNbuBBJB3PYi1-1HkFKQU51Ld5K4gmMDJAMy1VIdzKyyHZehwK44SfpwrPurPhKBOjMGfm_dRCOte8PJJobYqC7_uqaYUjZmQlFTdi1hfWwGGCtna5LwsKbadGsTj0EpOnlNYDlzuQHN9OEoX7DHW3--Wm82pGIqY~",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo annuncio presenta un appartamento all'asta, una tipologia ben diversa dalla \"villetta indipendente o bifamiliare\" richiesta dal cliente. La metratura di 80 m² è inferiore al range desiderato (90-105 m²). Sebbene il prezzo di partenza sia estremamente basso e la zona di Crespiatica sia ben posizionata rispetto a Crema e compatibile con il tempo di percorrenza verso Trescore Cremasco, mancano informazioni su spazi esterni (balcone/giardinetto) e box auto, che sono requisiti fondamentali per il cliente. L'acquisto all'asta aggiunge un fattore di incertezza sul prezzo finale. Data la discrepanza sulla tipologia principale e la metratura, lo considero un match debole, nonostante il potenziale prezzo molto conveniente.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 3,
+            "consiglio_ribasso": "Essendo un immobile all'asta, non è possibile effettuare una trattativa o un ribasso sul prezzo di partenza. Il prezzo finale sarà determinato dalle offerte ricevute durante l'incanto.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-23"
+        },
+        {
+            "title": "Appartamento all'asta a Crema (Pagliari, Ombriano, Sabbioni)",
+            "price": "78.601 € (Base d'asta)",
+            "prezzo_numerico": 78601,
+            "location": "Crema (Pagliari, Ombriano, Sabbioni, San Carlo)",
+            "description": "Appartamento all'asta di 102 m² con 4 locali e 2 bagni, situato in una zona desiderata per la famiglia.",
+            "link": "https://clicks.immobiliare.it/f/a/gTR-YuJcEYBF9ZFaZj23AQ~~/AAAHahA~/JfivEcpiV1IDNcEs8nLTTCJLRLe3ZfjHgV5MgLsw6LGVUB_EfUFTnhv26LH9Pk72WmHseQ5guPieKw9WCB2lln6R0HndguzKXh_yARtjWBo8PVfR-BmCCBBFI0QFV1AviSj3fkmeDjZVItspLUFqSe783Z0qJpX-tN2rK2mgNH_R5zzGU_4QqXCsRchWlFcl3pmIWsG8sTNZJQh1NGvMesy-INAMBu6fddGo7zbnliOhegK9Q5IcHKxtmcNdhq1W",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questo appartamento all'asta a Crema si trova in una zona che corrisponde ai parametri di ricerca per la famiglia (Sabbioni), e la metratura (102 m²) è perfettamente in linea con le richieste (90-105 m²). Il prezzo di partenza di 78.601 € è estremamente vantaggioso e ben al di sotto del budget ideale di 125.000 €. Tuttavia, la tipologia (appartamento) non rispecchia la preferenza per una villetta indipendente o bifamiliare, il che rappresenta un mismatch significativo. Inoltre, mancano informazioni cruciali riguardo la presenza di balcone/giardinetto e box auto, che sono requisiti importanti. Trattandosi di un'asta, offre un'opportunità di acquisto a un prezzo competitivo ma richiede un'attenta valutazione delle condizioni dell'immobile e delle procedure legali.",
+            "valutazione_prezzo": 9,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Essendo un immobile all'asta, non è possibile negoziare il prezzo di partenza. È fondamentale procedere con un'accurata due diligence, inclusa una visita dettagliata e la consultazione della perizia, per valutare lo stato dell'immobile e i costi accessori (eventuali spese condominiali arretrate, costi di ristrutturazione, ecc.) prima di partecipare all'asta.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-23"
+        },
+        {
+            "title": "Casa indipendente a Ticengo",
+            "price": "60.000 €",
+            "prezzo_numerico": 60000,
+            "location": "Ticengo",
+            "description": "In zona tranquilla e residenziale di Ticengo, proponiamo casa a schiera ristrutturata con 2 camere da letto e 70 m².",
+            "link": "https://www.idealista.it/immobile/17275762/",
+            "image_url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600&q=80",
+            "commento_ai": "Questa proprietà a Ticengo si presenta con un prezzo estremamente vantaggioso (60.000 €), ben al di sotto sia del budget massimo che di quello ideale del cliente. La posizione è interessante per raggiungere sia la zona di lavoro (Trescore Cremasco, entro 30 minuti in auto) che quella familiare (Crema), in un'area descritta come tranquilla e residenziale, che ben si adatta al desiderio di un quartiere non caotico. Tuttavia, ci sono criticità significative: la metratura di 70 m² è nettamente inferiore alla richiesta minima di 90 m² e la tipologia 'casa a schiera' non corrisponde alla preferenza per 'villetta indipendente o bifamiliare'. Non ci sono informazioni immediate su spazi esterni (balcone/giardinetto) o box auto, che sono requisiti per il cliente. Sebbene il prezzo sia eccezionale, i compromessi su metratura e tipologia sono rilevanti e potrebbero non soddisfare le esigenze primarie del cliente.",
+            "valutazione_prezzo": 10,
+            "valutazione_match": 4,
+            "consiglio_ribasso": "Dato il prezzo già molto contenuto e competitivo per la zona, stimare un ribasso significativo potrebbe essere difficile. L'immobile è già un'opportunità a questo costo. Qualsiasi trattativa sarebbe probabilmente limitata a una cifra simbolica, a meno che non emergano difetti strutturali o impiantistici non visibili dall'annuncio.",
+            "is_ai_render": true,
+            "data_inserimento": "2026-11-23"
+        },
         {
             "title": "Appartamento all'asta a Crema (Pagliari, Ombriano, Sabbioni, San Carlo)",
             "price": "Da € 66.976",
